@@ -1,0 +1,2001 @@
+positie,titel,artiest,jaar,genres,supergenre
+1,Bohemian Rhapsody,Queen,1975,"classic rock, rock, hard rock, glam rock, 80s",rock
+2,Roller Coaster,Danny Vera,2019,"americana, rock, singer-songwriter, country, dutch",country
+3,A Whiter Shade Of Pale,Procol Harum,1967,"progressive rock, blues, progre…, classic rock, 60s, rock, psychedelic",rock
+4,Hotel California,Eagles,1977,"rock, classic rock, 70s, soft rock, country",rock
+5,Piano Man,Billy Joel,1974,"classic rock, singer-songwriter, rock, pop, piano",rock
+6,Radar Love,Golden Earring,1973,"classic rock, rock, hard rock, dutch, 70s",rock
+7,Stairway To Heaven,Led Zeppelin,1971,"classic rock, hard rock, rock, 70s, progressive rock",rock
+8,Nothing Else Matters,Metallica,1992,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+9,Black,Pearl Jam,1992,"rock, grunge, alternative rock, 90s, alternative",rock
+10,Avond,Boudewijn de Groot,1997,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+11,Fix You,Coldplay,2005,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+12,Love Of My Life,Queen,1975,"classic rock, rock, hard rock, glam rock, 80s",rock
+13,Wish You Were Here,Pink Floyd,1975,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+14,Soldier On,Di-rect,2020,"alternative rock, rock, pop rock, dutch, pop, male vocalists",rock
+15,Child In Time,Deep Purple,1970,"hard rock, heavy metal, progressive, classic rock, rock, progressive rock",rock
+16,The River,Bruce Springsteen,1981,"rock, classic rock, singer-songwriter, folk, 80s",rock
+17,November Rain,Guns N' Roses,1992,"hard rock, rock, classic rock, 80s, guns n roses",rock
+18,Brothers In Arms,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+19,The Sound Of Silence,Disturbed,2016,"nu metal, metal, hard rock, alternative, rock",rock
+20,Door De Wind,Miss Montreal,2020,"dutch, pop, female vocalists, rock, acoustic",nederlandstalig
+21,Purple Rain,Prince & The Revolution,1984,"funk, pop, rock, 80s, soul",soul
+22,Comfortably Numb,Pink Floyd,1979,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+23,Africa,Toto,1982,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+24,Heroes,David Bowie,1976,"rock, glam rock, classic rock, 80s, 70s",rock
+25,Sultans Of Swing,Dire Straits,1978,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+26,One,Metallica,1994,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+27,Oceaan,Racoon,2012,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+28,The Sound Of Silence,Simon & Garfunkel,1966,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+29,Shine On You Crazy Diamond (Pts. 1-5),Pink Floyd,1975,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+30,Smells Like Teen Spirit,Nirvana,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+31,Thunderstruck,AC/DC,1990,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+32,Just Breathe,Pearl Jam,2009,"rock, grunge, alternative rock, 90s, alternative",rock
+33,Sweet Child O' Mine,Guns N' Roses,1987,"hard rock, rock, classic rock, 80s, guns n roses",rock
+34,Imagine,John Lennon,1971,"classic rock, rock, singer-songwriter, british, pop",rock
+35,Paradise By The Dashboard Light,Meat Loaf,1978,"rock, classic rock, hard rock, rock opera, 80s",rock
+36,Telegraph Road,Dire Straits,1982,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+37,In The Air Tonight,Phil Collins,1981,"rock, pop, 80s, classic rock, soft rock",rock
+38,Shallow,Lady Gaga & Bradley Cooper,2018,"soundtrack, pop, lady gaga, rock, country",pop
+39,Over De Muur,Klein Orkest,1984,"dutch, nederlandstalig, nederpop, pop, nederlands",nederlandstalig
+40,A Forest,The Cure,1980,"new wave, post-punk, 80s, alternative, rock",rock
+41,Hurt,Johnny Cash,2002,"country, folk, singer-songwriter, classic rock, christmas",country
+42,Innuendo,Queen,1991,"classic rock, rock, hard rock, glam rock, 80s",rock
+43,Viva La Vida,Coldplay,2008,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+44,Dancing Queen,ABBA,1976,"pop, disco, 70s, swedish, abba",pop
+45,Go Your Own Way,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+46,In The End,Linkin Park,2000,"rock, nu metal, alternative rock, alternative, linkin park",rock
+47,School,Supertramp,1974,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+48,Killing In The Name,Rage Against The Machine,1992,"rock, alternative rock, alternative, political, rapcore",rock
+49,Cold Little Heart,Michael Kiwanuka,2016,"soul, blues, singer-songwriter, jazz, folk",soul
+50,Paint It Black,The Rolling Stones,1966,"classic rock, rock, 60s, british, blues",rock
+51,Enter Sandman,Metallica,1991,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+52,Papa,Stef Bos,1991,"nederlandstalig, singer-songwriter, dutch, kleinkunst, pop",nederlandstalig
+53,When The Lady Smiles,Golden Earring,1984,"classic rock, rock, hard rock, dutch, 70s",rock
+54,Het Dorp,Wim Sonneveld,1974,"dutch, cabaret, male vocalists, singer-songwriter, kleinkunst",nederlandstalig
+55,Bridge Over Troubled Water,Simon & Garfunkel,1970,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+56,Back To Black,Amy Winehouse,2007,"soul, rhythm and blues, jazz, female vocalists, british, amy winehouse",soul
+57,Don't Stop Me Now,Queen,1979,"classic rock, rock, hard rock, glam rock, 80s",rock
+58,Alive,Pearl Jam,1992,"rock, grunge, alternative rock, 90s, alternative",rock
+59,Let It Be,The Beatles,1970," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+60,Pastorale,Liesbeth List & Ramses Shaffy,1969,"kleinkunst, pop, dutch, nederlandstalig, nederlands",nederlandstalig
+61,Sunday Bloody Sunday,U2,1985," alternative rock, rock, classic rock, u2, irish, alternative",rock
+62,God Only Knows,The Beach Boys,1966,"rock, pop, doo-wop, rock and roll, vocal surf, 60s, California Sound, progressive pop, classical, jazz, rock a…, Cal…, classic rock, surf",rock
+63,Sympathy For The Devil,The Rolling Stones,1973,"classic rock, rock, 60s, british, blues",rock
+64,Sorry,Kensington,2016,"indie, dutch, indie rock, rock, alternative",rock
+65,Master Of Puppets,Metallica,1986,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+66,Creep,Radiohead,1992,"alternative, rock, alternative rock, indie, electronic",rock
+67,With Or Without You,U2,1987," alternative rock, rock, classic rock, u2, irish, alternative",rock
+68,Mr. Blue Sky,Electric Light Orchestra,1978,"symphonic rock, classic rock, progressive rock, rock, 70s, british",rock
+69,Under Pressure,Queen & David Bowie,1981,"classic rock, rock, 80s, glam rock, queen",rock
+70,Iron Sky,Paolo Nutini,2014,"singer-songwriter, indie, pop, scottish, male vocalists",pop
+71,Fool's Overture,Supertramp,1977,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+72,The Scientist,Coldplay,2002,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+73,Another Brick In The Wall,Pink Floyd,1979,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+74,One,U2,1992," alternative rock, rock, classic rock, u2, irish, alternative",rock
+75,Phantom Of The Opera,Floor Jansen & Henk Poort,2019,"symphonic metal, netherlands, better than tarja, female fronted metal music, classical",metal
+76,Lose Yourself,Eminem,2002,"rap, hip-hop, eminem, hip hop, pop",hiphop
+77,The Chain,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+78,Somebody To Love (Live),George Michael & Queen,1993,"rock, classic rock, queen, 80s, pop",rock
+79,Uprising,Muse,2009,"alternative rock, rock, alternative, progressive rock, british",rock
+80,Old And Wise,The Alan Parsons Project,1982,"progressive rock, classic rock, rock, 80s, symphonic rock",rock
+81,Somebody To Love,Queen,1976,"classic rock, rock, hard rock, glam rock, 80s",rock
+82,Here Comes The Sun,The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+83,Brabant,Guus Meeuwis,2003,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+84,Under The Bridge,Red Hot Chili Peppers,1991,"funk rock, rock, alternative rock, alternative, funk",rock
+85,Lola Montez,Volbeat,2013,"heavy metal, rockabilly, metal, elvis metal, rock",metal
+86,Mag Ik Dan Bij Jou,Claudia de Breij,2011,"dutch, female vocalists, kleinkunst, cabaret, nederlandstalig",nederlandstalig
+87,Riders On The Storm,The Doors,1971,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+88,Highway To Hell,AC/DC,1979,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+89,Who Wants To Live Forever,Queen,1986,"classic rock, rock, hard rock, glam rock, 80s",rock
+90,Tears In Heaven,Eric Clapton,1992,"blues, classic rock, blues rock, rock, guitar",blues
+91,Angie,The Rolling Stones,1973,"classic rock, rock, 60s, british, blues",rock
+92,Angels,Robbie Williams,1998,"pop, britpop, british, rock, swing",pop
+93,Private Investigations,Dire Straits,1982,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+94,Uncharted,Kensington,2019,"indie, dutch, indie rock, rock, alternative",rock
+95,Another 45 Miles,Golden Earring,1969,"classic rock, rock, hard rock, dutch, 70s",rock
+96,Zoutelande,Bløf ft. Geike,2017,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+97,Impossible (Orchestral Version Live at Abbey Road),Nothing But Thieves,2020,"alternative rock, rock, indie rock, indie, alternative",rock
+98,Chasing Cars,Snow Patrol,2006,"alternative, rock, indie, indie rock, alternative rock",rock
+99,Jolene,Dolly Parton,1974,"country, female vocalists, folk, singer-songwriter, bluegrass",country
+100,Gimme Shelter,The Rolling Stones,1969,"classic rock, rock, 60s, british, blues",rock
+101,Blackbird,The Beatles,1968," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+102,Het Regent Zonnestralen,Acda & De Munnik,1998,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+103,Losing My Religion,R.E.M.,1991,"rock, alternative rock, alternative, indie, 90s",rock
+104,Belfast Child,Simple Minds,1989,"pop, rock, 80s, 90s, new wave, alternative",pop
+105,The Show Must Go On,Queen,1991,"classic rock, rock, hard rock, glam rock, 80s",rock
+106,Hey Jude,The Beatles,1968," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+107,Whole Lotta Rosie,AC/DC,1978,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+108,Have You Ever Seen The Rain,Creedence Clearwater Revival,1971,"rock, classic rock, southern rock, 60s, folk",rock
+109,Don't Stop Believin',Journey,1981,"rock, 70s, 80s, classic rock, hard rock, progressive rock",rock
+110,Goodnight Saigon,Billy Joel,1983,"classic rock, singer-songwriter, rock, pop, piano",rock
+111,Dreams,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+112,Twilight Zone,Golden Earring,1982,"classic rock, rock, hard rock, dutch, 70s",rock
+113,Suspicious Minds,Elvis Presley,1969,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+114,Where The Streets Have No Name,U2,1987," alternative rock, rock, classic rock, u2, irish, alternative",rock
+115,(Sittin' On) The Dock Of The Bay,Otis Redding,1968,"soul, rhythm and blues, 60s, blues, christmas",soul
+116,Clocks,Coldplay,2003,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+117,Laat Me,Ramses Shaffy,1978,"dutch, singer-songwriter, nederlandstalig, chanson, kleinkunst",nederlandstalig
+118,Yellow,Coldplay,2000,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+119,Space Oddity,David Bowie,1969,"rock, glam rock, classic rock, 80s, 70s",rock
+120,Yesterday,The Beatles,1965," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+121,Bitter Sweet Symphony,The Verve,1997,"alternative rock, britpop, rock, alternative, british, indie",rock
+122,House Of The Rising Sun,Animals,1964,"rock, blues rock, 60s, garage, classic rock",rock
+123,Three Little Birds,Bob Marley & The Wailers,1977," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+124,Someone Like You,Adele,2011,"singer-songwriter, soul, female vocalists, british, pop",pop
+125,Zombie,The Cranberries,1994,"alternative rock, rock, alternative, female vocalists, irish",rock
+126,The Pretender,Foo Fighters,2007,"rock, alternative rock, grunge, alternative, hard rock",rock
+127,Don't Look Back In Anger,Oasis,1996,"britpop, rock, british, alternative, indie",rock
+128,Kleine Jongen,André Hazes,1990,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+129,Nights In White Satin,The Moody Blues,1968,"rock, progressive rock, classic rock, 60s, psychedelic",rock
+130,Mr. Brightside,The Killers,2005,"indie rock, indie, rock, alternative, alternative rock",rock
+131,Stil In Mij,Van Dik Hout,1994,"dutch, nederlandstalig, nederpop, pop, nederlands",nederlandstalig
+132,Paranoid,Black Sabbath,1970,"heavy metal, hard rock, classic rock, metal, rock",metal
+133,The Winner Takes It All,ABBA,1980,"pop, disco, 70s, swedish, abba",pop
+134,Knights Of Cydonia,Muse,2006,"alternative rock, rock, alternative, progressive rock, british",rock
+135,Hallelujah,Leonard Cohen,1984,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+136,Billie Jean,Michael Jackson,1983,"pop, 80s, michael jackson, soul, dance",pop
+137,Your Song,Elton John,1971,"pop, classic rock, rock, singer-songwriter, 70s",pop
+138,Enjoy The Silence,Depeche Mode,1990,"new wave, new romantic, electronic, synthpop, 80s, synth pop",rock
+139,Wuthering Heights,Kate Bush,1978,"female vocalists, singer-songwriter, alternative, pop, 80s",pop
+140,Du Hast,Rammstein,1997,"industrial metal, metal, industrial, german, rock",electronic
+141,Californication,Red Hot Chili Peppers,2000,"funk rock, rock, alternative rock, alternative, funk",rock
+142,I Still Haven't Found What I'm Looking For,U2,1987," alternative rock, rock, classic rock, u2, irish, alternative",rock
+143,Come As You Are,Nirvana,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+144,Sweet Caroline,Neil Diamond,1969,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+145,Rolling In The Deep,Adele,2010,"singer-songwriter, soul, female vocalists, british, pop",pop
+146,Wonderwall,Oasis,1995,"britpop, rock, british, alternative, indie",rock
+147,Deutschland,Rammstein,2019,"industrial metal, metal, industrial, german, rock",electronic
+148,A Sky Full Of Stars,Coldplay & Avicii,2014,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+149,Sterrenstof,De Jeugd Van Tegenwoordig,2010,"hip-hop, dutch, nederhop, rap, hip hop",hiphop
+150,Fragile,Sting,1988,"rock, pop, classic rock, british, sting",rock
+151,Jeanny,Falco,1986,"pop, 80s, new wave, austrian, german",pop
+152,The Boxer,Simon & Garfunkel,1969,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+153,Paradise City,Guns N' Roses,1989,"hard rock, rock, classic rock, 80s, guns n roses",rock
+154,Summer Of '69,Bryan Adams,1990,"rock, classic rock, 80s, pop, christmas",rock
+155,Nobody's Wife,Anouk,1997,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+156,Blinding Lights,The Weeknd,2019,"rnb, electronic, canadian, dubstep, r&b",soul
+157,Bed Of Roses,Bon Jovi,1993,"hard rock, 80s, rock, classic rock, bon jovi",rock
+158,Money For Nothing,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+159,Ice Queen,Within Temptation,2001,"Gothic metal, symphonic rock, symphonic metal, gothic metal, female fronted metal, metal, gothic",metal
+160,Careless Whisper,George Michael,1984,"pop, duo, 80s, soul, british, dance",pop
+161,Proud Mary,Ike & Tina Turner,1971,"soul, rhythm and blues, blues, funk, 60s",soul
+162,Streets Of Philadelphia,Bruce Springsteen,1994,"rock, classic rock, singer-songwriter, folk, 80s",rock
+163,Fields Of Gold,Sting,1993,"rock, pop, classic rock, british, sting",rock
+164,Skyfall,Adele,2012,"singer-songwriter, soul, female vocalists, british, pop",pop
+165,Gotta Catch 'M All (Pokemon Theme Song),Jason Paige,1997,"soundtrack, pop, pokemon, rap, american",pop
+166,Saturday Night,Herman Brood & His Wild Romance,1978,"rock, blues rock, dutch, classic rock, pop",rock
+167,Into My Arms,Nick Cave & The Bad Seeds,1996,"post-punk, rock, alternative, singer-songwriter, alternative rock",rock
+168,The Last Resort,Eagles,1976,"rock, classic rock, 70s, soft rock, country",rock
+169,Killer Queen,Queen,1974,"classic rock, rock, hard rock, glam rock, 80s",rock
+170,Sorry,Kyteman,2009,"hip-hop, jazz, dutch, alternative, hiphop jazz",hiphop
+171,Graceland,Paul Simon,1986,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+172,Perfect,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+173,Don't You (Forget About Me),Simple Minds,1985,"pop, rock, 80s, 90s, new wave, alternative",pop
+174,Bloed Zweet En Tranen,André Hazes,2002,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+175,Fortunate Son,Creedence Clearwater Revival,1969,"rock, classic rock, southern rock, 60s, folk",rock
+176,September,"Earth, Wind & Fire",1979,"American, funk, 70s, soul, disco, rnb",rock
+177,Rocket Man,Elton John,1972,"pop, classic rock, rock, singer-songwriter, 70s",pop
+178,She,Charles Aznavour,1974,"french, chanson francaise, chanson, jazz, francais", 
+179,Perfect Day,Lou Reed,1972,"rock, classic rock, singer-songwriter, glam rock, 70s",rock
+180,I Want To Break Free,Queen,1984,"classic rock, rock, hard rock, glam rock, 80s",rock
+181,Kayleigh,Marillion,1985,"neo-progressive, progressive rock, rock, classic rock, british, progressive",rock
+182,Earth Song,Michael Jackson,1995,"pop, 80s, michael jackson, soul, dance",pop
+183,Smoke On The Water,Deep Purple,1973,"hard rock, heavy metal, progressive, classic rock, rock, progressive rock",rock
+184,Desperado,Eagles,1973,"rock, classic rock, 70s, soft rock, country",rock
+185,Whole Lotta Love,Led Zeppelin,1969,"classic rock, hard rock, rock, 70s, progressive rock",rock
+186,Sonne,Rammstein,2001,"industrial metal, metal, industrial, german, rock",electronic
+187,Jeremy,Pearl Jam,1991,"rock, grunge, alternative rock, 90s, alternative",rock
+188,Ne Me Quitte Pas,Jacques Brel,1959,"chanson, french, chanson francaise, singer-songwriter, jacques brel",pop
+189,Fear Of The Dark,Iron Maiden,1993,"heavy metal, metal, nwobhm, hard rock, iron maiden",metal
+190,Always Remember Us This Way,Lady Gaga,2019,"pop, dance, electronic, female vocalists, lady gaga",pop
+191,Make You Feel My Love,Adele,2008,"singer-songwriter, soul, female vocalists, british, pop",pop
+192,Barcelona,Freddie Mercury & Montserrat Caballé,1987,"opera, classic rock, freddie mercury, rock, queen",classical
+193,Somewhere Only We Know,Keane,2004,"britpop, indie, alternative, british, rock",rock
+194,Gimme Gimme Gimme,ABBA,1979,"pop, disco, 70s, swedish, abba",pop
+195,One,Mary J. Blige & U2,2006,"rock, irish, mary j blige, bono, soul",rock
+196,Hello,Adele,2015,"singer-songwriter, soul, female vocalists, british, pop",pop
+197,Wind Of Change,Scorpions,1991,"rock, metal, he…, hard rock, classic rock, heavy metal, 80s",rock
+198,In The Ghetto,Elvis Presley,1969,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+199,Walk Of Life,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+200,Everybody Hurts,R.E.M.,1993,"rock, alternative rock, alternative, indie, 90s",rock
+201,Dancing In The Dark,Bruce Springsteen,1985,"rock, classic rock, singer-songwriter, folk, 80s",rock
+202,Lightning Crashes,Live,1995,"alternative rock, 90s, rock, alternative, grunge",rock
+203,Formidable,Stromae,2013,"electronic, dance, french, belgian, electronica",electronic
+204,Atemlos Durch Die Nacht,Helene Fischer,2013,"helene fischer, schlager, deutsche schlager, deutsch, german",pop
+205,The Unforgiven,Metallica,1991,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+206,The Unforgettable Fire,U2,1984," alternative rock, rock, classic rock, u2, irish, alternative",rock
+207,Ace Of Spades,Motörhead,1980,"heavy metal, hard rock, metal, speed metal, rock",metal
+208,Zeg Me Dat Het Niet Zo Is,Frank Boeijen Groep,1990,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+209,Street Spirit (Fade Out),Radiohead,1994,"alternative, rock, alternative rock, indie, electronic",rock
+210,Treur Niet (Ode Aan Het Leven),Diggy Dex ft. JW Roy,2015,"nederhop, hip-hop, dutch, rap",hiphop
+211,Het Is Al Laat Toch,Racoon,2020,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+212,"Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder",Ramses Shaffy,1971,"dutch, singer-songwriter, nederlandstalig, chanson, kleinkunst",nederlandstalig
+213,Thriller,Michael Jackson,1983,"pop, 80s, michael jackson, soul, dance",pop
+214,I Put A Spell On You,Creedence Clearwater Revival,1972,"rock, classic rock, southern rock, 60s, folk",rock
+215,Love You More,Racoon,2005,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+216,Just A Little Bit Of Peace In My Heart,Golden Earrings,1968,"classic rock, rock, hard rock, dutch, 70s",rock
+217,Voor Haar,Frans Halsema,1977,"dutch, singer-songwriter, nederlandstalig, cabaret, the netherlands",nederlandstalig
+218,Fast Car,Tracy Chapman,1988,"folk, female vocalists, singer-songwriter, soul, acoustic",folk
+219,Ruthless Queen,Kayak,1979,"progressive rock, dutch, symphonic rock, art rock, rock",rock
+220,Everlong,Foo Fighters,1997,"rock, alternative rock, grunge, alternative, hard rock",rock
+221,Another Love,Tom Odell,2012,"singer-songwriter, indie, folk, british, piano",pop
+222,November,Rowwen Hèze,2000,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+223,Oude Maasweg,The Amazing Stroopwafels,1982,"pop, dutch, netherlands, lol, nederpop",pop
+224,Dochters,Marco Borsato,2008,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+225,Chop Suey!,System Of A Down,2001,"alternative metal, metal, rock, nu metal, alternative",rock
+226,Englishman In New York,Sting,1988,"rock, pop, classic rock, british, sting",rock
+227,Guaranteed,Eddie Vedder,2007,"singer-songwriter, grunge, rock, folk, alternative",pop
+228,The Rose,Bette Midler,1980,"female vocalists, pop, 80s, rock, bette midler",pop
+229,Knocking On Heaven's Door,Guns N' Roses,1992,"hard rock, rock, classic rock, 80s, guns n roses",rock
+230,Dream On,Aerosmith,1973,"rock, hard rock, classic rock, 80s, american artist",rock
+231,I'm On Fire,Bruce Springsteen,1985,"rock, classic rock, singer-songwriter, folk, 80s",rock
+232,Society,Eddie Vedder,2007,"singer-songwriter, grunge, rock, folk, alternative",pop
+233,Kronenburg Park,Frank Boeijen Groep,1985,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+234,Sign Of The Times,Harry Styles,2017,"rock, pop, alternative, pop rock, british",rock
+235,Iedereen Is Van De Wereld,The Scene,1991,"rock, Dutch, dutch, nederlandstalig, nederpop, the netherlands",rock
+236,Music,John Miles,1976,"classic rock, rock, symphonic rock, 80s, 70s",rock
+237,All Along The Watchtower,The Jimi Hendrix Experience,1968,"classic rock, psychedelic rock, rock, blues, 60s",rock
+238,When We Were Young,Adele,2015,"singer-songwriter, soul, female vocalists, british, pop",pop
+239,Starman,David Bowie,1972,"rock, glam rock, classic rock, 80s, 70s",rock
+240,Bad,U2,1984," alternative rock, rock, classic rock, u2, irish, alternative",rock
+241,She Sells Sanctuary,The Cult,1986,"rock, 80s, metal, post-punk, goth rock, hard rock, gothic rock, classic rock",rock
+242,Numb,Linkin Park,2003,"rock, nu metal, alternative rock, alternative, linkin park",rock
+243,Radio Ga Ga,Queen,1984,"classic rock, rock, hard rock, glam rock, 80s",rock
+244,Deurdonderen (Live),Normaal,1982,"rock, dutch, nederlandstalig, blues, boerenrock",rock
+245,Zij Gelooft In Mij,André Hazes,2004,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+246,Still Got The Blues,Gary Moore,1990,"blues, blues rock, hard rock, rock, classic rock",blues
+247,While My Guitar Gently Weeps,The Beatles,1968," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+248,Leave The Light On,Beth Hart,2004,"singer-songwriter, rock, female vocalists, alternative, blues",pop
+249,The Load Out/Stay,Jackson Browne,1977,"70s, rock, folk, singer-songwriter, classic rock, soft rock",rock
+250,My Immortal,Evanescence,2003,"gothic rock, rock, female vocalists, alternative, gothic",rock
+251,Arcade,Duncan Laurence,2019,"pop, soul, dutch, eurovision, eurovision 2019",pop
+252,Papillon,Editors,2009,"indie rock, post-punk revival, indie, british, alternative, rock",rock
+253,Beautiful Day,U2,2000," alternative rock, rock, classic rock, u2, irish, alternative",rock
+254,Man In The Mirror,Michael Jackson,1988,"pop, 80s, michael jackson, soul, dance",pop
+255,Insomnia,Faithless,1996,"electronic, trip-hop, dance, house, electronica",electronic
+256,Wake Me Up,Avicii ft. Aloe Blacc,2013,"Swedish, house, electronic, dance, progressive house, electro house",electronic
+257,Lithium,Nirvana,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+258,Do I Wanna Know?,Arctic Monkeys,2013,"indie rock, indie, british, rock, alternative",rock
+259,Bad Moon Rising,Creedence Clearwater Revival,1969,"rock, classic rock, southern rock, 60s, folk",rock
+260,Fade To Black,Metallica,1984,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+261,Vincent,Don McLean,1972,"singer-songwriter, folk, classic rock, 70s, rock",pop
+262,Sad Man's Tongue,Volbeat,2007,"heavy metal, rockabilly, metal, elvis metal, rock",metal
+263,We Will Rock You,Queen,1977,"classic rock, rock, hard rock, glam rock, 80s",rock
+264,Chiquitita,ABBA,1979,"pop, disco, 70s, swedish, abba",pop
+265,Testament,Boudewijn de Groot,1967,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+266,California Dreamin',The Mamas & The Papas,1966,"vocal group, 60s, classic rock, oldies, rock, pop", 
+267,Ring Of Fire,Johnny Cash,1963,"country, folk, singer-songwriter, classic rock, christmas",country
+268,Whiskey In The Jar,Metallica,1998,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+269,Born To Run,Bruce Springsteen,1975,"rock, classic rock, singer-songwriter, folk, 80s",rock
+270,Dust In The Wind,Kansas,1978,"progressive rock, classic rock, rock, hard rock, 70s",rock
+271,Sex On Fire,Kings Of Leon,2008,"so…, rock, indie, indie rock, alternative, southern rock",rock
+272,Ghost Love Score (Live@Wacken 2013),Nightwish,2013,"symphonic metal, power metal, gothic metal, metal, female fronted metal",metal
+273,Dansen Op De Vulkaan,De Dijk,1987,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+274,I'm Gonna Be (500 Miles),The Proclaimers,1988,"scottish, rock, pop, folk, 80s",rock
+275,Hurricane,Bob Dylan,1975,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+276,Echoes,Pink Floyd,1971,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+277,Against All Odds (Take A Look At Me Now),Phil Collins,1984,"rock, pop, 80s, classic rock, soft rock",rock
+278,La Bohème,Charles Aznavour,1966,"french, chanson francaise, chanson, jazz, francais", 
+279,The Day Before You Came,ABBA,1982,"pop, disco, 70s, swedish, abba",pop
+280,Hallelujah,Jeff Buckley,1994,"avant-garde, avant-garde…, singer-songwriter, rock, alternative, folk, indie",rock
+281,Livin' On A Prayer,Bon Jovi,1986,"hard rock, 80s, rock, classic rock, bon jovi",rock
+282,I Was Made For Lovin' You,KISS,1979,"hard rock, glam rock, classic rock, rock, 80s",rock
+283,Going To The Run,Golden Earring,1991,"classic rock, rock, hard rock, dutch, 70s",rock
+284,Run To The Hills,Iron Maiden,1982,"heavy metal, metal, nwobhm, hard rock, iron maiden",metal
+285,Every Breath You Take,The Police,1983,"new wave, rock, 80s, classic rock, pop",rock
+286,I'm Still Standing,Elton John,1983,"pop, classic rock, rock, singer-songwriter, 70s",pop
+287,Du,Peter Maffay,1971,"peter maffay, deutschrock, german, rock, deutsch", 
+288,Don't Let The Sun Go Down On Me,George Michael & Elton John,1991,"pop, british, duets, george michael and elton john, duet",pop
+289,Boulevard Of Broken Dreams,Green Day,2004,"punk rock, rock, punk, pop punk, alternative",rock
+290,One Day Like This,Elbow,2008,"alternative rock, indie, alternative, indie rock, britpop, rock",rock
+291,Niemand In De Stad,De Dijk,1989,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+292,Engel,Rammstein,1997,"industrial metal, metal, industrial, german, rock",electronic
+293,Ze Huilt Maar Ze Lacht,Maan,2019,"dutch, pop, electronic, techno, nederlands",nederlandstalig
+294,"Take Me Home, Country Roads",John Denver,1971,"singer-songwriter, country, folk, acoustic, christmas",pop
+295,Everywhere,Fleetwood Mac,1987,"rock, classic rock, 70s, blues, fleetwood mac",rock
+296,Une Belle Histoire,Michel Fugain,1972,"chanson francaise, french, chanson, folk, singer-songwriter", 
+297,Psycho,Muse,2015,"alternative rock, rock, alternative, progressive rock, british",rock
+298,Pride (In The Name Of Love),U2,1984," alternative rock, rock, classic rock, u2, irish, alternative",rock
+299,Kashmir,Led Zeppelin,1975,"classic rock, hard rock, rock, 70s, progressive rock",rock
+300,Roxanne,The Police,1979,"new wave, rock, 80s, classic rock, pop",rock
+301,Als Ze Er Niet Is,De Dijk,1994,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+302,No One Knows,Queens Of The Stone Age,2002,"stoner rock, robot rock, robot…, alternative rock, rock, hard rock, alternative",rock
+303,Angel Of Death,Slayer,1986,"thrash metal, metal, heavy metal, speed metal, slayer",metal
+304,Redemption Song,Bob Marley & The Wailers,1980," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+305,Zo Stil,Bløf,2012,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+306,The Man With The Child In His Eyes,Kate Bush,1978,"female vocalists, singer-songwriter, alternative, pop, 80s",pop
+307,My Way,Frank Sinatra,1969,"swing, jazz, christmas, oldies, vocal jazz",jazz
+308,Don't Give Up,Peter Gabriel & Kate Bush,1986,"pop, duets, 80s, progressive rock, nostalgia",pop
+309,I Would Stay,Krezip,2000,"dutch, rock, female vocalists, pop rock, pop",nederlandstalig
+310,Forever Young,Alphaville,1984,"synthpop, new wave, 80s, pop, synth pop",electronic
+311,The Man Who Sold The World (unplugged),Nirvana,1994,"grunge, alternative rock, rock, alternative, 90s",rock
+312,Sara,Fleetwood Mac,1980,"rock, classic rock, 70s, blues, fleetwood mac",rock
+313,Long Blond Animal,Golden Earring,1980,"classic rock, rock, hard rock, dutch, 70s",rock
+314,Welcome To The Jungle,Guns N' Roses,1987,"hard rock, rock, classic rock, 80s, guns n roses",rock
+315,Mamma Mia,ABBA,1975,"pop, disco, 70s, swedish, abba",pop
+316,Silent Lucidity,Queensrÿche,1991,"progressive metal, heavy metal, progressive rock, hard rock, metal",metal
+317,Heart Of Gold,Neil Young,1972,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+318,Born Slippy,Underworld,1996,"electronic, techno, trance, dance, ambient, drum and bass, drum and …, electronica",electronic
+319,Haus Am See,Peter Fox,2009,"german, reggae, dancehall, hip hop, hip-hop",reggae
+320,De Echte Vent,Racoon,2020,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+321,Seven Nation Army,White Stripes,2003,"alternative rock, garage rock revival, rock, alternative, indie, garage rock",rock
+322,Thank You For The Music,ABBA,1978,"pop, disco, 70s, swedish, abba",pop
+323,Ain't No Sunshine,Bill Withers,1971,"singer-songwriter, soul, funk, 70s, rhythm and blues, rnb",pop
+324,Eagle,ABBA,1978,"pop, disco, 70s, swedish, abba",pop
+325,Landslide,Fleetwood Mac,1975,"rock, classic rock, 70s, blues, fleetwood mac",rock
+326,Lay All Your Love On Me,ABBA,1980,"pop, disco, 70s, swedish, abba",pop
+327,Karma Police,Radiohead,1997,"alternative, rock, alternative rock, indie, electronic",rock
+328,Laat Me/Vivre,Alderliefste & Ramses Shaffy & Liesbeth List,2005,"pop, the netherlands, dutch, rock, pop rock",pop
+329,Me And Bobby McGee,Janis Joplin,1971,"blues rock, classic rock, blues, female vocalists, 60s, rock",rock
+330,Take On Me,A-Ha,1985,"pop, new wave, 80s, synth pop, synthpop",pop
+331,The Logical Song,Supertramp,1979,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+332,She's Always A Woman,Billy Joel,1978,"classic rock, singer-songwriter, rock, pop, piano",rock
+333,Kryptonite,3 Doors Down,2000,"post-Grunge, Alternative rock, rock, alternative rock, alternative, hard rock, 3 doors down",rock
+334,In Your Arms,Chef'Special,2014,"funk, rock, ska, reggae, rap",soul
+335,De Peel In Brand,Rowwen Hèze,2005,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+336,"No Woman, No Cry (live)",Bob Marley & The Wailers,1975," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+337,Mama,Genesis,1983,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+338,You Can't Always Get What You Want,The Rolling Stones,1969,"classic rock, rock, 60s, british, blues",rock
+339,Old Man,Neil Young,1972,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+340,Iris,The Goo Goo Dolls,1999,"rock, alternative rock, alternative, 90s, pop",rock
+341,Verdronken Vlinder,Boudewijn de Groot,1966,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+342,Holiday In Spain,Bløf & Counting Crows,2004,"nederpop, nederlandstalig, rock, pop, dutch",pop
+343,With A Little Help From My Friends,Joe Cocker,1968,"rock, classic rock, blues, blues rock, soul",rock
+344,White Rabbit,Jefferson Airplane,1967,"psychedelic rock, classic rock, 60s, psychedelic, rock",rock
+345,Oerend Hard,Normaal,1977,"rock, dutch, nederlandstalig, blues, boerenrock",rock
+346,Blauw,The Scene,1991,"rock, Dutch, dutch, nederlandstalig, nederpop, the netherlands",rock
+347,Solsbury Hill,Peter Gabriel,1977,"singer-songwriter, progressive rock, rock, classic rock, peter gabriel",pop
+348,Waterloo,ABBA,1974,"pop, disco, 70s, swedish, abba",pop
+349,Nothing Compares 2 U,Sinéad O'Connor,1990,"female vocalists, irish, alternative, singer-songwriter, rock", 
+350,99 Luftballons,Nena,1983,"pop, german, 80s, new wave, female vocalists",pop
+351,Worn Down Piano,The Mark & Clark Band,1977,"progressive rock, classic rock, home collection, piano, rock",rock
+352,Troy,Sinéad O'Connor,1987,"female vocalists, irish, alternative, singer-songwriter, rock", 
+353,Op Fietse,Skik,1997,"dutch, rock, nederlandstalig, pop, nederpop",nederlandstalig
+354,Hold The Line,Toto,1979,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+355,These Are The Days Of Our Lives,Queen,1991,"classic rock, rock, hard rock, glam rock, 80s",rock
+356,Onderweg,Abel,2000,"dutch, pop, nederlandstalig, rock, indie",nederlandstalig
+357,(I Can't Get No) Satisfaction,The Rolling Stones,1965,"classic rock, rock, 60s, british, blues",rock
+358,Empire State Of Mind,Jay-Z & Alicia Keys,2009,"hip-hop, rap, jay-z, american, good",hiphop
+359,Black Hole Sun,Soundgarden,1994,"grunge, alternative rock, rock, hard rock, 90s",rock
+360,Back In Black,AC/DC,1980,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+361,Set Fire To The Rain,Adele,2011,"singer-songwriter, soul, female vocalists, british, pop",pop
+362,Bad Guy,Billie Eilish,2019,"pop, indie pop, electropop, indie, alternative",pop
+363,Beat It,Michael Jackson,1983,"pop, 80s, michael jackson, soul, dance",pop
+364,Window Of My Eyes,Cuby & the Blizzards,1968,"Dutch, blues, rock and roll, blues rock, dutch, rock, 60s",nederlandstalig
+365,More Than A Feeling,Boston,1977,"rock, classic rock, hard rock, 80s, 70s",rock
+366,Geef Mij Je Angst,André Hazes,1983,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+367,Is Dit Nu Later,Stef Bos,1990,"nederlandstalig, singer-songwriter, dutch, kleinkunst, pop",nederlandstalig
+368,God Is A DJ,Faithless,1998,"electronic, trip-hop, dance, house, electronica",electronic
+369,Romeo And Juliet,Dire Straits,1980,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+370,Mother Earth,Within Temptation,2002,"Gothic metal, symphonic rock, symphonic metal, gothic metal, female fronted metal, metal, gothic",metal
+371,Omarm,Bløf,2003,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+372,"Non, Je Ne Regrette Rien",Édith Piaf,1961,"french, chanson, female vocalists, jazz, chanson francaise",pop
+373,Another Day In Paradise,Phil Collins,1989,"rock, pop, 80s, classic rock, soft rock",rock
+374,De Vlieger,André Hazes,1977,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+375,Can't Help Falling In Love,Elvis Presley,1961,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+376,Stan,Eminem & Dido,2000,"rap, hip-hop, eminem, hip hop, pop",hiphop
+377,The Whole Of The Moon,The Waterboys,1986,"folk rock, rock, celtic, alternative, celtic rock",rock
+378,A Day In The Life,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+379,The End,The Doors,1967,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+380,Stop Loving You,Toto,1988,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+381,De Overkant,Suzan & Freek & Snelle,2020,"pop, dutch, singersongwriter",pop
+382,Little Lion Man,Mumford & Sons,2010,"folk, indie, british, acoustic, indie folk",folk
+383,Baba O'Riley,The Who,1971,"rock, classic rock, 60s, british, hard rock",rock
+384,Free Bird,Lynyrd Skynyrd,1974,"southern rock, classic rock, rock, hard rock, 70s",rock
+385,Zeg Maar Niets Meer,André Hazes,1982,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+386,Another One Bites The Dust,Queen,1980,"classic rock, rock, hard rock, glam rock, 80s",rock
+387,Basket Case,Green Day,1994,"punk rock, rock, punk, pop punk, alternative",rock
+388,Nao 't Zuuje,Lex Uiting,2017,"folk, dutch, netherlands, nederlandstalig, limburg",folk
+389,Poison,Alice Cooper,1989,"hard rock, classic rock, american artist, rock, glam rock",rock
+390,Als Het Avond Is,Suzan & Freek,2018,"pop, dutch, acoustic, netherlands, nederlands",pop
+391,Jesus To A Child,George Michael,1996,"pop, duo, 80s, soul, british, dance",pop
+392,Time,Pink Floyd,1973,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+393,Tougher Than The Rest,Bruce Springsteen,1987,"rock, classic rock, singer-songwriter, folk, 80s",rock
+394,Run,Snow Patrol,2004,"alternative, rock, indie, indie rock, alternative rock",rock
+395,When Doves Cry,Prince & The Revolution,1984,"funk, pop, rock, 80s, soul",soul
+396,Always On My Mind,Elvis Presley,1972,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+397,Brown Eyed Girl,Van Morrison,1967,"classic rock, singer-songwriter, folk, blues, rock",rock
+398,Last Christmas,Wham!,1984,"pop, 80s, british, new wave, christmas",pop
+399,Rockin' In The Free World,Neil Young,1989,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+400,I Want To Know What Love Is,Foreigner,1984,"classic rock, rock, 80s, hard rock, foreigner",rock
+401,Streets,Kensington,2014,"indie, dutch, indie rock, rock, alternative",rock
+402,La Grange,ZZ Top,1973,"rock, blues rock, classic rock, southern rock, hard rock",rock
+403,Islands In The Stream,Kenny Rogers & Dolly Parton,1983,"country, 80s, duets, dolly parton, christmas",country
+404,Layla (Unplugged),Eric Clapton,1992,"blues, classic rock, blues rock, rock, guitar",blues
+405,Mag Het Licht Uit,De Dijk,1987,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+406,Radioactive,Imagine Dragons,2012,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+407,Vienna,Ultravox,1981,"new wave, synthpop, 70s, New Romantic, dark, post-punk, glam rock, 80s, new romantic, synth pop",rock
+408,Eye In The Sky,The Alan Parsons Project,1982,"progressive rock, classic rock, rock, 80s, symphonic rock",rock
+409,One Of These Nights,Eagles,1975,"rock, classic rock, 70s, soft rock, country",rock
+410,Papaoutai,Stromae,2013,"electronic, dance, french, belgian, electronica",electronic
+411,Take It Easy,Eagles,1972,"rock, classic rock, 70s, soft rock, country",rock
+412,Rainbow In The Sky,DJ Paul Elstak,1995,"gabber, hardcore, happy hardcore, hardcore techno, electronic",electronic
+413,Sinds 1 Dag Of 2 (32 Jaar),Doe Maar,1981,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+414,Tennessee Whiskey,Chris Stapleton,2015,"country, americana, singer-songwriter, bluegrass, folk",country
+415,Annie's Song,John Denver,1976,"singer-songwriter, country, folk, acoustic, christmas",pop
+416,Bat Out Of Hell,Meat Loaf,1977,"rock, classic rock, hard rock, rock opera, 80s",rock
+417,Blue Monday,New Order,1983,"new wave, synthpop, post-punk, 80s, electronic, alternative",rock
+418,Human,Rag'n'Bone Man,2016,"soul, blues, british, indie, hip-hop",soul
+419,Harder Dan Ik Hebben Kan,Bløf,1999,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+420,Hey Brother,Avicii,2013,"Swedish, house, electronic, dance, progressive house, electro house",electronic
+421,Born In The U.S.A.,Bruce Springsteen,1985,"rock, classic rock, singer-songwriter, folk, 80s",rock
+422,Money,Pink Floyd,1973,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+423,Lost,Anouk,2005,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+424,I Walk The Line,Johnny Cash,1957,"country, folk, singer-songwriter, classic rock, christmas",country
+425,Still Loving You,Scorpions,1987,"rock, metal, he…, hard rock, classic rock, heavy metal, 80s",rock
+426,Het Werd Zomer,Rob de Nijs,1977,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+427,My Hometown,Bruce Springsteen,1986,"rock, classic rock, singer-songwriter, folk, 80s",rock
+428,Jump,Van Halen,1984,"hard rock, classic rock, rock, heavy metal, 80s",rock
+429,Eleanor Rigby,The Beatles,1966," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+430,Memories,Maroon 5,2019,"pop rock, pop, rock, alternative, maroon 5",rock
+431,We Are The Champions,Queen,1977,"classic rock, rock, hard rock, glam rock, 80s",rock
+432,I Am... I Said,Neil Diamond,1971,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+433,Levels,Avicii,2011,"Swedish, house, electronic, dance, progressive house, electro house",electronic
+434,Amigo,Chef'Special,2016,"funk, rock, ska, reggae, rap",soul
+435,Aan De Kust,Bløf,1999,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+436,Take Me To Church,Hozier,2014,"singer-songwriter, blues, indie, soul, irish",pop
+437,Estranged,Guns N' Roses,1994,"hard rock, rock, classic rock, 80s, guns n roses",rock
+438,I See Fire,Ed Sheeran,2014,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+439,Paranoid Android,Radiohead,1997,"alternative, rock, alternative rock, indie, electronic",rock
+440,River Deep Mountain High,Ike & Tina Turner,1966,"soul, rhythm and blues, blues, funk, 60s",soul
+441,Vivo Per Lei,Andrea Bocelli & Giorgia,1996,"classical, opera, italian, male vocalists, andrea bocelli",classical
+442,Does Your Mother Know,ABBA,1979,"pop, disco, 70s, swedish, abba",pop
+443,Groot Hart,De Dijk,1985,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+444,Alive And Kicking,Simple Minds,1985,"pop, rock, 80s, 90s, new wave, alternative",pop
+445,Everybody Wants To Rule The World,Tears For Fears,1985,"pop, rock, ska, new wave, synthesiser, 80s, synth pop",pop
+446,Respect,Aretha Franklin,1967,"soul, jazz, female vocalists, blues, rhythm and blues",soul
+447,Lopen Tot De Zon Komt,Acda & De Munnik,1997,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+448,Smooth Criminal,Michael Jackson,1988,"pop, 80s, michael jackson, soul, dance",pop
+449,Smokers Outside The Hospital Doors,Editors,2007,"indie rock, post-punk revival, indie, british, alternative, rock",rock
+450,L.A. Woman,The Doors,1971,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+451,A Horse With No Name,America,1972,"soft, rock, 70s, classic rock, soft rock, folk",rock
+452,They Don't Care About Us,Michael Jackson,1996,"pop, 80s, michael jackson, soul, dance",pop
+453,Sad But True,Metallica,1992,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+454,Patience,Guns N' Roses,1989,"hard rock, rock, classic rock, 80s, guns n roses",rock
+455,Sweet Dreams (Are Made Of This),Eurythmics,1983,"pop, 80s, new wave, female vocalists, synth pop",pop
+456,Who'll Stop The Rain,Creedence Clearwater Revival,1970,"rock, classic rock, southern rock, 60s, folk",rock
+457,Easy on me,Adele,2021,"singer-songwriter, soul, female vocalists, british, pop",pop
+458,Wonderful Tonight,Eric Clapton,1977,"blues, classic rock, blues rock, rock, guitar",blues
+459,Hald Mich 's Vas,Neet Oét Lottum,2004,"limburg, pop, dutch, the netherlands, nederlandstalig",pop
+460,Time In A Bottle,Jim Croce,1972,"folk, singer-songwriter, 70s, classic rock, rock",folk
+461,Heading Up High,Armin van Buuren ft. Kensington,2015,"trance, progressive trance, electronic, vocal trance, dance",electronic
+462,The Cave,Mumford & Sons,2010,"folk, indie, british, acoustic, indie folk",folk
+463,Foto Van Vroeger,Rob de Nijs,1980,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+464,De Boer Dat Is De Keerl,Normaal,1982,"rock, dutch, nederlandstalig, blues, boerenrock",rock
+465,Narcotic,Liquido,1998,"rock, alternative rock, alternative, german, pop",rock
+466,Learn To Fly,Foo Fighters,1999,"rock, alternative rock, grunge, alternative, hard rock",rock
+467,What's Going On,Marvin Gaye,1971,"soul, rnb, motown, funk, rhythm and blues, 70s",soul
+468,Golden Brown,The Stranglers,1982,"rock, new wave, post-punk, punk, 80s",rock
+469,Crazy Little Thing Called Love,Queen,1979,"classic rock, rock, hard rock, glam rock, 80s",rock
+470,Stayin' Alive,Bee Gees,1978,"disco, pop, 70s, classic rock, british artist",pop
+471,Toen Ik Je Zag,Hero,1997,"visual kei, rock, heavy metal, j-rock, progressive rock",rock
+472,Mrs. Robinson,Simon & Garfunkel,1968,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+473,Shape Of You,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+474,Diamonds,The Boxer Rebellion,2013,"indie rock, indie, british, alternative, rock",rock
+475,Snow (Hey Oh),Red Hot Chili Peppers,2006,"funk rock, rock, alternative rock, alternative, funk",rock
+476,De Vondeling Van Ameland,Boudewijn de Groot,2004,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+477,Message In A Bottle,The Police,1979,"new wave, rock, 80s, classic rock, pop",rock
+478,She Flies On Strange Wings,Golden Earring,1971,"classic rock, rock, hard rock, dutch, 70s",rock
+479,Tonight (Live),Tina Turner & David Bowie,1988,"classic rock, 80s, rock, pop, duet",rock
+480,Suzanne,Leonard Cohen,1968,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+481,Never Gonna Give You Up,Rick Astley,1987,"pop, 80s, rickroll, dance, best act ever",pop
+482,Kiss From A Rose,Seal,1995,"soul, pop, 90s, singer-songwriter, seal",soul
+483,Valerie,Mark Ronson ft. Amy Winehouse,2007,"funk, british, pop, hip-hop, dj",soul
+484,Chan Chan,Buena Vista Social Club,1997,"Cuban, latin, cuban, jazz, latin jazz, world",latin
+485,Folsom Prison Blues (Live),Johnny Cash,1968,"country, folk, singer-songwriter, classic rock, christmas",country
+486,You'll Never Walk Alone,Gerry & The Pacemakers,1963,"60s, oldies, merseybeat, classic rock, british invasion", 
+487,Time To Give,White Lies,2018,"indie rock, post-punk, indie, british, alternative",rock
+488,Linger,The Cranberries,1993,"alternative rock, rock, alternative, female vocalists, irish",rock
+489,All Of Me,John Legend,2013,"soul, rnb, neo-soul, singer-songwriter, hip-hop",soul
+490,Strong,London Grammar,2014,"indie pop, electronic, lush, indie, female vocalists",rock
+491,Élan,Nightwish,2015,"symphonic metal, power metal, gothic metal, metal, female fronted metal",metal
+492,Thinking Out Loud,Ed Sheeran,2014,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+493,Dansen Aan Zee,Bløf,2000,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+494,Believer,Imagine Dragons,2017,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+495,Penny Lane,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+496,Whatever You Want,Status Quo,1979,"British, rock, boogie, freakbeat, psychedelia, ps…, classic rock, hard rock, british, 80s",rock
+497,Sweet Home Alabama,Lynyrd Skynyrd,1974,"southern rock, classic rock, rock, hard rock, 70s",rock
+498,Somebody That I Used To Know,Gotye ft. Kimbra,2011,"indie, electronic, alternative, australian, aussie",rock
+499,Love Will Tear Us Apart,Joy Division,1980,"post-punk, new wave, 80s, alternative, indie",rock
+500,Wicked Game,Chris Isaak,1991,"rock, blues, singer-songwriter, 80s, pop",rock
+501,Life On Mars,David Bowie,1973,"rock, glam rock, classic rock, 80s, 70s",rock
+502,Starlight,Muse,2006,"alternative rock, rock, alternative, progressive rock, british",rock
+503,Where Did You Sleep Last Night (unplugged),Nirvana,1994,"grunge, alternative rock, rock, alternative, 90s",rock
+504,Halt Mich,Herbert Grönemeyer,1988,"german, pop, deutsch, singer-songwriter, rock",pop
+505,The Power Of Love,Frankie Goes To Hollywood,1984,"pop, 80s, new wave, british, dance",pop
+506,Total Eclipse Of The Heart,Bonnie Tyler,1983,"pop, 80s, female vocalists, rock, classic rock",pop
+507,Ik Kan Het Niet Alleen,De Dijk,1989,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+508,Samba Pa Ti,Santana,1970,"Latin, rock, classic rock, latin, guitar, latin rock",latin
+509,My Boy,Elvis Presley,1975,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+510,This Is What It Feels Like,Armin van Buuren ft.Trevor Guthrie,2013,"trance, progressive trance, uplifting trance, electronic, vocal trance, dance",electronic
+511,Leaving On A Jet Plane,John Denver,1969,"singer-songwriter, country, folk, acoustic, christmas",pop
+512,Amsterdam,Nothing But Thieves,2017,"alternative rock, rock, indie rock, indie, alternative",rock
+513,Plug In Baby,Muse,2001,"alternative rock, rock, alternative, progressive rock, british",rock
+514,What A Wonderful World,Louis Armstrong,1968,"jazz, blues, swing, trumpet, christmas",jazz
+515,Even Flow,Pearl Jam,1991,"rock, grunge, alternative rock, 90s, alternative",rock
+516,Maid Of Orleans,Orchestral Manoeuvres In The Dark,1982,"synthpop, new wave, 80s, electronic, synth pop",electronic
+517,You Shook Me All Night Long,AC/DC,1980,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+518,Duurt Te Lang,Davina Michelle,2018,"pop, dutch, female vocalist, netherlands, linedance 2021",pop
+519,Supermassive Black Hole,Muse,2006,"alternative rock, rock, alternative, progressive rock, british",rock
+520,Geef Mij Je Angst,Guus Meeuwis,2005,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+521,Ren Lenny Ren,Acda & De Munnik,2002,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+522,American Pie,Don McLean,1972,"singer-songwriter, folk, classic rock, 70s, rock",pop
+523,Hammer To Fall,Queen,1984,"classic rock, rock, hard rock, glam rock, 80s",rock
+524,Fantasy,"Earth, Wind & Fire",1978,"American, funk, 70s, soul, disco, rnb",rock
+525,Why Tell Me Why,Anita Meyer,1981,"pop, dutch, nederpop, home collection, top 40",pop
+526,Hoe Het Danst,"Marco Borsato, Armin van Buuren & Davina Michelle",2019,"dutch, netherlands, nederlands, trio, pop-dance",nederlandstalig
+527,War,Kensington,2014,"indie, dutch, indie rock, rock, alternative",rock
+528,Demons,Imagine Dragons,2014,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+529,Paradise,Coldplay,2011,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+530,Time To Say Goodbye,Andrea Bocelli & Sarah Brightman,1997,"classical, opera, beautiful, female vocalists, ambient",classical
+531,Wild Horses,The Rolling Stones,1971,"classic rock, rock, 60s, british, blues",rock
+532,Liefs Uit Londen,Bløf,1998,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+533,Breaking The Habit,Linkin Park,2004,"rock, nu metal, alternative rock, alternative, linkin park",rock
+534,Little Lies,Fleetwood Mac,1987,"rock, classic rock, 70s, blues, fleetwood mac",rock
+535,Wrong,Novastar,1999,"belgian, singer-songwriter, rock, alternative, pop",pop
+536,Unfinished Sympathy,Massive Attack,1991,"trip-hop, electronic, chillout, downtempo, electronica",hiphop
+537,Like The Way I Do,Melissa Etheridge,1989,"rock, female vocalists, singer-songwriter, folk, 90s",rock
+538,Hey Joe,The Jimi Hendrix Experience,1967,"classic rock, psychedelic rock, rock, blues, 60s",rock
+539,Dat Ik Je Mis,Maaike Ouboter,2013,"all, dutch, nederlandstalig, singer-songwriter, netherlands",nederlandstalig
+540,It's My Life,Bon Jovi,2000,"hard rock, 80s, rock, classic rock, bon jovi",rock
+541,Birds,Anouk,2013,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+542,Let's Dance,David Bowie,1983,"rock, glam rock, classic rock, 80s, 70s",rock
+543,'k Heb Je Lief,Paul de Leeuw,1997,"dutch, nederlandstalig, nederpop, netherlands, nederlands",nederlandstalig
+544,Red Red Wine,UB40,1983,"reggae, roots reggae, dub, lovers rock, rocksteady, 80s, pop, ska, british",reggae
+545,Alles Geprobeerd,Het Goede Doel,1986,"nederlandstalig, pop, nederpop, dutch, 80s",nederlandstalig
+546,New Year's Day,U2,1983," alternative rock, rock, classic rock, u2, irish, alternative",rock
+547,The Great Gig In The Sky,Pink Floyd,1972,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+548,She,Elvis Costello,1999,"singer-songwriter, pub rock, 70s, punk rock, power pop, New Wave, new wave, rock, classic rock, alternative",pop
+549,Rehab,Amy Winehouse,2006,"soul, rhythm and blues, jazz, female vocalists, british, amy winehouse",soul
+550,Slippery People (Live),Talking Heads,1985,"new wave, post-punk, 80s, rock, alternative",rock
+551,Million Years Ago,Adele,2016,"singer-songwriter, soul, female vocalists, british, pop",pop
+552,Limburg (Live),Rowwen Hèze,1996,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+553,Songbird,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+554,I Feel Love,Donna Summer,1977,"disco, pop, 70s, dance, female vocalists",pop
+555,Changes,2Pac,1998,"rap, hip-hop, gangsta rap, west coast rap, 2pac",hiphop
+556,Wake Me Up When September Ends,Green Day,2005,"punk rock, rock, punk, pop punk, alternative",rock
+557,Albatross,Fleetwood Mac,1969,"rock, classic rock, 70s, blues, fleetwood mac",rock
+558,Let It Happen,Tame Impala,2015,"psychedelic, psychedelic rock, indie rock, australian, rock",rock
+559,Lola (Live),The Kinks,1980,"classic rock, 60s, rock, british, british invasion",rock
+560,Bring Me To Life,Evanescence,2003,"gothic rock, rock, female vocalists, alternative, gothic",rock
+561,Under The Pressure,The War On Drugs,2014,"indie rock, indie, folk, folk rock, rock",rock
+562,Always,Bon Jovi,1994,"hard rock, 80s, rock, classic rock, bon jovi",rock
+563,Father Figure,George Michael,1988,"pop, duo, 80s, soul, british, dance",pop
+564,Papa Was A Rolling Stone,The Temptations,1972,"doo-wop, soul, psychedelia, funk, disco, rnb, adult contemporary, rock, black music, male vocal group, motown, oldies, christmas",blues
+565,Runnin' With The Devil,Van Halen,1978,"hard rock, classic rock, rock, heavy metal, 80s",rock
+566,Come Together,The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+567,The Final Countdown,Europe,1986,"rock, hard rock, 80s, classic rock, hair metal",rock
+568,Witch Doctor,De Staat,2014,"rock, dutch, stoner rock, blues rock, alternative",rock
+569,High Hopes,Pink Floyd,1994,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+570,Light My Fire,The Doors,1967,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+571,Can I Play With Madness,Iron Maiden,1988,"heavy metal, metal, nwobhm, hard rock, iron maiden",metal
+572,Cowboys And Angels,George Michael,1991,"pop, duo, 80s, soul, british, dance",pop
+573,I Gotta Feeling,The Black Eyed Peas,2009,"hip hop, pop, hip-hop, rnb, rap, dance",hiphop
+574,Immigrant Song,Led Zeppelin,1971,"classic rock, hard rock, rock, 70s, progressive rock",rock
+575,Psycho Killer,Talking Heads,1978,"new wave, post-punk, 80s, rock, alternative",rock
+576,Running Up That Hill,Kate Bush,1985,"female vocalists, singer-songwriter, alternative, pop, 80s",pop
+577,Tusk,Fleetwood Mac,1979,"rock, classic rock, 70s, blues, fleetwood mac",rock
+578,Such A Shame,Talk Talk,1984,"synthpop, New Wave, post-rock, experimental, new wave, 80s, synth pop, pop",electronic
+579,Sometimes It Snows In April,Prince & The Revolution,1986,"funk, pop, rock, 80s, soul",soul
+580,Numb/Encore,Linkin Park & Jay-Z,2004,"hip-hop, rap, rock, alternative, linkin park",hiphop
+581,Freedom! '90,George Michael,1990,"pop, duo, 80s, soul, british, dance",pop
+582,Sorry,Nothing But Thieves,2017,"alternative rock, rock, indie rock, indie, alternative",rock
+583,Good Vibrations,The Beach Boys,1966,"rock, pop, doo-wop, rock and roll, vocal surf, 60s, California Sound, progressive pop, classical, jazz, rock a…, Cal…, classic rock, surf",rock
+584,Feel Good Inc.,Gorillaz,2005,"alternative, electronic, hip-hop, rock, indie",rock
+585,Castle On The Hill,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+586,Conquest Of Paradise,Vangelis,1995,"electronic, new age, soundtrack, ambient, instrumental",electronic
+587,Cloudbusting,Kate Bush,1985,"female vocalists, singer-songwriter, alternative, pop, 80s",pop
+588,A Different Corner,George Michael,1986,"pop, duo, 80s, soul, british, dance",pop
+589,Rosanna,Toto,1982,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+590,Voulez-Vous,ABBA,1979,"pop, disco, 70s, swedish, abba",pop
+591,One Step Beyond,Madness,1979,"pop, ska, 70s, 2 Tone, british, 80s, new wave",pop
+592,Lullaby,The Cure,1989,"new wave, post-punk, 80s, alternative, rock",rock
+593,Video Games,Lana Del Rey,2011,"singer-songwriter, indie, female vocalists, pop, indie pop, alternative",pop
+594,I Will Follow (Live),U2,1982," alternative rock, rock, classic rock, u2, irish, alternative",rock
+595,Kom Terug,Spinvis,2012,"dutch, singer-songwriter, alternative, indie, nederlandstalig",nederlandstalig
+596,Is She Really Going Out With Him? (Live),Joe Jackson,1988,"new wave, singer-songwriter, 80s, pop, rock",rock
+597,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993,"rock, classic rock, hard rock, rock opera, 80s",rock
+598,I Don't Want To Miss A Thing,Aerosmith,1997,"rock, hard rock, classic rock, 80s, american artist",rock
+599,Baker Street,Gerry Rafferty,1978,"singer-songwriter, folk, classic rock, soft rock, rock, 70s",pop
+600,Tiny Dancer,Elton John,1971,"pop, classic rock, rock, singer-songwriter, 70s",pop
+601,Never Tear Us Apart,INXS,1988,"rock, new wave, 80s, australian, pop",rock
+602,Scar Tissue,Red Hot Chili Peppers,1999,"funk rock, rock, alternative rock, alternative, funk",rock
+603,Leef,André Hazes Jr.,2016,dutch,nederlandstalig
+604,Like A Hurricane,Neil Young,1977,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+605,Have I Told You Lately,Van Morrison,1989,"classic rock, singer-songwriter, folk, blues, rock",rock
+606,I Say A Little Prayer,Aretha Franklin,1968,"soul, jazz, female vocalists, blues, rhythm and blues",soul
+607,Zonder Jou,Paul de Leeuw & Simone Kleinsma,1995,"dutch, pop, piano, female vocalists, 00s",nederlandstalig
+608,Rhiannon (Will You Ever Win),Fleetwood Mac,1976,"rock, classic rock, 70s, blues, fleetwood mac",rock
+609,Uptown Funk,Mark Ronson ft. Bruno Mars,2014,"funk, british, pop, hip-hop, dj",soul
+610,Dirty Diana,Michael Jackson,1987,"pop, 80s, michael jackson, soul, dance",pop
+611,Stapelgek,Bankzitters,2021,"dutch, netherlands, youtube, house",nederlandstalig
+612,Dreamer,Supertramp,1974,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+613,Champagne Supernova,Oasis,1996,"britpop, rock, british, alternative, indie",rock
+614,Alone,Heart,1987,"rock, classic rock, female vocalists, hard rock, 80s",rock
+615,The Best,Tina Turner,1989,"pop, soul, rock, female vocalists, 80s",pop
+616,Overcome,Live,2001,"alternative rock, 90s, rock, alternative, grunge",rock
+617,You'll Be In My Heart,Phil Collins,1999,"rock, pop, 80s, classic rock, soft rock",rock
+618,Don't Stop,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+619,Leningrad,Billy Joel,1989,"classic rock, singer-songwriter, rock, pop, piano",rock
+620,A Boy Named Sue,Johnny Cash,1969,"country, folk, singer-songwriter, classic rock, christmas",country
+621,Holding Back The Years,Simply Red,1985,"punk, pop, soul, 80s, british, simply red",rock
+622,Michel,Anouk,2000,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+623,What About Us,P!nk,2017,"pop, pop rock, female vocalists, rock, pink",pop
+624,Dat Komt Door Jou,Guus Meeuwis,2009,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+625,Blauwe Dag,Suzan & Freek,2019,"pop, dutch, acoustic, netherlands, nederlands",pop
+626,Strawberry Fields Forever,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+627,Morning Has Broken,Cat Stevens,1972,"singer-songwriter, folk, classic rock, acoustic, 70s",pop
+628,One Way Wind,The Cats,1971,"oldies, pop, soft rock, 60s, skinhead reggae",pop
+629,Gangsta's Paradise,Coolio,1995,"rap, hip-hop, 90s, hip hop, west coast rap",hiphop
+630,The Boys Of Summer,Don Henley,1985,"classic rock, rock, 80s, singer-songwriter, soft rock",rock
+631,Nightswimming,R.E.M.,1992,"rock, alternative rock, alternative, indie, 90s",rock
+632,I Have A Dream,ABBA,1979,"pop, disco, 70s, swedish, abba",pop
+633,België,Het Goede Doel,1982,"nederlandstalig, pop, nederpop, dutch, 80s",nederlandstalig
+634,Tribute,Tenacious D,2003,"rock, comedy, hard rock, alternative rock, comedy rock",rock
+635,Down Under,Men At Work,1982,"rock, new wave, 80s, australian, pop",rock
+636,Superstition,Stevie Wonder,1973,"soul, funk, motown, pop, 70s",soul
+637,Slow Dancing In A Burning Room,John Mayer,2006,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+638,Get Back,The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+639,Take A Chance On Me,ABBA,1977,"pop, disco, 70s, swedish, abba",pop
+640,Bliss,Muse,2001,"alternative rock, rock, alternative, progressive rock, british",rock
+641,White Room,Cream,1968,"blues, hard rock, psychedelic rock, classic rock, blues rock, rock, psychedelic, 60s",blues
+642,Everything I Wanted,Billie Eilish,2019,"pop, indie pop, electropop, indie, alternative",pop
+643,Otherside,Red Hot Chili Peppers,2000,"funk rock, rock, alternative rock, alternative, funk",rock
+644,Welterusten Mijnheer De President,Boudewijn de Groot,1966,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+645,Little Black Submarines,The Black Keys,2011,"psychedelic rock, blues rock, rock, blues, indie rock, garage rock",rock
+646,Sweet Goodbyes,Krezip,2009,"dutch, rock, female vocalists, pop rock, pop",nederlandstalig
+647,Driving Home For Christmas,Chris Rea,1986,"singer-songwriter, rock, blues, classic rock, soft rock",pop
+648,Let Her Go,Passenger,2012,"alternative folk, alternative metal, hardcore, screamo, acoustic rock, rap, instrumental rock, psytrance, folk, melodic death metal, nu metal, acoustic",folk
+649,Hold On To Let Go,Danny Vera,2020,"americana, rock, singer-songwriter, country, dutch",country
+650,Yesterday When I Was Young,Charles Aznavour,1970,"french, chanson francaise, chanson, jazz, francais", 
+651,Halo Of Flies,Alice Cooper,1973,"hard rock, classic rock, american artist, rock, glam rock",rock
+652,Der Weg,Herbert Grönemeyer,2002,"german, pop, deutsch, singer-songwriter, rock",pop
+653,De Verzoening,Frank Boeijen Groep,1987,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+654,Vlinder,Rowwen Hèze,2003,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+655,Fields Of Gold,Eva Cassidy,1996,"female vocalists, jazz, folk, blues, singer-songwriter",jazz
+656,Dreadlock Holiday,10cc,1978,"classic rock, rock, 70s, british, pop",rock
+657,Thinking Of A Place,The War On Drugs,2017,"indie rock, indie, folk, folk rock, rock",rock
+658,Happy New Year,ABBA,1980,"pop, disco, 70s, swedish, abba",pop
+659,Do I Ever,Kensington,2016,"indie, dutch, indie rock, rock, alternative",rock
+660,Nikita,Elton John,1985,"pop, classic rock, rock, singer-songwriter, 70s",pop
+661,Faith,George Michael,1987,"pop, duo, 80s, soul, british, dance",pop
+662,Wasted Years,Iron Maiden,1986,"heavy metal, metal, nwobhm, hard rock, iron maiden",metal
+663,How Deep Is Your Love,Bee Gees,1977,"disco, pop, 70s, classic rock, british artist",pop
+664,Thunder Road,Bruce Springsteen,1975,"rock, classic rock, singer-songwriter, folk, 80s",rock
+665,In The Blood,John Mayer,2017,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+666,Don't Fear The Reaper,Blue Öyster Cult,1976,"hard rock, classic rock, rock, progressive rock, 70s",rock
+667,Roll Over Lay Down (Live),Status Quo,1975,"British, rock, boogie, freakbeat, psychedelia, ps…, classic rock, hard rock, british, 80s",rock
+668,Feel,Robbie Williams,2002,"pop, britpop, british, rock, swing",pop
+669,Badlands,Bruce Springsteen,1978,"rock, classic rock, singer-songwriter, folk, 80s",rock
+670,Ironic,Alanis Morissette,1996,"rock, female vocalists, alternative, singer-songwriter, pop",rock
+671,Through The Barricades,Spandau Ballet,1986,"pop, 80s, new romantic, singer-songwriter, new wave, british",pop
+672,De Bom,Doe Maar,1982,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+673,Mutter,Rammstein,2001,"industrial metal, metal, industrial, german, rock",electronic
+674,Jimmy,Boudewijn de Groot,1973,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+675,Hey You,Pink Floyd,1979,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+676,I Bet You Look Good On The Dancefloor,Arctic Monkeys,2005,"indie rock, indie, british, rock, alternative",rock
+677,Once Upon A Time In The West,Ennio Morricone,1976,"composer, soundtrack, instrumental, classical, italian", 
+678,Voilà,Barbara Pravi,2021,"chanson, french, eurovision, eurovision song contest, eurovision song contest 2021",pop
+679,Waterfront,Simple Minds,1983,"pop, rock, 80s, 90s, new wave, alternative",pop
+680,Lea,The Cats,1968,"oldies, pop, soft rock, 60s, skinhead reggae",pop
+681,Chandelier,Sia,2013,"female vocalists, indie, chillout, trip-hop, pop",rock
+682,Our House,"Crosby, Stills, Nash & Young",1970,"classic rock, folk rock, folk, rock, 60s",rock
+683,The A Team,Ed Sheeran,2011,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+684,Shape Of My Heart,Sting,1993,"rock, pop, classic rock, british, sting",rock
+685,She's Not There,Santana,1978,"Latin, rock, classic rock, latin, guitar, latin rock",latin
+686,Circle Of Life,Elton John,1994,"pop, classic rock, rock, singer-songwriter, 70s",pop
+687,Gravity,John Mayer,2006,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+688,Banger Hart,Rob de Nijs,1996,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+689,Something,The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+690,Alors On Danse,Stromae,2010,"electronic, dance, french, belgian, electronica",electronic
+691,Riddles,Kensington,2015,"indie, dutch, indie rock, rock, alternative",rock
+692,Heal The World,Michael Jackson,1992,"pop, 80s, michael jackson, soul, dance",pop
+693,Wonderfull Days,Charly Lownoise & Mental Theo,1995,"1991, 19…, happy hardcore, hardcore, rave, dance, electronic", 
+694,Back Home,Golden Earring,1970,"classic rock, rock, hard rock, dutch, 70s",rock
+695,Black Magic Woman,Santana,1970,"Latin, rock, classic rock, latin, guitar, latin rock",latin
+696,Fernando,ABBA,1975,"pop, disco, 70s, swedish, abba",pop
+697,Never Be Clever,Herman Brood & His Wild Romance,1979,"rock, blues rock, dutch, classic rock, pop",rock
+698,The Long And Winding Road,The Beatles,1970," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+699,(Everything I Do) I Do It For You,Bryan Adams,1991,"rock, classic rock, 80s, pop, christmas",rock
+700,Het Het Nog Nooit Zo Donker West,Ede Staal,1984,"dutch, all, the netherlands, nederlandstalig, groningen",nederlandstalig
+701,Binnen Zonder Kloppen,De Dijk,1985,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+702,Teardrop,Massive Attack,1998,"trip-hop, electronic, chillout, downtempo, electronica",hiphop
+703,I'm Not In Love,10cc,1975,"classic rock, rock, 70s, british, pop",rock
+704,Ben,Michael Jackson,1972,"pop, 80s, michael jackson, soul, dance",pop
+705,Black Betty,Ram Jam,1978,"rock, 70s, cover, sunshine pop, classic rock, hard rock, southern rock",rock
+706,I Will Wait,Mumford & Sons,2012,"folk, indie, british, acoustic, indie folk",folk
+707,Not An Addict,K's Choice,1996,"rock, alternative rock, alternative, female vocalists, belgian",rock
+708,Would,Alice In Chains,1992,"rock, grunge, alternative rock, hard rock, 90s",rock
+709,Smoorverliefd,Doe Maar,1981,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+710,Belle Hélène,Doe Maar,1982,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+711,Year Of The Cat,Al Stewart,1977,"singer-songwriter, folk, classic rock, soft rock, rock",pop
+712,Happy,Pharrell Williams,2013,"singer-songwriter, hip-hop, rnb, rap, hip hop, pop",pop
+713,Calm After The Storm,The Common Linnets,2014,"country, dutch, eurovision, pop, male vocalists",country
+714,I Will Always Love You,Whitney Houston,1992,"pop, soul, female vocalists, rnb, 80s",pop
+715,You Are So Beautiful,Joe Cocker,1974,"rock, classic rock, blues, blues rock, soul",rock
+716,Hold Me Now,Golden Earring,1994,"classic rock, rock, hard rock, dutch, 70s",rock
+717,Hier Kom Ik Weg,Daniël Lohues,2008,"singer-songwriter, dutch, all, folk, nederpop",pop
+718,Liefde Van Later,Herman van Veen,1969,"dutch, singer-songwriter, chanson, kleinkunst, nederlandstalig",nederlandstalig
+719,Let There Be Rock,AC/DC,1977,"rock, hard rock, classic rock, heavy metal, australian artist",rock
+720,Blowin' In The Wind,Bob Dylan,1963,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+721,Beautiful Noise,Neil Diamond,1976,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+722,Zandloper,Typhoon,2014,"nederhop, hip-hop, indie, dutch, folk",hiphop
+723,One More Light,Linkin Park,2016,"rock, nu metal, alternative rock, alternative, linkin park",rock
+724,What It Is,Mark Knopfler,2000,"rock, classic rock, singer-songwriter, blues, guitar",rock
+725,Hard Sun,Eddie Vedder,2007,"singer-songwriter, grunge, rock, folk, alternative",pop
+726,Don't Give Up The Fight,Racoon,2011,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+727,Halo,Beyoncé,2009,"rnb, pop, female vocalists, soul, beyonce",soul
+728,El Condor Pasa (If I Could),Simon & Garfunkel,1970,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+729,Venus,Shocking Blue,1969,"classic rock, rock, 60s, 70s, dutch",rock
+730,Sabotage,Beastie Boys,1994,"hip-hop, rap, hip hop, alternative, 80s",hiphop
+731,You Can Call Me Al,Paul Simon,1986,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+732,Links Rechts,Snollebollekes,2015,"carnaval, pop, dutch, netherlands, nederlands",pop
+733,"Ain't Got No, I Got Life (Original)",Nina Simone,1968,"jazz, classical, blues, soul, folk, rhythm and blues, gospel, pop, female vocalists, nina simone",jazz
+734,Jailhouse Rock,Elvis Presley,1957,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+735,Smalltown Boy,Bronski Beat,1984,"gay, new wave, 80s, synthpop, synth pop, pop",rock
+736,Woman In Chains,Tears For Fears & Oleta Adams,1989,"pop, rock, ska, new wave, synthesiser, 80s, synth pop",pop
+737,The Less I Know The Better,Tame Impala,2015,"psychedelic, psychedelic rock, indie rock, australian, rock",rock
+738,Pompeii,Bastille,2013,"rock, singer-songwriter, indie, electronic, alternative, british, indie rock",rock
+739,Chasing Pavements,Adele,2008,"singer-songwriter, soul, female vocalists, british, pop",pop
+740,The Weight,The Band,1968,"classic rock, folk rock, rock, folk, americana",rock
+741,I Want It All,Queen,1989,"classic rock, rock, hard rock, glam rock, 80s",rock
+742,Just Give Me A Reason,P!nk ft. Nate Ruess,2012,6 of 10 stars, 
+743,Follow You Follow Me,Genesis,1978,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+744,(You Make Me Feel Like A) Natural Woman,Aretha Franklin,1967,"soul, jazz, female vocalists, blues, rhythm and blues",soul
+745,Niet Of Nooit Geweest,Acda & De Munnik,1998,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+746,Weekend Love,Golden Earring,1979,"classic rock, rock, hard rock, dutch, 70s",rock
+747,So Long Marianne,Leonard Cohen,1968,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+748,Hocus Pocus,Focus,1971,"progressive rock, classic rock, dutch, rock, 70s",rock
+749,Nothing Rhymed,Gilbert O'Sullivan,1971,"pop, 70s, singer-songwriter, soft rock, oldies",pop
+750,New Kid In Town,Eagles,1977,"rock, classic rock, 70s, soft rock, country",rock
+751,Friday I'm In Love,The Cure,1992,"new wave, post-punk, 80s, alternative, rock",rock
+752,Zij Maakt Het Verschil,De Poema's,2001,"nederpop, nederlands, nederlandstalig, pop, dutch",pop
+753,Zwart Wit,Frank Boeijen Groep,1984,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+754,Private Dancer,Tina Turner,1984,"pop, soul, rock, female vocalists, 80s",pop
+755,Tunnel Of Love,Dire Straits,1980,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+756,Fly Me To The Moon,Frank Sinatra,1964,"swing, jazz, christmas, oldies, vocal jazz",jazz
+757,Titanium,David Guetta & Sia,2011,"dance, house, electronic, club, techno",electronic
+758,Auto Vliegtuug,Rowwen Hèze,1999,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+759,Bloedend Hart,De Dijk,1982,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+760,Major Tom (Völlig Losgelöst),Peter Schilling,1983,"synthpop, new wave, german, 80s, neue deutsche welle, ndw",electronic
+761,A Kind Of Magic,Queen,1986,"classic rock, rock, hard rock, glam rock, 80s",rock
+762,Exit Music (For A Film),Radiohead,1997,"alternative, rock, alternative rock, indie, electronic",rock
+763,Us And Them,Pink Floyd,1973,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+764,Trapped (Live),Bruce Springsteen,1985,"rock, classic rock, singer-songwriter, folk, 80s",rock
+765,Start Me Up,The Rolling Stones,1981,"classic rock, rock, 60s, british, blues",rock
+766,Weak,Skunk Anansie,1995,"rock, alternative rock, female vocalists, alternative, british",rock
+767,Sovereign Light Cafe,Keane,2012,"britpop, indie, alternative, british, rock",rock
+768,1999,Prince,1982,"funk, pop, soul, 80s, rock",soul
+769,Unchained Melody,The Righteous Brothers,1965,"oldies, soul, 60s, pop, classic rock",soul
+770,Flink Zijn,Robert Long,1977,"pop, dutch, singer-songwriter, 80s, nederpop",pop
+771,A Gentleman's Excuse Me,Fish,1990,"progressive rock, rock, scottish, progressive, fish",rock
+772,Lemon Tree,Fools Garden,1996,"pop, rock, britpop, soft rock, german",pop
+773,Layla,Derek & The Dominos,1971,"blues, rock, blues rock, classic rock, 70s",blues
+774,Sign 'O' The Times,Prince,1987,"funk, pop, soul, 80s, rock",soul
+775,Firth Of Fifth,Genesis,1973,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+776,In The Dutch Mountains,Nits,1987,"Dutch, art rock, dutch, pop, indie pop, 80s, alternative",nederlandstalig
+777,I Follow Rivers,Triggerfinger,2012,"rock, stoner rock, belgian, hard rock, belgium",rock
+778,Don't Dream It's Over,Crowded House,1987,"rock, pop, 80s, australian, new zealand",rock
+779,The Passenger,Iggy Pop,1976,"punk rock, punk, rock, classic rock, proto-punk",rock
+780,Take The Long Way Home,Supertramp,1979,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+781,Lyin' Eyes,Eagles,1975,"rock, classic rock, 70s, soft rock, country",rock
+782,Let Me Entertain You,Robbie Williams,1998,"pop, britpop, british, rock, swing",pop
+783,Try,P!nk,2012,"pop, pop rock, female vocalists, rock, pink",pop
+784,Be My Number Two,Joe Jackson,1984,"new wave, singer-songwriter, 80s, pop, rock",rock
+785,Walk,Foo Fighters,2011,"rock, alternative rock, grunge, alternative, hard rock",rock
+786,Like A Rolling Stone,Bob Dylan,1965,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+787,Slapeloze Nachten,The Opposites,2013,"nederhop, hip-hop, dutch, rap, nederlandstalig",hiphop
+788,Zelfs Je Naam Is Mooi,Henk Westbroek,1998,"pop, dutch, nederpop, nederlandstalig, 90s",pop
+789,Kingston Town,UB40,1990,"reggae, roots reggae, dub, lovers rock, rocksteady, 80s, pop, ska, british",reggae
+790,"Knowing Me, Knowing You",ABBA,1977,"pop, disco, 70s, swedish, abba",pop
+791,Candle In The Wind 1997,Elton John,1997,"pop, classic rock, rock, singer-songwriter, 70s",pop
+792,The Weight,Danny Vera,2020,"americana, rock, singer-songwriter, country, dutch",country
+793,Going To A Town,Rufus Wainwright,2007,"singer-songwriter, folk, indie, alternative, canadian",pop
+794,American Idiot,Green Day,2004,"punk rock, rock, punk, pop punk, alternative",rock
+795,Dark Necessities,Red Hot Chili Peppers,2016,"funk rock, rock, alternative rock, alternative, funk",rock
+796,Diamonds On The Soles Of Her Shoes,Paul Simon,1986,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+797,Sailing,Rod Stewart,1975,"classic rock, rock, 70s, soft rock, pop",rock
+798,Natural,Imagine Dragons,2018,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+799,Without Me,Eminem,2002,"rap, hip-hop, eminem, hip hop, pop",hiphop
+800,Boogie Wonderland,"Earth, Wind & Fire",1979,"American, funk, 70s, soul, disco, rnb",rock
+801,Fat Bottomed Girls,Queen,1978,"classic rock, rock, hard rock, glam rock, 80s",rock
+802,I Alone,Live,1995,"alternative rock, 90s, rock, alternative, grunge",rock
+803,Super Trouper,ABBA,1980,"pop, disco, 70s, swedish, abba",pop
+804,Firestarter,The Prodigy,1996,"electronic, techno, industrial, breakbeat, dance",electronic
+805,Save Your Tears,The Weeknd,2020,"rnb, electronic, canadian, dubstep, r&b",soul
+806,Go Like Elijah,Chi Coltrane,1973,"80s, singer-songwriters, pop, classic rock, gospel", 
+807,Need Your Love So Bad,Fleetwood Mac,1968,"rock, classic rock, 70s, blues, fleetwood mac",rock
+808,Here I Go Again,Whitesnake,1987,"hard rock, blues rock, heavy metal, 80s, arena …, classic rock, rock, hair metal",rock
+809,Glory Days,Bruce Springsteen,1985,"rock, classic rock, singer-songwriter, folk, 80s",rock
+810,De Neus Umhoeg,Rowwen Hèze,1995,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+811,Goodbye Yellow Brick Road,Elton John,1973,"pop, classic rock, rock, singer-songwriter, 70s",pop
+812,The Unforgiven II,Metallica,1997,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+813,Give A Little Bit,Supertramp,1977,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+814,Human,The Killers,2008,"indie rock, indie, rock, alternative, alternative rock",rock
+815,Musica È,Eros Ramazzotti,1989,"italian, pop, italian pop, male vocalists, eros ramazzotti",pop
+816,Daughters,John Mayer,2005,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+817,One Of Us,ABBA,1981,"pop, disco, 70s, swedish, abba",pop
+818,"You're The First, The Last, My Everything",Barry White,1974,"singer-songwriter, soul, rnb, gospel, funk, disco, barry white",pop
+819,This Is The Life,Amy MacDonald,2008,"Scottish, female vocalists, singer-songwriter, indie, acoustic, pop", 
+820,Think (Blues Brothers Version),Aretha Franklin,1980,"soul, jazz, female vocalists, blues, rhythm and blues",soul
+821,China Girl,David Bowie,1983,"rock, glam rock, classic rock, 80s, 70s",rock
+822,Bright Eyes,Art Garfunkel,1979,"folk, singer-songwriter, pop, 70s, christmas",folk
+823,Every Little Thing She Does Is Magic,The Police,1981,"new wave, rock, 80s, classic rock, pop",rock
+824,Easy Livin',Uriah Heep,1973,"rock, hard rock, classic rock, progressive rock, 70s",rock
+825,Clint Eastwood,Gorillaz,2001,"alternative, electronic, hip-hop, rock, indie",rock
+826,De Zon Op,Diggy Dex,2018,"nederhop, hip-hop, dutch, rap",hiphop
+827,Father And Son,Cat Stevens,1971,"singer-songwriter, folk, classic rock, acoustic, 70s",pop
+828,How You Remind Me,Nickelback,2001,"rock, alternative rock, hard rock, alternative, nickelback",rock
+829,Het Is Een Nacht... (Levensecht),Guus Meeuwis & Vagant,1995,"nederlandstalig, pop, dutch, singer-songwriter, nederpop",nederlandstalig
+830,Land Of Confusion,Genesis,1986,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+831,Smack My Bitch Up,The Prodigy,1997,"electronic, techno, industrial, breakbeat, dance",electronic
+832,Lust For Life,Iggy Pop,1977,"punk rock, punk, rock, classic rock, proto-punk",rock
+833,When The Sun Goes Down,Arctic Monkeys,2006,"indie rock, indie, british, rock, alternative",rock
+834,Lavender,Marillion,1985,"neo-progressive, progressive rock, rock, classic rock, british, progressive",rock
+835,I Will Survive,Gloria Gaynor,1979,"disco, 70s, soul, female vocalists, pop",pop
+836,So Long,Fischer-Z,1980,"new wave, 80s, british, post-punk, rock",rock
+837,Eye Of The Tiger,Survivor,1982,"classic rock, rock, 80s, hard rock, aor",rock
+838,Homeward Bound,Simon & Garfunkel,1966,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+839,The Man Who Can't Be Moved,The Script,2008,"pop rock, rock, pop, irish, acoustic",rock
+840,Tinseltown In The Rain,The Blue Nile,1984,"dream pop, scottish, 80s, alternative, pop",pop
+841,Love Hurts,Nazareth,1976,"hard rock, classic rock, rock, 70s, heavy metal",rock
+842,Jungleland,Bruce Springsteen,1975,"rock, classic rock, singer-songwriter, folk, 80s",rock
+843,Son Of A Preacher Man,Dusty Springfield,1968,"pop, singer, British Invasion, rock, soul, 60s, female vocalists, oldies",pop
+844,Once In A Lifetime,Talking Heads,1981,"new wave, post-punk, 80s, rock, alternative",rock
+845,She's A Rainbow,The Rolling Stones,1967,"classic rock, rock, 60s, british, blues",rock
+846,Black Or White,Michael Jackson,1991,"pop, 80s, michael jackson, soul, dance",pop
+847,Golden,Harry Styles,2020,"rock, pop, alternative, pop rock, british",rock
+848,Story Of My Life,One Direction,2013,"pop, british, one direction, boyband, love at first listen",pop
+849,I Want You,Elvis Costello,1986,"singer-songwriter, pub rock, 70s, punk rock, power pop, New Wave, new wave, rock, classic rock, alternative",pop
+850,Prachtig Mooie Dag,Daniël Lohues,2011,"singer-songwriter, dutch, all, folk, nederpop",pop
+851,Pressure Makes Diamonds (2020),Danny Vera,2020,"americana, rock, singer-songwriter, country, dutch",country
+852,Rebel Rebel,David Bowie,1974,"rock, glam rock, classic rock, 80s, 70s",rock
+853,Heaven,Bryan Adams,1985,"rock, classic rock, 80s, pop, christmas",rock
+854,Con Te Partiro,Andrea Bocelli,1996,"classical, opera, italian, male vocalists, andrea bocelli",classical
+855,Where Is The Love,The Black Eyed Peas,2003,"hip hop, pop, hip-hop, rnb, rap, dance",hiphop
+856,Hou Vol Hou Vast,Bløf,2011,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+857,9 Crimes,Damien Rice,2006,"singer-songwriter, acoustic, folk, indie, irish",pop
+858,Self Esteem,Offspring,1995,"punk rock, punk, rock, alternative rock, alternative",rock
+859,Teach Your Children,"Crosby, Stills, Nash & Young",1970,"classic rock, folk rock, folk, rock, 60s",rock
+860,What's Up,4 Non Blondes,1993,"90s, alternative rock, rock, female vocalists, alternative",rock
+861,Unintended,Muse,2009,"alternative rock, rock, alternative, progressive rock, british",rock
+862,Rain Down On Me,Kane,2002,"rock, alternative rock, dutch, pop, pop rock",rock
+863,Song 2,Blur,1997,"alternative rock, britpop, rock, indie, british, alternative",rock
+864,Hallelujah,Lisa Lois,2009,"pop, dutch, female vocalists, soul, x factor",pop
+865,Take Me Out,Franz Ferdinand,2003,"indie rock, indie, rock, alternative, britpop",rock
+866,Sebastian,Cockney Rebel,1973,"glam rock, classic rock, 70s, rock, glam",rock
+867,Wild Is The Wind,David Bowie,1976,"rock, glam rock, classic rock, 80s, 70s",rock
+868,Real Men,Joe Jackson,1982,"new wave, singer-songwriter, 80s, pop, rock",rock
+869,Malle Babbe,Rob de Nijs,1975,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+870,There Is a Light That Never Goes Out,The Smiths,1986,"indie, post-punk, 80s, new wave, alternative",rock
+871,Good Riddance (Time Of Your Life),Green Day,1997,"punk rock, rock, punk, pop punk, alternative",rock
+872,You Give Love A Bad Name,Bon Jovi,1986,"hard rock, 80s, rock, classic rock, bon jovi",rock
+873,Watermelon Sugar,Harry Styles,2020,"rock, pop, alternative, pop rock, british",rock
+874,Ordinary World,Duran Duran,1993,"electronic, pop rock, New Wave, 80s, 90s, vivid, dance pop, new wave, pop, synth pop, rock",electronic
+875,Real Slim Shady,Eminem,2000,"rap, hip-hop, eminem, hip hop, pop",hiphop
+876,Heaven Must Be Missing An Angel,Tavares,1976,"disco, soul, 70s, funk, pop",pop
+877,9 To 5,Dolly Parton,1981,"country, female vocalists, folk, singer-songwriter, bluegrass",country
+878,Stand My Ground,Within Temptation,2004,"Gothic metal, symphonic rock, symphonic metal, gothic metal, female fronted metal, metal, gothic",metal
+879,All I Want For Christmas Is You,Mariah Carey,1994,"pop, rnb, female vocalists, soul, christmas",pop
+880,Road Trippin',Red Hot Chili Peppers,2000,"funk rock, rock, alternative rock, alternative, funk",rock
+881,Boys Don't Cry,The Cure,1986,"new wave, post-punk, 80s, alternative, rock",rock
+882,Listen To Your Heart,Roxette,1989,"pop, 80s, rock, swedish, 90s",pop
+883,I Still Cry,Ilse DeLange,2000,"dutch, female vocalists, country, pop, singer-songwriter",nederlandstalig
+884,Hometown Glory,Adele,2009,"singer-songwriter, soul, female vocalists, british, pop",pop
+885,Mr. Bojangles,Robbie Williams,2001,"pop, britpop, british, rock, swing",pop
+886,Dance Me To The End Of Love,Leonard Cohen,1984,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+887,Sharp Dressed Man,ZZ Top,1985,"rock, blues rock, classic rock, southern rock, hard rock",rock
+888,I Heard It Through The Grapevine,Creedence Clearwater Revival,1973,"rock, classic rock, southern rock, 60s, folk",rock
+889,Thunder,Imagine Dragons,2017,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+890,Down Down,Status Quo,1975,"British, rock, boogie, freakbeat, psychedelia, ps…, classic rock, hard rock, british, 80s",rock
+891,Sailing To Philadelphia,Mark Knopfler & James Taylor,2000,"rock, classic rock, singer-songwriter, blues, guitar",rock
+892,Could You Be Loved,Bob Marley & The Wailers,1980," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+893,Onderuit,De Dijk,1987,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+894,"Anyplace, Anywhere, Anytime",Nena & Kim Wilde,2003,"pop, 80s, german, dance, female vocalists",pop
+895,Jersey Girl (Live),Bruce Springsteen,1986,"rock, classic rock, singer-songwriter, folk, 80s",rock
+896,Pain And Misery,The Teskey Brothers,2019,"soul, blues, aussie rock",soul
+897,Brown Sugar,The Rolling Stones,1971,"classic rock, rock, 60s, british, blues",rock
+898,Owner Of A Lonely Heart,Yes,1983,"progressive rock, classic rock, rock, british, yes",rock
+899,Gimme All Your Lovin',ZZ Top,1984,"rock, blues rock, classic rock, southern rock, hard rock",rock
+900,Norwegian Wood,The Beatles,1965," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+901,Where The Wild Roses Grow,Nick Cave & Kylie Minogue,1995,"post-punk, rock, alternative, singer-songwriter, alternative rock",rock
+902,Moonlight Shadow,Mike Oldfield & Maggie Reilly,1983,"80s, rock, pop, alternative, duets",rock
+903,Iederene Hef Een Reden,Bökkers,2016,"rock, dutch, boerenrock, streektaal",rock
+904,Easy Lover,Phil Collins & Philip Bailey,1985,"pop, rock, 80s, classic rock",pop
+905,Traffic,Tiësto,2003,"trance, electronic, dance, techno, electronica",electronic
+906,Voodoo Child (Slight Return),The Jimi Hendrix Experience,1968,"classic rock, psychedelic rock, rock, blues, 60s",rock
+907,I Want It That Way,Backstreet Boys,1999,"pop, boybands, 90s, dance, backstreet boys",pop
+908,On Every Street,Dire Straits,1991,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+909,Photograph,Ed Sheeran,2015,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+910,Everything Now,Arcade Fire,2017,"indie, indie rock, rock, alternative, canadian",rock
+911,The Lady In Red,Chris de Burgh,1986,"pop, soft rock, 80s, singer-songwriter, rock",pop
+912,Just Can't Get Enough (Live),Depeche Mode,1985,"new wave, new romantic, electronic, synthpop, 80s, synth pop",rock
+913,Reünie,Snelle,2019,"dutch, netherlands, hip hop",nederlandstalig
+914,Can't Stop,Red Hot Chili Peppers,2002,"funk rock, rock, alternative rock, alternative, funk",rock
+915,Dancing In The Street,David Bowie & Mick Jagger,1985,"classic rock, rock, 80s, duet, british",rock
+916,Like A Prayer,Madonna,1989,"pop, dance, 80s, female vocalists, electronic",pop
+917,Everglow,Coldplay,2015,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+918,So Lonely,The Police,1979,"new wave, rock, 80s, classic rock, pop",rock
+919,New Gold Dream (81-82-83-84),Simple Minds,1982,"pop, rock, 80s, 90s, new wave, alternative",pop
+920,All I Want Is You,U2,1988," alternative rock, rock, classic rock, u2, irish, alternative",rock
+921,Four Seasons In One Day,Crowded House,1992,"rock, pop, 80s, australian, new zealand",rock
+922,Come On Eileen,Dexy's Midnight Runners,1982,"post-punk, Northern Soul, new wave, 80s, british, pop",rock
+923,Porcelain,Moby,1999,"singer-songwriter, techno, breakbeat, electronic, ambient, chillout, alternative, electronica",pop
+924,Suzie Q (Part I),Creedence Clearwater Revival,1968,"rock, classic rock, southern rock, 60s, folk",rock
+925,Droomland,Paul De Leeuw & André Hazes,1993,"nederlandstalig, nederpop",nederlandstalig
+926,Personal Jesus,Depeche Mode,1990,"new wave, new romantic, electronic, synthpop, 80s, synth pop",rock
+927,Heart-Shaped Box,Nirvana,1993,"grunge, alternative rock, rock, alternative, 90s",rock
+928,Whatever It Takes,Imagine Dragons,2017,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+929,Als Het Golft,De Dijk,2000,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+930,Give It Away,Red Hot Chili Peppers,1992,"funk rock, rock, alternative rock, alternative, funk",rock
+931,Sound And Vision,David Bowie,1977,"rock, glam rock, classic rock, 80s, 70s",rock
+932,Band On The Run,Paul McCartney & Wings,1974,"classic rock, rock, 70s, british, pop",rock
+933,You Do Something To Me,Paul Weller,1995,"rock, singer-songwriter, british, mod, britpop",rock
+934,Blauwe Ruis,Bløf,2002,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+935,The Turn Of A Friendly Card,The Alan Parsons Project,1980,"progressive rock, classic rock, rock, 80s, symphonic rock",rock
+936,Civil War,Guns N' Roses,1990,"hard rock, rock, classic rock, 80s, guns n roses",rock
+937,I Just Can't Help Believin',Elvis Presley,1971,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+938,That's Life,Frank Sinatra,1966,"swing, jazz, christmas, oldies, vocal jazz",jazz
+939,Walk On The Wild Side,Lou Reed,1973,"rock, classic rock, singer-songwriter, glam rock, 70s",rock
+940,Don't Cry,Guns N' Roses,1991,"hard rock, rock, classic rock, 80s, guns n roses",rock
+941,Red Eyes,The War On Drugs,2013,"indie rock, indie, folk, folk rock, rock",rock
+942,You're My Best Friend,Queen,1976,"classic rock, rock, hard rock, glam rock, 80s",rock
+943,Shout,Tears For Fears,1985,"pop, rock, ska, new wave, synthesiser, 80s, synth pop",pop
+944,Only Time,Enya,2000,"new age, celtic, ambient, female vocalists, enya",electronic
+945,Strange Machines,The Gathering,1996,"gothic metal, alternative rock, progressive rock, atmospheric rock, progressive metal, female vocalists, female fronted metal, trip rock",metal
+946,You Know I'm No Good,Amy Winehouse,2007,"soul, rhythm and blues, jazz, female vocalists, british, amy winehouse",soul
+947,If You Tolerate This Your Children Will Be Next,Manic Street Preachers,1998,"rock, britpop, alternative rock, indie, alternative",rock
+948,Can't Stop The Feeling!,Justin Timberlake,2016,"pop, rnb, dance, male vocalists, hip-hop",pop
+949,Ik Bun Moar Een Eenvoudige Boerenlul,Normaal,1978,"rock, dutch, nederlandstalig, blues, boerenrock",rock
+950,Tubular Bells,Mike Oldfield,1974,"progressive rock, new age, instrumental, ambient, electronic",rock
+951,Our House,Madness,1982,"pop, ska, 70s, 2 Tone, british, 80s, new wave",pop
+952,Have A Little Faith In Me,John Hiatt,1989,"blues, rock, singer-songwriter, alt-country, americana",blues
+953,Gold,Spandau Ballet,1983,"pop, 80s, new romantic, singer-songwriter, new wave, british",pop
+954,Someone You Loved,Lewis Capaldi,2019,"pop, pop rock, scottish, singer-songwriter, alternative",pop
+955,Raspberry Beret,Prince & The Revolution,1985,"funk, pop, rock, 80s, soul",soul
+956,Candy,Iggy Pop & Kate Pierson,1990,"punk rock, punk, rock, classic rock, proto-punk",rock
+957,Daar Gaat Ze,Clouseau,1990,"belgian, pop, nederlandstalig, belgium, vlaams",pop
+958,Man On The Moon,R.E.M.,1992,"rock, alternative rock, alternative, indie, 90s",rock
+959,Turning Tables,Adele,2011,"singer-songwriter, soul, female vocalists, british, pop",pop
+960,Margherita,Marco Borsato,1996,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+961,No More Tears,Ozzy Osbourne,1990,"heavy metal, hard rock, metal, classic rock, rock",metal
+962,State Of Independence,Donna Summer,1982,"disco, pop, 70s, dance, female vocalists",pop
+963,Ik Wou Dat Ik Jou Was,Veldhuis & Kemper,2003,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+964,Rasputin,Boney M.,1978,"disco, pop, dance, 80s, 70s",pop
+965,Theme From 'Harry's Game',Clannad,1983,"folk, new age, Celtic, celtic, irish, female vocalists",folk
+966,The Family Tree,Venice,1999,"hardcore, rock, american, folk, general mainstream rock",rock
+967,Lippy Kids,Elbow,2011,"alternative rock, indie, alternative, indie rock, britpop, rock",rock
+968,Gaia,Valensia,1993,"rock, symphonic rock, progressive rock, pop, dutch",rock
+969,Burning Love,Elvis Presley,1972,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+970,Tainted Love,Soft Cell,1981,"electronic, 80s, new wave, synthpop, synth pop",electronic
+971,Little Wing,The Jimi Hendrix Experience,1967,"classic rock, psychedelic rock, rock, blues, 60s",rock
+972,Disarm,The Smashing Pumpkins,1993,"alternative rock, rock, grunge, alternative, 90s",rock
+973,Stand By Me,Ben E. King,1987,"soul, pop, doo wop, 60s, oldies, blues, classic rock",soul
+974,Killer/Papa Was A Rollin' Stone,George Michael,1993,"pop, duo, 80s, soul, british, dance",pop
+975,The Wind Cries Mary,The Jimi Hendrix Experience,1967,"classic rock, psychedelic rock, rock, blues, 60s",rock
+976,In Nije Dei,De Kast,1997,"pop, dutch, frisian, rock, nederlandstalig",pop
+977,Miss You,The Rolling Stones,1978,"classic rock, rock, 60s, british, blues",rock
+978,I'll Take Care Of You,Beth Hart & Joe Bonamassa,2011,"blues rock, blues, soul, rock, american",rock
+979,Tranen Gelachen,Guus Meeuwis,2007,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+980,Beautiful People,Melanie,1969,"singer-songwriter, folk, female vocalists, 60s, pop",pop
+981,Afterglow,Ed Sheeran,2020,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+982,People Are Strange,The Doors,1967,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+983,Plush,Stone Temple Pilots,1993,"grunge, alternative rock, rock, 90s, alternative",rock
+984,Jesus He Knows Me,Genesis,1992,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+985,Denis,Blondie,1978,"rock, singer-songwriter, new wave, punk, 70s, 80s, female vocalists, pop",rock
+986,You Want It Darker,Leonard Cohen,2016,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+987,Stressed Out,Twenty One Pilots,2016,"Fueled By Ramen, alternative, electronic, indie, rap, indie pop",rock
+988,L'amour Toujours,Gigi D'agostino,2001,"dance, electronic, trance, techno, eurodance",electronic
+989,Waiting On A Friend,The Rolling Stones,1981,"classic rock, rock, 60s, british, blues",rock
+990,Non Non Rien n'a Changé,Les Poppys,1971,"french, pop, 70s, chanson francaise, france",pop
+991,It's My Life,Talk Talk,1984,"synthpop, New Wave, post-rock, experimental, new wave, 80s, synth pop, pop",electronic
+992,Freak On A Leash,Korn,1998,"nu metal, metal, rock, alternative metal, alternative",rock
+993,More Than A Woman,Bee Gees,1977,"disco, pop, 70s, classic rock, british artist",pop
+994,Lazarus,David Bowie,2016,"rock, glam rock, classic rock, 80s, 70s",rock
+995,Everybody Needs Somebody To Love,Blues Brothers,1989,"blues, rhythm and blues, soul, rock, soundtrack",blues
+996,Help!,The Beatles,1965," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+997,Better Man,Pearl Jam,1994,"rock, grunge, alternative rock, 90s, alternative",rock
+998,Drops Of Jupiter (Tell Me),Train,2001,"rock, adult contemporary, alternative rock, pop, alternative, indie",rock
+999,Proud Mary,Creedence Clearwater Revival,1969,"rock, classic rock, southern rock, 60s, folk",rock
+1000,You've Got A Friend,Carole King,1971,"60s, 70s, singer-songwriter, female vocalists, folk, pop", 
+1001,Unchain My Heart,Joe Cocker,1987,"rock, classic rock, blues, blues rock, soul",rock
+1002,The Fool On The Hill,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1003,17 Miljoen Mensen,Davina Michelle & Snelle,2020,"pop, dutch, female vocalist, netherlands, linedance 2021",pop
+1004,Something Just Like This,The Chainsmokers & Coldplay,2017,"dance, pop, chris martin, electronic, rock",electronic
+1005,Rood,Marco Borsato,2006,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1006,Blaosmuziek,Gé Reinders,1999,"dutch, limburg, pop, nederlands, seenlive",nederlandstalig
+1007,You,Ten Sharp,1991,"pop, 90s, 80s, soft rock, dutch",pop
+1008,Close To Me,The Cure,1985,"new wave, post-punk, 80s, alternative, rock",rock
+1009,Marian,The Cats,1969,"oldies, pop, soft rock, 60s, skinhead reggae",pop
+1010,Motorcycle Emptiness,Manic Street Preachers,1992,"rock, britpop, alternative rock, indie, alternative",rock
+1011,Get Lucky,Daft Punk ft. Pharrell Williams,2013,"electronic, 90s, house, dance, techno, electronica",electronic
+1012,Crime Of The Century,Supertramp,1974,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+1013,Breakfast In America,Supertramp,1979,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+1014,Mooie Dag,Bløf,2002,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1015,'n Beetje Verliefd,André Hazes,1981,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+1016,You're The Voice,John Farnham,1987,"80s, pop, rock, australian, classic rock",pop
+1017,Listen To The Music,The Doobie Brothers,1972,"classic rock, rock, 70s, southern rock, soft rock",rock
+1018,Almost Cut My Hair,"Crosby, Stills, Nash & Young",1970,"classic rock, folk rock, folk, rock, 60s",rock
+1019,Mijn Houten Hart,De Poema's,1999,"nederpop, nederlands, nederlandstalig, pop, dutch",pop
+1020,Breakthru,Queen,1989,"classic rock, rock, hard rock, glam rock, 80s",rock
+1021,Zitti E Buoni,Måneskin,2021,"italian, italy, italia, sanremo, eurovision 2021", 
+1022,Tears Dry On Their Own,Amy Winehouse,2007,"soul, rhythm and blues, jazz, female vocalists, british, amy winehouse",soul
+1023,Your Latest Trick,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+1024,The Rising,Bruce Springsteen,2002,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1025,Dani California,Red Hot Chili Peppers,2006,"funk rock, rock, alternative rock, alternative, funk",rock
+1026,Ashes To Ashes,David Bowie,1980,"rock, glam rock, classic rock, 80s, 70s",rock
+1027,Love Like Blood,Killing Joke,1985,"post-punk, new wave, industrial, industrial rock, industrial metal",rock
+1028,Love And Hate,Michael Kiwanuka,2016,"soul, blues, singer-songwriter, jazz, folk",soul
+1029,Cry Baby,Janis Joplin,1971,"blues rock, classic rock, blues, female vocalists, 60s, rock",rock
+1030,Il Volo,Zucchero,1996,"italian, rock, pop, blues, soft rock",rock
+1031,Why Worry,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+1032,Can't Stop Loving You,Phil Collins,2002,"rock, pop, 80s, classic rock, soft rock",rock
+1033,One Word,Anouk,2005,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1034,The Dolphin's Cry,Live,1999,"alternative rock, 90s, rock, alternative, grunge",rock
+1035,Midnight Train To Georgia,Gladys Knight & The Pips,1973,"soul, rnb, motown, rhythm and blues, female vocalists, oldies",soul
+1036,Little Green Bag,George Baker Selection,1969,"classic rock, rock, pop, oldies, soundtrack",rock
+1037,How You Gonna See Me Now,Alice Cooper,1979,"hard rock, classic rock, american artist, rock, glam rock",rock
+1038,Winter,Tori Amos,1992,"female vocalists, alternative, singer-songwriter, piano, lush",rock
+1039,"Comptine D'un Autre Ete, L'Apres Midi (Amelie)",Yann Tiersen,2001,"instrumental, soundtrack, piano, french, classical", 
+1040,True Colors,Cyndi Lauper,1986,"pop, 80s, female vocalists, new wave, rock",pop
+1041,Pak Maar M'n Hand,Nick & Simon,2007,"nederlandstalig, dutch, pop, nederpop, nick en simon",nederlandstalig
+1042,At Last,Etta James,1960,"blues, soul, jazz, female vocalists, rhythm and blues",blues
+1043,Ordinary Love,U2,2013," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1044,I Would Die 4 U,Prince & The Revolution,1984,"funk, pop, rock, 80s, soul",soul
+1045,The Times They Are A-Changin',Bob Dylan,1964,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+1046,I've Just Lost Somebody,Golden Earrings,1968,"classic rock, rock, hard rock, dutch, 70s",rock
+1047,Faster,Within Temptation,2011,"Gothic metal, symphonic rock, symphonic metal, gothic metal, female fronted metal, metal, gothic",metal
+1048,Nergens Goed Voor,De Dijk,1989,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+1049,All I Ask,Adele,2015,"singer-songwriter, soul, female vocalists, british, pop",pop
+1050,50 Ways To Leave Your Lover,Paul Simon,1976,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+1051,Russians,Sting,1985,"rock, pop, classic rock, british, sting",rock
+1052,Beds Are Burning,Midnight Oil,1988,"rock, australian, 80s, alternative, alternative rock",rock
+1053,Waiting On A Sunny Day,Bruce Springsteen,2003,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1054,Words,Bee Gees,1968,"disco, pop, 70s, classic rock, british artist",pop
+1055,Kan Ik Iets Voor Je Doen?,De Dijk,2011,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+1056,Fool To Cry,The Rolling Stones,1976,"classic rock, rock, 60s, british, blues",rock
+1057,One Of These Days,Pink Floyd,1971,"progressive rock, psychedelic rock, classic rock, rock, psychedelic",rock
+1058,Liverpool Rain,Racoon,2012,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+1059,Het Land Van Maas En Waal,Boudewijn de Groot,1967,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+1060,De Kapitein Deel II,Acda & De Munnik,2000,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+1061,Is Dit Alles,Doe Maar,1982,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+1062,Johnny B. Goode,Chuck Berry,1958,"rock and roll, classic rock, blues, rock n roll, rock",rock
+1063,If You Leave Me Now,Chicago,1976,"classic rock, rock, 70s, 80s, soft rock",rock
+1064,Feeling Good,Nina Simone,1965,"jazz, classical, blues, soul, folk, rhythm and blues, gospel, pop, female vocalists, nina simone",jazz
+1065,You're So Vain,Carly Simon,1973,"female vocalists, pop, 70s, singer-songwriter, rock",pop
+1066,You Say,Lauren Daigle,2019,"pop, christian, soul, singer-songwriter, american",pop
+1067,Times Are Changing,Di-rect,2009,"alternative rock, rock, pop rock, dutch, pop, male vocalists",rock
+1068,Sgt. Pepper’s Lonely Hearts Club Band,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1069,Scarborough Fair,Simon & Garfunkel,1966,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+1070,Go With The Flow,Queens Of The Stone Age,2003,"stoner rock, robot rock, robot…, alternative rock, rock, hard rock, alternative",rock
+1071,S.O.S.,ABBA,1975,"pop, disco, 70s, swedish, abba",pop
+1072,Don't Go Breaking My Heart,Elton John & Kiki Dee,1976,"pop, 70s, oldies, 80s, duet",pop
+1073,Question,The Moody Blues,1970,"rock, progressive rock, classic rock, 60s, psychedelic",rock
+1074,Free Fallin' (Live),John Mayer,2008,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+1075,Driver's Seat,Sniff 'n The Tears,1980,"classic rock, rock, 80s, new wave, 70s",rock
+1076,Nederwiet,Doe Maar,1983,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+1077,No Surprises,Radiohead,1997,"alternative, rock, alternative rock, indie, electronic",rock
+1078,Wanted (Dead Or Alive),Bon Jovi,1987,"hard rock, 80s, rock, classic rock, bon jovi",rock
+1079,Top Of The World,Carpenters,1973,"pop, 70s, christmas, female vocalists, easy listening",pop
+1080,Les Lacs Du Connemara,Michel Sardou,1982,"chanson francaise, french, pop, chanson française, michel sardou", 
+1081,Supermarket Flowers,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+1082,Absolute Beginners,David Bowie,1986,"rock, glam rock, classic rock, 80s, 70s",rock
+1083,About A Girl (Unplugged),Nirvana,1993,"grunge, alternative rock, rock, alternative, 90s",rock
+1084,If You Don't Know Me By Now,Simply Red,1989,"punk, pop, soul, 80s, british, simply red",rock
+1085,Avalon,Roxy Music,1982,"art rock, glam rock, new wave, experimental, electronic, rock, 70s, 80s",rock
+1086,Mr. Jones,Counting Crows,1994,"rock, alternative rock, alternative, 90s, pop",rock
+1087,Hunger Strike,Temple Of The Dog,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+1088,Someone Somewhere In Summertime,Simple Minds,1982,"pop, rock, 80s, 90s, new wave, alternative",pop
+1089,Als Het Vuur Gedoofd Is,Acda & De Munnik,1997,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+1090,Bicycle Race,Queen,1978,"classic rock, rock, hard rock, glam rock, 80s",rock
+1091,No Mercy,Racoon,2011,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+1092,Cose Della Vita,Eros Ramazzotti & Tina Turner,1998,"pop, italian, rock, love, 90s",pop
+1093,Take This Waltz,Leonard Cohen,1988,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+1094,Send Me An Angel,Scorpions,1991,"rock, metal, he…, hard rock, classic rock, heavy metal, 80s",rock
+1095,Bestel Mar,Rowwen Hèze,1992,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+1096,Rockin' All Over The World,Status Quo,1977,"British, rock, boogie, freakbeat, psychedelia, ps…, classic rock, hard rock, british, 80s",rock
+1097,Night Boat To Cairo,Madness,1980,"pop, ska, 70s, 2 Tone, british, 80s, new wave",pop
+1098,Kristallnaach,BAP,1983,"deutschrock, german, rock, koelsch, deutsch", 
+1099,In A Lifetime,Clannad & Bono,1986,"new age, celtic, irish, folk, world",electronic
+1100,Goodbye Stranger,Supertramp,1979,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+1101,Peter Gunn Theme,"Emerson, Lake & Palmer",1980,"progressive rock, classic rock, symphonic rock, rock, 70s",rock
+1102,Let Love Rule,Lenny Kravitz,1989,"American, singer-songwriter, producer, guitarist, retro, rock, pop, funk, techno, alternative, alternative rock, lenny kravitz",rock
+1103,Pain,The War On Drugs,2017,"indie rock, indie, folk, folk rock, rock",rock
+1104,Nathalie,Gilbert Bécaud,1964,"french, chanson francaise, chanson, male vocalists, france", 
+1105,I Will Always Love You,Dolly Parton,1983,"country, female vocalists, folk, singer-songwriter, bluegrass",country
+1106,Keep On Loving You,REO Speedwagon,1981,"rock, classic rock, 80s, soft rock, hard rock",rock
+1107,Wat Zou Je Doen,Bløf,1998,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1108,Life's What You Make It,Talk Talk,1985,"synthpop, New Wave, post-rock, experimental, new wave, 80s, synth pop, pop",electronic
+1109,The Devil Made Me Do It,Golden Earring,1982,"classic rock, rock, hard rock, dutch, 70s",rock
+1110,Behind Blue Eyes,Limp Bizkit,2004,"nu metal, rap metal, rapcore, rock, alternative, metal",rock
+1111,Carry On Wayward Son,Kansas,1976,"progressive rock, classic rock, rock, hard rock, 70s",rock
+1112,Miracle,Ilse DeLange,2009,"dutch, female vocalists, country, pop, singer-songwriter",nederlandstalig
+1113,Girl,Anouk,2004,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1114,Suzanne,Herman van Veen,1969,"dutch, singer-songwriter, chanson, kleinkunst, nederlandstalig",nederlandstalig
+1115,One More Time,Daft Punk,2000,"electronic, 90s, house, dance, techno, electronica",electronic
+1116,Hold Me,Teskey Brothers,2019,"soul, blues, aussie rock",soul
+1117,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton,2012, , 
+1118,Wake Me Up Before You Go-Go,Wham!,1984,"pop, 80s, british, new wave, christmas",pop
+1119,Sound Of The Screaming Day,Golden Earrings,1967,"classic rock, rock, hard rock, dutch, 70s",rock
+1120,Don't Speak,No Doubt,1996,"ska punk, rock, ska, pop, alternative, female vocalists",reggae
+1121,Magic,Coldplay,2014,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1122,It's A Long Way There,Little River Band,1976,"classic rock, 70s, rock, soft rock, australian",rock
+1123,Use Somebody,Kings Of Leon,2008,"so…, rock, indie, indie rock, alternative, southern rock",rock
+1124,Whisky In The Jar,Thin Lizzy,1973,"hard rock, classic rock, rock, irish, 70s",rock
+1125,Time Is Running Out,Muse,2003,"alternative rock, rock, alternative, progressive rock, british",rock
+1126,Woman In Love,Barbra Streisand,1980,"female vocalists, pop, easy listening, 80s, diva",pop
+1127,Lonely Boy,The Black Keys,2011,"psychedelic rock, blues rock, rock, blues, indie rock, garage rock",rock
+1128,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,1987,"pop, soul, female vocalists, rnb, 80s",pop
+1129,Spirit Of Radio,Rush,1980,"rock, progressive rock, classic rock, hard rock, rush",rock
+1130,Tragedy,Bee Gees,1979,"disco, pop, 70s, classic rock, british artist",pop
+1131,Knockin' On Heaven's Door,Bob Dylan,1973,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+1132,Wannabe,Spice Girls,1996,"pop, 90s, british, female vocalists, dance",pop
+1133,Free Fallin',Tom Petty,1989,"classic rock, rock, singer-songwriter, folk, 80s",rock
+1134,Lovely Day,Bill Withers,1978,"singer-songwriter, soul, funk, 70s, rhythm and blues, rnb",pop
+1135,Locomotive Breath,Jethro Tull,1972,"progressive rock, folk rock, classic rock, rock, christmas",rock
+1136,It Must Have Been Love,Roxette,1990,"pop, 80s, rock, swedish, 90s",pop
+1137,Rumour Has It,Adele,2011,"singer-songwriter, soul, female vocalists, british, pop",pop
+1138,Born To Be Wild,Steppenwolf,1968,"classic rock, hard rock, rock, 60s, psychedelic",rock
+1139,Calypso,John Denver,1975,"singer-songwriter, country, folk, acoustic, christmas",pop
+1140,Tie Your Mother Down,Queen,1977,"classic rock, rock, hard rock, glam rock, 80s",rock
+1141,Harvest Moon,Neil Young,1991,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+1142,Max,Paolo Conte,1988,"jazz, italian, singer-songwriter, piano, chanson",jazz
+1143,Isn't She Lovely,Stevie Wonder,1976,"soul, funk, motown, pop, 70s",soul
+1144,Stiekem Gedanst,Toontje Lager,1983,"dutch, pop, nederlandstalig, nederpop, 80s",nederlandstalig
+1145,Disco Inferno,The Trammps,1977,"soul, disco, cover, soundtrack, funk, 70s, pop",soul
+1146,Baby Can I Hold You,Tracy Chapman,1988,"folk, female vocalists, singer-songwriter, soul, acoustic",folk
+1147,Tequila Sunrise,Eagles,1973,"rock, classic rock, 70s, soft rock, country",rock
+1148,Trouble,Coldplay,2000,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1149,Walking In Memphis,Marc Cohn,1991,"singer-songwriter, rock, pop, american, adult contemporary",pop
+1150,Storm And Thunder,Earth & Fire,1971,"progressive rock, dutch, rock, 70s, pop",rock
+1151,Road To Nowhere,Talking Heads,1985,"new wave, post-punk, 80s, rock, alternative",rock
+1152,Running To Stand Still,U2,1987," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1153,Love Me Tender,Elvis Presley,1956,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1154,Pinball Wizard,The Who,1969,"rock, classic rock, 60s, british, hard rock",rock
+1155,Message To My Girl,Split Enz,1984,"new wave, new zealand, 80s, rock, pop",rock
+1156,Long As I Can See The Light,Creedence Clearwater Revival,1970,"rock, classic rock, southern rock, 60s, folk",rock
+1157,Mijn Vlakke Land,Jacques Brel,1965,"chanson, french, chanson francaise, singer-songwriter, jacques brel",pop
+1158,All I Want,Kodaline,2012,"indie rock, irish, indie, alternative, acoustic",rock
+1159,Orinoco Flow (Sail Away),Enya,1988,"new age, celtic, ambient, female vocalists, enya",electronic
+1160,Why Does My Heart Feel So Bad,Moby,1999,"singer-songwriter, techno, breakbeat, electronic, ambient, chillout, alternative, electronica",pop
+1161,September Morn',Neil Diamond,1979,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+1162,I Wish It Would Rain Down,Phil Collins,1990,"rock, pop, 80s, classic rock, soft rock",rock
+1163,Praying For Time,George Michael,1990,"pop, duo, 80s, soul, british, dance",pop
+1164,21 Guns,Green Day,2009,"punk rock, rock, punk, pop punk, alternative",rock
+1165,Madness,Muse,2012,"alternative rock, rock, alternative, progressive rock, british",rock
+1166,I Knew You Were Waiting (For Me),George Michael & Aretha Franklin,1987,"pop, 80s, soul, 1987, party",pop
+1167,Watskeburt?!,De Jeugd Van Tegenwoordig,2005,"hip-hop, dutch, nederhop, rap, hip hop",hiphop
+1168,Verdammt Ich Lieb' Dich,Matthias Reim,1990,"pop, rock, singer-songwriter, schlager, matthias reim, deutsch, german",pop
+1169,You Oughta Know,Alanis Morissette,1996,"rock, female vocalists, alternative, singer-songwriter, pop",rock
+1170,The Reflex,Duran Duran,1984,"electronic, pop rock, New Wave, 80s, 90s, vivid, dance pop, new wave, pop, synth pop, rock",electronic
+1171,MacArthur Park,Donna Summer,1978,"disco, pop, 70s, dance, female vocalists",pop
+1172,Love Is A Losing Game,Amy Winehouse,2007,"soul, rhythm and blues, jazz, female vocalists, british, amy winehouse",soul
+1173,Water Under The Bridge,Adele,2016,"singer-songwriter, soul, female vocalists, british, pop",pop
+1174,Perhaps Love,John Denver & Placido Domingo,1981,"country, folk, classical, boring, uplifting",country
+1175,Smooth Operator,Sade,1984,"smooth jazz, soul, sophisti-pop, R&B, Latin soul, jazz, female vocalists, sade, chillout",jazz
+1176,Guilty,Barbra Streisand & Barry Gibb,1980,"female vocalists, barbra streisand, classic rock, barbra streisand y barry gibb, 80s", 
+1177,Resistance,Muse,2009,"alternative rock, rock, alternative, progressive rock, british",rock
+1178,Luv U More,DJ Paul Elstak,1995,"gabber, hardcore, happy hardcore, hardcore techno, electronic",electronic
+1179,The Way You Make Me Feel,Michael Jackson,1987,"pop, 80s, michael jackson, soul, dance",pop
+1180,L.A. Song,Beth Hart,1999,"singer-songwriter, rock, female vocalists, alternative, blues",pop
+1181,Weg Van Jou,Suzan & Freek,2020,"pop, dutch, acoustic, netherlands, nederlands",pop
+1182,All For Nothing,Kensington,2014,"indie, dutch, indie rock, rock, alternative",rock
+1183,My Silver Lining,First Aid Kit,2014,"folk, swedish, indie, female vocalists, dream pop",folk
+1184,Ich Bin Wie Du,Marianne Rosenberg,1976,"schlager, german, marianne rosenberg, deutsch, female vocalists",pop
+1185,Way Down We Go,Kaleo,2016,"rock, blues rock, icelandic, folk, alternative rock",rock
+1186,Lucy In The Sky With Diamonds,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1187,Cecilia,Simon & Garfunkel,1970,"folk, classic rock, 60s, singer-songwriter, acoustic",folk
+1188,Michelle,The Beatles,1966," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1189,Shiny Happy People,R.E.M.,1991,"rock, alternative rock, alternative, indie, 90s",rock
+1190,Why'd You Only Call Me When You're High?,Arctic Monkeys,2013,"indie rock, indie, british, rock, alternative",rock
+1191,Glory Box,Portishead,1994,"jazz, hip-hop, synth, trip-hop, electronic, female vocalists, chillout, lush",jazz
+1192,Epic,Faith No More,1989,"alternative metal, alternative rock, rock, alternative, metal",rock
+1193,Both Sides Now,Joni Mitchell,1968,"folk, singer-songwriter, female vocalists, canadian, acoustic",folk
+1194,Take Five,Dave Brubeck Quartet,1962,"jazz, cool jazz, instrumental, piano, jazz piano",jazz
+1195,Friends Will Be Friends,Queen,1986,"classic rock, rock, hard rock, glam rock, 80s",rock
+1196,Hedonism,Skunk Anansie,1997,"rock, alternative rock, female vocalists, alternative, british",rock
+1197,Fluorescent Adolescent,Arctic Monkeys,2007,"indie rock, indie, british, rock, alternative",rock
+1198,Adore You,Harry Styles,2019,"rock, pop, alternative, pop rock, british",rock
+1199,A Change Is Gonna Come,Sam Cooke,1964,"soul, rhythm and blues, oldies, gospel, 60s",soul
+1200,Lost Without You,Krezip,2019,"dutch, rock, female vocalists, pop rock, pop",nederlandstalig
+1201,Pride And Joy,Stevie Ray Vaughan,1983,"blues, blues rock, guitar, classic rock, rock",blues
+1202,You Took The Words Right Out Of My Mouth,Meat Loaf,1979,"rock, classic rock, hard rock, rock opera, 80s",rock
+1203,Let's Go Crazy,Prince,1984,"funk, pop, soul, 80s, rock",soul
+1204,Massachusetts,Bee Gees,1967,"disco, pop, 70s, classic rock, british artist",pop
+1205,Munich,Editors,2005,"indie rock, post-punk revival, indie, british, alternative, rock",rock
+1206,Heart Of Glass,Blondie,1979,"rock, singer-songwriter, new wave, punk, 70s, 80s, female vocalists, pop",rock
+1207,Broken Wings,Mr. Mister,1986,"pop, rock, 80s, jazz, rnb, 70s, new wave, classic rock",pop
+1208,1979,The Smashing Pumpkins,1996,"alternative rock, rock, grunge, alternative, 90s",rock
+1209,Alie,Normaal,1977,"rock, dutch, nederlandstalig, blues, boerenrock",rock
+1210,Homeless,Paul Simon,1986,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+1211,Christmas Lights,Coldplay,2010,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1212,When Love Comes To Town,U2 & BB King,1989," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1213,Ode To My Family,The Cranberries,1994,"alternative rock, rock, alternative, female vocalists, irish",rock
+1214,Mad World,Michael Andrews ft. Gary Jules,2003,"singer-songwriter, indie, acoustic, alternative, rock",pop
+1215,Best Of You,Foo Fighters,2005,"rock, alternative rock, grunge, alternative, hard rock",rock
+1216,Changes,David Bowie,1971,"rock, glam rock, classic rock, 80s, 70s",rock
+1217,Roadhouse Blues,The Doors,1970,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+1218,Bridges,Kensington,2017,"indie, dutch, indie rock, rock, alternative",rock
+1219,London Calling,The Clash,1979,"punk rock, 70s, rock and roll, reggae, rockabilly, punk, rock, british, classic rock",rock
+1220,This Is Not America,David Bowie & Pat Metheny Group,1985,"80s, classic rock, rock, usa, uk",rock
+1221,Kiss,Prince & The Revolution,1986,"funk, pop, rock, 80s, soul",soul
+1222,Big In Japan,Alphaville,1984,"synthpop, new wave, 80s, pop, synth pop",electronic
+1223,Mushanga,Toto,1988,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+1224,Dog Days Are Over,Florence + The Machine,2009,"art pop, Motown, indie, female vocalists, alternative, british, indie pop",pop
+1225,Since I’ve Been Loving You,Led Zeppelin,1970,"classic rock, hard rock, rock, 70s, progressive rock",rock
+1226,Save A Prayer,Duran Duran,1982,"electronic, pop rock, New Wave, 80s, 90s, vivid, dance pop, new wave, pop, synth pop, rock",electronic
+1227,Sky And Sand,Paul Kalkbrenner,2008,"minimal, electronic, techno, electro, bpitch control",electronic
+1228,Oh Well (Part I),Fleetwood Mac,1969,"rock, classic rock, 70s, blues, fleetwood mac",rock
+1229,Tous Les Mêmes,Stromae,2013,"electronic, dance, french, belgian, electronica",electronic
+1230,Pamela,Toto,1988,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+1231,The Name Of The Game,ABBA,1977,"pop, disco, 70s, swedish, abba",pop
+1232,Sowing The Seeds Of Love,Tears For Fears,1989,"pop, rock, ska, new wave, synthesiser, 80s, synth pop",pop
+1233,Baggy Trousers,Madness,1980,"pop, ska, 70s, 2 Tone, british, 80s, new wave",pop
+1234,Love Is A Battlefield,Pat Benatar,1984,"rock, 80s, female vocalists, classic rock, pop",rock
+1235,In A Gadda Da Vida,Iron Butterfly,1970,"psychedelic rock, heavy metal, 60s, one hit wonders, classic rock, psychedelic, progressive rock, rock",rock
+1236,Barracuda,Heart,1977,"rock, classic rock, female vocalists, hard rock, 80s",rock
+1237,Hilversum 3,Herman van Veen,1984,"dutch, singer-songwriter, chanson, kleinkunst, nederlandstalig",nederlandstalig
+1238,Mercedes Benz,Janis Joplin,1970,"blues rock, classic rock, blues, female vocalists, 60s, rock",rock
+1239,Hello,Lionel Richie,1984,"singer, songwriter, composer, soul, pop, 80s, rnb, lionel richie",pop
+1240,All I Need,Air,1998,"electronic, chillout, ambient, french, electronica",electronic
+1241,Ruby Tuesday,The Rolling Stones,1967,"classic rock, rock, 60s, british, blues",rock
+1242,Here Without You,3 Doors Down,2004,"post-Grunge, Alternative rock, rock, alternative rock, alternative, hard rock, 3 doors down",rock
+1243,You Can't Hurry Love,Phil Collins,1982,"rock, pop, 80s, classic rock, soft rock",rock
+1244,Stir It Up (live),Bob Marley & The Wailers,1979," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+1245,Honky Tonk Women,The Rolling Stones,1969,"classic rock, rock, 60s, british, blues",rock
+1246,Purple Haze,The Jimi Hendrix Experience,1967,"classic rock, psychedelic rock, rock, blues, 60s",rock
+1247,'39,Queen,1975,"classic rock, rock, hard rock, glam rock, 80s",rock
+1248,Fake Plastic Trees,Radiohead,1995,"alternative, rock, alternative rock, indie, electronic",rock
+1249,Nutbush City Limits,Ike & Tina Turner,1974,"soul, rhythm and blues, blues, funk, 60s",soul
+1250,Don't Bring Me Down,Electric Light Orchestra,1979,"symphonic rock, classic rock, progressive rock, rock, 70s, british",rock
+1251,Feeling Good,Michael Bublé,2005,"jazz, swing, christmas, pop, easy listening",jazz
+1252,Memory,Barbra Streisand,1982,"female vocalists, pop, easy listening, 80s, diva",pop
+1253,Scarlet Ribbons,The Cats,1969,"oldies, pop, soft rock, 60s, skinhead reggae",pop
+1254,Down On The Corner,Creedence Clearwater Revival,1969,"rock, classic rock, southern rock, 60s, folk",rock
+1255,Jumpin' Jack Flash,The Rolling Stones,1968,"classic rock, rock, 60s, british, blues",rock
+1256,The Thrill Is Gone,B.B. King,1969,"blues, blues rock, guitar, jazz, classic rock",blues
+1257,Stuck In The Middle With You,Stealers Wheel,1973,"folk, rock, classic rock, 70s, oldies",folk
+1258,Hou Van Mij,3JS,2008,"dutch, eurovision, nederlandstalig, levenslied, nederlands",nederlandstalig
+1259,Human Nature,Michael Jackson,1983,"pop, 80s, michael jackson, soul, dance",pop
+1260,Night Fever,Bee Gees,1978,"disco, pop, 70s, classic rock, british artist",pop
+1261,Sandstorm,Darude,2000,"trance, electronic, dance, techno, electronica",electronic
+1262,Bird Of Paradise,Snowy White,1984,"blues rock, blues, classic rock, rock, guitar",rock
+1263,Bedshaped,Keane,2004,"britpop, indie, alternative, british, rock",rock
+1264,Eternal Flame,The Bangles,1989,"80s, pop, female vocalists, new wave, rock",pop
+1265,Born This Way,Lady Gaga,2011,"pop, dance, electronic, female vocalists, lady gaga",pop
+1266,For Bitter Or Worse,Anouk,2009,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1267,Rosie,Claw Boys Claw,1992,"garage punk, melodic swamp rock, dutch, rock, all, garage rock, alternative", 
+1268,Just The Two Of Us,"Bill Withers & Grover Washington, Jr.",1981,"jazz, soul, classic track, aaaaaaaaahh, songs to sing along",jazz
+1269,Anne,Herman van Veen,1986,"dutch, singer-songwriter, chanson, kleinkunst, nederlandstalig",nederlandstalig
+1270,Hurt,Christina Aguilera,2006,"pop, RnB, female vocalists, soul, rnb, christina aguilera",pop
+1271,Golden Years,David Bowie,1976,"rock, glam rock, classic rock, 80s, 70s",rock
+1272,De Weg,Guus Meeuwis,2005,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+1273,Undisclosed Desires,Muse,2009,"alternative rock, rock, alternative, progressive rock, british",rock
+1274,Tom Traubert's Blues (Waltzing Mathilda),Tom Waits,1976,"blues, singer-songwriter, rock, experimental, alternative",blues
+1275,We Didn't Start The Fire,Billy Joel,1989,"classic rock, singer-songwriter, rock, pop, piano",rock
+1276,Spread Your Wings,Queen,1978,"classic rock, rock, hard rock, glam rock, 80s",rock
+1277,Ziggy Stardust,David Bowie,1972,"rock, glam rock, classic rock, 80s, 70s",rock
+1278,Vriendschap,Het Goede Doel,1983,"nederlandstalig, pop, nederpop, dutch, 80s",nederlandstalig
+1279,Somebody Told Me,The Killers,2004,"indie rock, indie, rock, alternative, alternative rock",rock
+1280,Killing Me Softly,Fugees,1996,"hip hop, soul, reggae, hip-hop, rap, rnb",hiphop
+1281,I Can't Sleep Without You (Live),Golden Earring,1992,"classic rock, rock, hard rock, dutch, 70s",rock
+1282,All Too Well (Taylor's Version),Taylor Swift,2021,"country, pop rock, synth-pop, electro-pop, dance pop, folk pop, indie folk, f…, pop, female vocalists, taylor swift, singer-songwriter",country
+1283,The Next Episode,Dr. Dre ft. Snoop Dogg,2000,"hip-hop, rap, gangsta rap, west coast, hip hop",hiphop
+1284,Cocaine,Eric Clapton,1978,"blues, classic rock, blues rock, rock, guitar",blues
+1285,Run To You,Bryan Adams,1985,"rock, classic rock, 80s, pop, christmas",rock
+1286,The Unforgiven III,Metallica,2008,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+1287,Somebody Will Know Someday,Cuby & the Blizzards,1967,"Dutch, blues, rock and roll, blues rock, dutch, rock, 60s",nederlandstalig
+1288,Alles Is Liefde,Bløf,2007,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1289,Bombay,Golden Earring,1976,"classic rock, rock, hard rock, dutch, 70s",rock
+1290,Waves,Mr. Probz,2013,"hip-hop, dutch, rap, nederhop, dance",hiphop
+1291,'n Vriend,André Hazes,1980,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+1292,Uninvited,Alanis Morissette,1999,"rock, female vocalists, alternative, singer-songwriter, pop",rock
+1293,Mull Of Kintyre,Paul McCartney & Wings,1977,"classic rock, rock, 70s, british, pop",rock
+1294,Autobahn,Kraftwerk,1975,"electronic, 70s, synthpop, german, electronica, electro",electronic
+1295,Everybody's Changing,Keane,2004,"britpop, indie, alternative, british, rock",rock
+1296,All You Need Is Love,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1297,The One I Love,R.E.M.,1987,"rock, alternative rock, alternative, indie, 90s",rock
+1298,Dat heb jij gedaan,Meau,2021,"indie, singer-songwriter, dutch, netherlands, nederlandstalig",rock
+1299,Just Say Yes,Snow Patrol,2009,"alternative, rock, indie, indie rock, alternative rock",rock
+1300,Black Velvet,Alannah Myles,1990,"rock, female vocalists, 80s, canadian, pop",rock
+1301,In Bloom,Nirvana,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+1302,Nine Million Bicycles,Katie Melua,2005,"jazz, female vocalists, blues, pop, singer-songwriter",jazz
+1303,Frozen,Madonna,1998,"pop, dance, 80s, female vocalists, electronic",pop
+1304,Two Out Of Three Ain't Bad,Meat Loaf,1977,"rock, classic rock, hard rock, rock opera, 80s",rock
+1305,Bigmouth Strikes Again,The Smiths,1986,"indie, post-punk, 80s, new wave, alternative",rock
+1306,Big Log,Robert Plant,1983,"classic rock, rock, hard rock, blues, british",rock
+1307,Don't Stop 'Til You Get Enough,Michael Jackson,1979,"pop, 80s, michael jackson, soul, dance",pop
+1308,Walking On The Moon,The Police,1979,"new wave, rock, 80s, classic rock, pop",rock
+1309,Pure Morning,Placebo,1998,"alternative rock, alternative, rock, indie, british",rock
+1310,Circles,Post Malone,2019,"hip-hop, rap, trap, cloud rap, pop",hiphop
+1311,The Promise You Made,Cock Robin,1986,"80s, pop, soft rock, rock, american",pop
+1312,Remedy,The Black Crowes,1992,"blues, Hard Rock, southern rock, blues rock, rock, hard rock, classic rock",blues
+1313,Sledgehammer,Peter Gabriel,1986,"singer-songwriter, progressive rock, rock, classic rock, peter gabriel",pop
+1314,My Sweet Lord,George Harrison,1970,"classic rock, rock, singer-songwriter, british, 70s",rock
+1315,Smoorverliefd,Snelle,2020,"dutch, netherlands, hip hop",nederlandstalig
+1316,I Heard It Through The Grapevine,Marvin Gaye,1969,"soul, rnb, motown, funk, rhythm and blues, 70s",soul
+1317,When I Was Your Man,Bruno Mars,2013,"pop, rnb, male vocalists, r&b, bruno mars",pop
+1318,Maggie May,Rod Stewart,1971,"classic rock, rock, 70s, soft rock, pop",rock
+1319,Too Much Love Will Kill You,Brian May,1992,"rock, classic rock, hard rock, british, queen",rock
+1320,Cambodia,Kim Wilde,1981,"pop, 50s, 80s, new wave, female vocalists, british",pop
+1321,Father & Friend,Alain Clark,2008,"soul, dutch, funk, pop, singer-songwriter",soul
+1322,Drive,R.E.M.,1992,"rock, alternative rock, alternative, indie, 90s",rock
+1323,Are You Gonna Go My Way,Lenny Kravitz,1993,"American, singer-songwriter, producer, guitarist, retro, rock, pop, funk, techno, alternative, alternative rock, lenny kravitz",rock
+1324,You Can Leave Your Hat On,Joe Cocker,1986,"rock, classic rock, blues, blues rock, soul",rock
+1325,Children,Robert Miles,1996,"trance, electronic, ambient, chillout, dance",electronic
+1326,House For Sale,Lucifer,1975,"doom metal, occult rock, hard rock, death metal, psychedelic rock",metal
+1327,All The Small Things,Blink-182,1999,"pop punk, punk rock, punk, rock, alternative",rock
+1328,Shake It Off,Taylor Swift,2014,"country, pop rock, synth-pop, electro-pop, dance pop, folk pop, indie folk, f…, pop, female vocalists, taylor swift, singer-songwriter",country
+1329,Amerika,Rammstein,2004,"industrial metal, metal, industrial, german, rock",electronic
+1330,IJskoud,Nielson,2018,"dutch, all, pop, nederpop, the netherlands",nederlandstalig
+1331,Follow The Sun,Xavier Rudd,2015,"soul, folk, acoustic, australian, singer-songwriter, indie",soul
+1332,I Wish,Stevie Wonder,1977,"soul, funk, motown, pop, 70s",soul
+1333,How To Save A Life,The Fray,2007,"alternative, rock, piano rock, alternative rock, indie",rock
+1334,Adventure Of A Lifetime,Coldplay,2015,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1335,San Quentin,Johnny Cash,1969,"country, folk, singer-songwriter, classic rock, christmas",country
+1336,The First Time Ever I Saw Your Face,Roberta Flack,1972,"soul, female vocalists, 70s, jazz, rnb",soul
+1337,It's All Coming Back To Me,Céline Dion,1996,"pop, female vocalists, canadian, christmas, 90s",pop
+1338,You'll Never Walk Alone,Lee Towers,1976,"levenslied, rotterdam, home collection, folk, nl2", 
+1339,Born On The Bayou,Creedence Clearwater Revival,1972,"rock, classic rock, southern rock, 60s, folk",rock
+1340,Eloise,Barry Ryan,1968,"pop, 60s, singer-songwriter, rock, oldies",pop
+1341,Times Like These,Foo Fighters,2003,"rock, alternative rock, grunge, alternative, hard rock",rock
+1342,Farewell To The Fairground,White Lies,2009,"indie rock, post-punk, indie, british, alternative",rock
+1343,Can You Feel The Love Tonight,Elton John,1994,"pop, classic rock, rock, singer-songwriter, 70s",pop
+1344,Euphoria,Loreen,2012,"pop, swedish, eurovision, female vocalists, dance",pop
+1345,Seven Wonders,Fleetwood Mac,1987,"rock, classic rock, 70s, blues, fleetwood mac",rock
+1346,Het Is Koud Zonder Jou,André Hazes,1980,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+1347,Bad,Michael Jackson,1987,"pop, 80s, michael jackson, soul, dance",pop
+1348,Scenes From An Italian Restaurant,Billy Joel,1977,"classic rock, singer-songwriter, rock, pop, piano",rock
+1349,Fairytale Of New York,Kirsty Maccoll & Pogues,1987,"female vocalists, pop, 80s, singer-songwriter, folk",pop
+1350,So Far Away,Dire Straits,1985,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+1351,The Living Years,Mike & The Mechanics,1989,"80s, rock, pop, classic rock, progressive rock",rock
+1352,Nu Wij Niet Meer Praten,Pommelien Thijs & Jaap Reesema,2020,"nederlandstalig, belgian female vocalists, europe 2021, netherlands",nederlandstalig
+1353,Holiday,Green Day,2005,"punk rock, rock, punk, pop punk, alternative",rock
+1354,New Light,John Mayer,2018,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+1355,California Love,2Pac ft. Dr. Dre,1996,"rap, hip-hop, gangsta rap, west coast rap, 2pac",hiphop
+1356,Burning Heart,Vandenberg,1983,"Dutch, hard rock, heavy metal, rock, dutch, 80s",nederlandstalig
+1357,Kalverliefde,Robert Long,1974,"pop, dutch, singer-songwriter, 80s, nederpop",pop
+1358,A Thing Called Love,Johnny Cash,1972,"country, folk, singer-songwriter, classic rock, christmas",country
+1359,(Something Inside) So Strong,Labi Siffre,1987,"soul, funk, singer-songwriter, pop, british",soul
+1360,The Boys Are Back In Town,Thin Lizzy,1976,"hard rock, classic rock, rock, irish, 70s",rock
+1361,Always On My Mind,Willie Nelson,1984,"country, outlaw country, folk, singer-songwriter, willie nelson",country
+1362,New York State Of Mind,Billy Joel,1976,"classic rock, singer-songwriter, rock, pop, piano",rock
+1363,The Man Who Sold The World,David Bowie,1970,"rock, glam rock, classic rock, 80s, 70s",rock
+1364,Breathe,The Prodigy,1996,"electronic, techno, industrial, breakbeat, dance",electronic
+1365,Dear Mama,2Pac,1998,"rap, hip-hop, gangsta rap, west coast rap, 2pac",hiphop
+1366,The Wild Rover,The Dubliners,1964,"folk, irish, irish folk, celtic, traditional",folk
+1367,Love The Way You Lie,Eminem & Rihanna,2010,"rap, hip-hop, eminem, hip hop, pop",hiphop
+1368,Une Belle Histoire/Een Mooi Verhaal,Alderliefste & Paul de Leeuw,2006,"dutch, nederlandstalig, nederpop, netherlands, nederlands",nederlandstalig
+1369,Animals,Martin Garrix,2013,"house, electronic, dance, electropop, pop",electronic
+1370,Keep Your Head Up,Ben Howard,2011,"folk, acoustic, singer-songwriter, british, indie",folk
+1371,Shut Your Eyes,Snow Patrol,2007,"alternative, rock, indie, indie rock, alternative rock",rock
+1372,Find The River,R.E.M.,1992,"rock, alternative rock, alternative, indie, 90s",rock
+1373,Beat Me,Davina Michelle,2020,"pop, dutch, female vocalist, netherlands, linedance 2021",pop
+1374,.. In Paris,Kanye West & Jay-Z,2011,"hip-hop, rap, kanye west, jay-z, hip hop",hiphop
+1375,My Heart Will Go On,Céline Dion,1998,"pop, female vocalists, canadian, christmas, 90s",pop
+1376,Hymn For The Weekend,Coldplay,2015,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1377,Zaterdag,Bløf,1999,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1378,Weather With You,Crowded House,1991,"rock, pop, 80s, australian, new zealand",rock
+1379,The Eve Of The War,Jeff Wayne & Justin Hayward,1978,"progressive rock, soundtrack, rock, electronic, musical",rock
+1380,I'd Rather Go Blind,Etta James,1967,"blues, soul, jazz, female vocalists, rhythm and blues",blues
+1381,Mirrors,Justin Timberlake,2013,"pop, rnb, dance, male vocalists, hip-hop",pop
+1382,Sexual Healing,Marvin Gaye,1982,"soul, rnb, motown, funk, rhythm and blues, 70s",soul
+1383,Appleknockers Flophouse,Cuby & the Blizzards,1969,"Dutch, blues, rock and roll, blues rock, dutch, rock, 60s",nederlandstalig
+1384,"He Ain't Heavy, He's My Brother",The Hollies,1969,"beat, pop, 60s, folk, supergroup, folk…, classic rock, british, rock, oldies",rock
+1385,Biko,Peter Gabriel,1980,"singer-songwriter, progressive rock, rock, classic rock, peter gabriel",pop
+1386,Club Tropicana,Wham!,1983,"pop, 80s, british, new wave, christmas",pop
+1387,Dodenrit,Drs. P,1974,"dutch, all, folk, cabaret, nederlandstalig",nederlandstalig
+1388,You Don't Fool Me,Queen,1996,"classic rock, rock, hard rock, glam rock, 80s",rock
+1389,Casser La Voix (Live),Patrick Bruel,1992,"french, chanson francaise, pop, singer-songwriter, francophone", 
+1390,As,George Michael & Mary J. Blige,1999,"pop, rnb, soul, 90s, female vocalists",pop
+1391,We Come 1,Faithless,2001,"electronic, trip-hop, dance, house, electronica",electronic
+1392,Het Laatste Rondje,André Hazes,1984,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+1393,Galway Girl,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+1394,Bad Romance,Lady Gaga,2009,"pop, dance, electronic, female vocalists, lady gaga",pop
+1395,Afraid of the dark,Chef'Special,2021,"funk, rock, ska, reggae, rap",soul
+1396,﻿Rapper's Delight,Sugarhill Gang,1979,"hip-hop, rap, old school, hip hop, 80s",hiphop
+1397,After Midnight,J.J. Cale,1972,"blues, blues rock, singer-songwriter, rock, classic rock",blues
+1398,Uptown Girl,Billy Joel,1983,"classic rock, singer-songwriter, rock, pop, piano",rock
+1399,Lessons In Love,Level 42,1986,"jazz-funk, 80s, pop, funk, new wave, bass",jazz
+1400,Thank God It's Christmas,Queen,1984,"classic rock, rock, hard rock, glam rock, 80s",rock
+1401,La Solitudine,Laura Pausini,1993,"Latin pop, Pop, pop, italian, female vocalists, italian pop, latin pop",pop
+1402,One Vision,Queen,1985,"classic rock, rock, hard rock, glam rock, 80s",rock
+1403,Glycerine,Bush,1994,"grunge, alternative rock, rock, alternative, 90s",rock
+1404,Streets Of London,Ralph McTell,1972,"folk, singer-songwriter, acoustic, british, oldies",folk
+1405,Food For Thought,UB40,1983,"reggae, roots reggae, dub, lovers rock, rocksteady, 80s, pop, ska, british",reggae
+1406,Fight For Your Right (To Party),Beastie Boys,1986,"hip-hop, rap, hip hop, alternative, 80s",hiphop
+1407,In Dreams,Roy Orbison,1963,"singer-songwriter, rock and roll, falsetto, classic rock, oldies, rockabilly, 60s, rock",pop
+1408,Living In Another World,Talk Talk,1986,"synthpop, New Wave, post-rock, experimental, new wave, 80s, synth pop, pop",electronic
+1409,Hijo De La Luna,Mecano,1990,"pop, spanish, 80s, female vocalists, spanish pop",pop
+1410,Blueberry Hill,Fats Domino,1957,"rock and roll, blues, rhythm and blues, oldies, rock n roll",rock
+1411,Daughter,Pearl Jam,1993,"rock, grunge, alternative rock, 90s, alternative",rock
+1412,La Vie En Rose,Grace Jones,1977,"disco, new wave, pop, 80s, female vocalists",pop
+1413,De Bestemming,Marco Borsato,1998,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1414,Dynamite,Mud,1974,"glam rock, rock, 70s, classic rock, christmas",rock
+1415,By The Way,Red Hot Chili Peppers,2002,"funk rock, rock, alternative rock, alternative, funk",rock
+1416,'t Dondert En 't Bliksemt,Guus Meeuwis,1998,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+1417,Watermensen,3JS,2008,"dutch, eurovision, nederlandstalig, levenslied, nederlands",nederlandstalig
+1418,Ben Ik Te Min,Armand,1967,"Nederbiet, singer-songwriter, nederlandstalig, pop, wrong picture, dutch",rock
+1419,24K Magic,Bruno Mars,2016,"pop, rnb, male vocalists, r&b, bruno mars",pop
+1420,Voltooid Verleden Tijd,Is Ook Schitterend,1997,"nederlandstalig, rock, dutch, nederlands, pop",nederlandstalig
+1421,Nur Geträumt,Nena,1983,"pop, german, 80s, new wave, female vocalists",pop
+1422,Happier,Ed Sheeran,2017,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+1423,Best Song Ever,One Direction,2013,"pop, british, one direction, boyband, love at first listen",pop
+1424,Memories,Earth & Fire,1972,"progressive rock, dutch, rock, 70s, pop",rock
+1425,N'Oubliez Jamais,Joe Cocker,1997,"rock, classic rock, blues, blues rock, soul",rock
+1426,Home Again,Kensington,2012,"indie, dutch, indie rock, rock, alternative",rock
+1427,Sir Duke,Stevie Wonder,1977,"soul, funk, motown, pop, 70s",soul
+1428,Sammy,Ramses Shaffy,1966,"dutch, singer-songwriter, nederlandstalig, chanson, kleinkunst",nederlandstalig
+1429,Theme From 'New York New York',Frank Sinatra,1980,"swing, jazz, christmas, oldies, vocal jazz",jazz
+1430,Mooi,Marco Borsato,2015,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1431,Addicted To You,Avicii,2014,"Swedish, house, electronic, dance, progressive house, electro house",electronic
+1432,Cleanin' Out My Closet,Eminem,2002,"rap, hip-hop, eminem, hip hop, pop",hiphop
+1433,No Good (Start The Dance),The Prodigy,1994,"electronic, techno, industrial, breakbeat, dance",electronic
+1434,Moondance,Van Morrison,1970,"classic rock, singer-songwriter, folk, blues, rock",rock
+1435,It's A Sin,Pet Shop Boys,1987,"synthpop, pop, electronic, 80s, new wave",electronic
+1436,Home,Dotan,2014,"singer-songwriter, indie, dutch, all, pop",pop
+1437,Simple Man,Lynyrd Skynyrd,1973,"southern rock, classic rock, rock, hard rock, 70s",rock
+1438,Do They Know It's Christmas,Band Aid,1984,"pop, christmas, 80s, rock, british",pop
+1439,You've Got A Friend,James Taylor,1971,"singer-songwriter, folk, acoustic, classic rock, james taylor",pop
+1440,Jump Around,House Of Pain,1992,"hip-hop, rap, old school, hip hop, 90s",hiphop
+1441,What A Fool Believes,The Doobie Brothers,1978,"classic rock, rock, 70s, southern rock, soft rock",rock
+1442,Before You Go,Lewis Capaldi,2019,"pop, pop rock, scottish, singer-songwriter, alternative",pop
+1443,Devil Don't Care,Di-rect,2019,"alternative rock, rock, pop rock, dutch, pop, male vocalists",rock
+1444,Livin' Thing,Electric Light Orchestra,1976,"symphonic rock, classic rock, progressive rock, rock, 70s, british",rock
+1445,More Than Words,Extreme,1991,"hard rock, rock, funk metal, hair metal, metal",rock
+1446,The Way It Is,Bruce Hornsby & The Range,1986,"80s, classic rock, rock, singer-songwriter, soft rock",rock
+1447,It's The End Of The World As We Know It,R.E.M.,1987,"rock, alternative rock, alternative, indie, 90s",rock
+1448,Kold Bloed,Bökkers,2019,"rock, dutch, boerenrock, streektaal",rock
+1449,Home Again,Michael Kiwanuka,2012,"soul, blues, singer-songwriter, jazz, folk",soul
+1450,School's Out,Alice Cooper,1972,"hard rock, classic rock, american artist, rock, glam rock",rock
+1451,Everytime I Think Of You,The Babys,1979,"pop rock, 70s, 80s, power pop, classic rock, rock, japanese, hard rock",rock
+1452,To Love Somebody,Bee Gees,1967,"disco, pop, 70s, classic rock, british artist",pop
+1453,In The Army Now,Status Quo,1986,"British, rock, boogie, freakbeat, psychedelia, ps…, classic rock, hard rock, british, 80s",rock
+1454,Don't You Want Me,The Human League,1982,"synthpop, Post-Punk, New Wave, new wave, 80s, electronic, synth pop",electronic
+1455,The Devil's Son,Danny Vera,2013,"americana, rock, singer-songwriter, country, dutch",country
+1456,Good Old-Fashioned Lover Boy,Queen,1976,"classic rock, rock, hard rock, glam rock, 80s",rock
+1457,Dazed And Confused,Led Zeppelin,1969,"classic rock, hard rock, rock, 70s, progressive rock",rock
+1458,Hall Of Fame,The Script ft. Will.I.Am,2012,"pop rock, rock, pop, irish, acoustic",rock
+1459,Learning To Fly,Tom Petty & The Heartbreakers,1991,"rock, classic rock, 80s, singer-songwriter, christmas",rock
+1460,Buddy Joe,Golden Earring,1972,"classic rock, rock, hard rock, dutch, 70s",rock
+1461,Uncertain Smile,The The,1984,"new wave, post-punk, 80s, alternative, indie",rock
+1462,Crazy,Seal,1991,"soul, pop, 90s, singer-songwriter, seal",soul
+1463,The Air That I Breathe,The Hollies,1974,"beat, pop, 60s, folk, supergroup, folk…, classic rock, british, rock, oldies",rock
+1464,Fireflies,Owl City,2009,"electronica, electronic, indie, powerpop, pop",electronic
+1465,Goodbye My Lover,James Blunt,2005,"pop, singer-songwriter, acoustic, indie, rock",pop
+1466,In These Arms,Bon Jovi,1993,"hard rock, 80s, rock, classic rock, bon jovi",rock
+1467,Shoes Of Lightning,Racoon,2013,"dutch, rock, pop, pop rock, alternative",nederlandstalig
+1468,Talkin' Bout A Revolution,Tracy Chapman,1988,"folk, female vocalists, singer-songwriter, soul, acoustic",folk
+1469,When I'm Sixty-Four,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1470,The Saints Are Coming,U2 & Green Day,2006,"rock, punk rock, alternative rock, alternative, u2",rock
+1471,Make Me Smile (Come Up And See Me),Steve Harley & Cockney Rebel,1975,"glam rock, rock, 70s, classic rock, british",rock
+1472,Wij Zullen Doorgaan,Ramses Shaffy,1975,"dutch, singer-songwriter, nederlandstalig, chanson, kleinkunst",nederlandstalig
+1473,Bad Liar,Imagine Dragons,2018,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+1474,Hemel Valt,Typhoon,2015,"nederhop, hip-hop, indie, dutch, folk",hiphop
+1475,Money Money Money,ABBA,1976,"pop, disco, 70s, swedish, abba",pop
+1476,Afscheid Nemen Bestaat Niet,Marco Borsato,2003,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1477,Summertime,Ella Fitzgerald & Louis Armstrong,1958,"jazz, swing, blues, jazz vocal, vocal jazz",jazz
+1478,Relight My Fire,Dan Hartman,1980,"disco, 80s, pop, dance, soft rock",pop
+1479,I'm Not So Tough,Ilse DeLange,1998,"dutch, female vocalists, country, pop, singer-songwriter",nederlandstalig
+1480,Kijk Omhoog,Nick & Simon,2007,"nederlandstalig, dutch, pop, nederpop, nick en simon",nederlandstalig
+1481,This Town,Niall Horan,2016,"pop, folk, irish, singer-songwriter, male vocalists",pop
+1482,Niet Voor Het Laatst,Rob de Nijs,2017,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+1483,Bad Habits,Ed Sheeran,2021,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+1484,Weekend,Earth & Fire,1979,"progressive rock, dutch, rock, 70s, pop",rock
+1485,Jerusalem,Anouk,2005,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1486,Going Home (Theme From Local Hero),Mark Knopfler,1983,"rock, classic rock, singer-songwriter, blues, guitar",rock
+1487,Pa,Doe Maar,1983,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+1488,R U Kiddin' Me,Anouk,1999,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1489,Don't Answer Me,The Alan Parsons Project,1984,"progressive rock, classic rock, rock, 80s, symphonic rock",rock
+1490,Love Her Madly,The Doors,1971,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+1491,Memory Remains,Metallica,1997,"heavy metal, thrash metal, metal, hard rock, metallica",metal
+1492,Don't Leave Me This Way,The Communards & Sarah Jane Morris,1986,linedance 2011, 
+1493,Greatest Love Of All,Whitney Houston,1986,"pop, soul, female vocalists, rnb, 80s",pop
+1494,Vlieg Met Me Mee (Live),Paul de Leeuw,1992,"dutch, nederlandstalig, nederpop, netherlands, nederlands",nederlandstalig
+1495,In My Life,The Beatles,1965," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1496,I Love You Like I Love Myself,Herman Brood & His Wild Romance,1979,"rock, blues rock, dutch, classic rock, pop",rock
+1497,Colors,Black Pumas,2019,"soul, rnb, blues, rock",soul
+1498,Crazy On You,Heart,1976,"rock, classic rock, female vocalists, hard rock, 80s",rock
+1499,All My Life,Foo Fighters,2002,"rock, alternative rock, grunge, alternative, hard rock",rock
+1500,Johnny Make Believe,Golden Earring,1994,"classic rock, rock, hard rock, dutch, 70s",rock
+1501,Cold As Ice,Foreigner,1977,"classic rock, rock, 80s, hard rock, foreigner",rock
+1502,Bend And Break,Keane,2005,"britpop, indie, alternative, british, rock",rock
+1503,Vluchten Kan Niet Meer,Jenny Arean & Frans Halsema,1977,"the netherlands, 82",nederlandstalig
+1504,Mia,Gorki,1992,"belgian, rock, nederlandstalig, belgium, alternative",rock
+1505,Raise Your Glass,P!nk,2010,"pop, pop rock, female vocalists, rock, pink",pop
+1506,Love Me Just A Little Bit More (Totally Hooked On You),Dolly Dots,1983,"pop, dutch, 80s, dance, girl group",pop
+1507,Live And Let Die,Guns N' Roses,1991,"hard rock, rock, classic rock, 80s, guns n roses",rock
+1508,Run To The Water,Live,2000,"alternative rock, 90s, rock, alternative, grunge",rock
+1509,Nescio,Nits,1983,"Dutch, art rock, dutch, pop, indie pop, 80s, alternative",nederlandstalig
+1510,Skandal Im Sperrbezirk,Spider Murphy Gang,1982,"german, ndw, neue deutsche welle, deutsch, 80s", 
+1511,On Top Of The World,Imagine Dragons,2013,"alternative rock, indie, indie rock, alternative, rock, indie pop",rock
+1512,I've Had The Time Of My Life,Bill Medley & Jennifer Warnes,1987,"80s, soundtrack, pop, dirty dancing, dance", 
+1513,As Tears Go By,The Rolling Stones,1966,"classic rock, rock, 60s, british, blues",rock
+1514,Annabel,Hans de Booij,1983,"pop, 80s, dutch, the netherlands, djable",pop
+1515,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott McKenzie,1967,"classic rock, 60s, folk, rock, oldies",rock
+1516,All Night Long (All Night),Lionel Richie,1983,"singer, songwriter, composer, soul, pop, 80s, rnb, lionel richie",pop
+1517,Don't Let Me Down,The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1518,At Seventeen,Janis Ian,1975,"folk, singer-songwriter, female vocalists, classic rock, pop",folk
+1519,Waiting On The World To Change,John Mayer,2006,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+1520,One Love/People Get Ready,Bob Marley & The Wailers,1984," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+1521,Geen Kind Meer,Karin Bloemen,1996,"female vocalists, all, nederlandstalig, pittige tijden, the masked singer", 
+1522,Sorry Seems To Be The Hardest Word,Elton John,1976,"pop, classic rock, rock, singer-songwriter, 70s",pop
+1523,Human Touch,Bruce Springsteen,1992,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1524,Walk This Way,Run DMC & Aerosmith,1986,"hip hop, hip-hop, rap, old school, 80s",hiphop
+1525,A Night Like This,Caro Emerald,2009,"jazz, female vocalists, pop, dutch, swing",jazz
+1526,Nicotine,Chef'Special,2017,"funk, rock, ska, reggae, rap",soul
+1527,The Business,Tiësto,2020,"trance, electronic, dance, techno, electronica",electronic
+1528,Sloop John B,The Beach Boys,1966,"rock, pop, doo-wop, rock and roll, vocal surf, 60s, California Sound, progressive pop, classical, jazz, rock a…, Cal…, classic rock, surf",rock
+1529,Pumped Up Kicks,Foster The People,2011,"indie rock, indie pop, indie, alternative, american",rock
+1530,Big Love,Fleetwood Mac,1987,"rock, classic rock, 70s, blues, fleetwood mac",rock
+1531,Apache,The Shadows,1960,"instrumental, classic rock, 60s, rock, oldies",rock
+1532,Hier Komt De Storm,Frank Boeijen Groep,1988,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+1533,If You Could See Me Now,The Script,2013,"pop rock, rock, pop, irish, acoustic",rock
+1534,So Incredible,Ilse DeLange,2008,"dutch, female vocalists, country, pop, singer-songwriter",nederlandstalig
+1535,Heaven For Everyone,Queen,1995,"classic rock, rock, hard rock, glam rock, 80s",rock
+1536,Harder Better Faster Stronger,Daft Punk,2001,"electronic, 90s, house, dance, techno, electronica",electronic
+1537,Thank God I'm A Country Boy,John Denver,1975,"singer-songwriter, country, folk, acoustic, christmas",pop
+1538,Babooshka,Kate Bush,1980,"female vocalists, singer-songwriter, alternative, pop, 80s",pop
+1539,Levitating,Dua Lipa ft. DaBaby,2020,"pop, synthpop, british, electropop, female vocalists",pop
+1540,Times Were When,The Cats,1968,"oldies, pop, soft rock, 60s, skinhead reggae",pop
+1541,Daniel,Elton John,1973,"pop, classic rock, rock, singer-songwriter, 70s",pop
+1542,Show Me The Way,Peter Frampton,1976,"70s, arena rocker, psychedeli, classic rock, rock, singer-songwriter, guitar", 
+1543,Right Next Door (Because Of Me),The Robert Cray Band,1987,"blues, blues rock, soul, american, rock",blues
+1544,With Arms Wide Open,Creed,1999,"post-grunge, rock, alternative rock, hard rock, grunge, alternative",rock
+1545,7 Years,Lukas Graham,2015,"pop, soul, danish, retro pop",pop
+1546,Sure Know Something,KISS,1979,"hard rock, glam rock, classic rock, rock, 80s",rock
+1547,Sunrise,Norah Jones,2004,"jazz, female vocalists, blues, singer-songwriter, pop",jazz
+1548,I'm A Believer,Monkees,1966,"60s, classic rock, pop, rock, oldies",rock
+1549,I Got You Babe,UB40 & Chrissie Hynde,1985,"reggae, rock, 80s, duo, pop",reggae
+1550,Unwritten,Natasha Bedingfield,2004,"Pop, pop, female vocalists, british, singer-songwriter, natasha bedingfield",pop
+1551,(You're The) Devil In Disguise,Elvis Presley,1963,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1552,7 Seconds,Youssou N'Dour & Neneh Cherry,1994,"pop, world, 90s, african, french",pop
+1553,I Am The Walrus,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1554,Red Mij Niet,Maarten Van Roozendaal,2001,"cabaret, singer-songwriter, dutch, netherlands, nederlandstalig",pop
+1555,Je Veux De L'Amour,Raymond Van Het Groenewoud,1980,"kleinkunst, belgian, nederlandstalig, singer-songwriter, belgium",nederlandstalig
+1556,You Have Been Loved,George Michael,1997,"pop, duo, 80s, soul, british, dance",pop
+1557,Diane,Therapy?,1995,"alternative rock, punk rock, rock, alternative, hard rock, metal",rock
+1558,An American Trilogy,Elvis Presley,1972,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1559,Tuesday Afternoon,The Moody Blues,1968,"rock, progressive rock, classic rock, 60s, psychedelic",rock
+1560,Dolce Vita,Ryan Paris,1983,"pop, italo disco, 80s, disco, dance",pop
+1561,Speed Of Sound,Coldplay,2005,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1562,Rivers Of Babylon,Boney M.,1978,"disco, pop, dance, 80s, 70s",pop
+1563,Quiero,Julio Iglesias,1976,"latin, spanish, julio iglesias, pop, romantic",latin
+1564,Zij Weet Het,Tino Martin,2019,"dutch, netherlands, nederlands",nederlandstalig
+1565,We All Stand Together,Paul McCartney & Frog Chorus,1985,"classic rock, rock, british, singer-songwriter, pop",rock
+1566,When You Say Nothing At All,Ronan Keating,1999,"pop, irish, male vocalists, ronan keating, brit pop",pop
+1567,Mannish Boy,Muddy Waters,1988,"Chicago Blues, blues, chicago blues, delta blues, classic blues, muddy waters",blues
+1568,My Baby Just Cares For Me,Nina Simone,1987,"jazz, classical, blues, soul, folk, rhythm and blues, gospel, pop, female vocalists, nina simone",jazz
+1569,"Oh, Pretty Woman",Roy Orbison,1964,"singer-songwriter, rock and roll, falsetto, classic rock, oldies, rockabilly, 60s, rock",pop
+1570,Lady Jane,The Rolling Stones,1966,"classic rock, rock, 60s, british, blues",rock
+1571,Lookin' Out My Back Door,Creedence Clearwater Revival,1970,"rock, classic rock, southern rock, 60s, folk",rock
+1572,I Feel It Coming,The Weeknd ft. Daft Punk,2016,canada, 
+1573,Sunny Days,Armin van Buuren ft. Josh Cumbee,2017,"trance, progressive trance, electronic, vocal trance, dance",electronic
+1574,Mary Jane's Last Dance,Tom Petty & The Heartbreakers,1993,"rock, classic rock, 80s, singer-songwriter, christmas",rock
+1575,I've Got Dreams To Remember,Otis Redding,1968,"soul, rhythm and blues, 60s, blues, christmas",soul
+1576,Aanzoek Zonder Ringen,Bløf,2006,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1577,Clocks (Rhythms Del Mundo),Coldplay & Buena Vista Social Club,2006,"Cuban, latin, cuban, jazz, latin jazz, world",latin
+1578,Relax,Frankie Goes To Hollywood,1984,"pop, 80s, new wave, british, dance",pop
+1579,Live Is Life,Opus,1985,"80s, rock, pop, austrian, pop rock",rock
+1580,What Lies Ahead,Kensington,2019,"indie, dutch, indie rock, rock, alternative",rock
+1581,Because The Night,Patti Smith Group,1978,"punk, poetry, rock, female vocalists, singer-songwriter, alternative",rock
+1582,Teardrops,Womack & Womack,1988,"soul, 80s, funk, disco, pop",soul
+1583,Love On The Rocks,Neil Diamond,1980,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+1584,Le Freak,Chic,1978,"American, disco, funk, soul, 70s, dance",rock
+1585,Stars,Simply Red,1991,"punk, pop, soul, 80s, british, simply red",rock
+1586,Grace Kelly,Mika,2007,"pop, british, britpop, electronic, alternative",pop
+1587,Summer Night City,ABBA,1978,"pop, disco, 70s, swedish, abba",pop
+1588,I Started A Joke,Bee Gees,1969,"disco, pop, 70s, classic rock, british artist",pop
+1589,Als De Rook Om Je Hoofd Is Verdwenen,Boudewijn de Groot,1972,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+1590,Fire,The Pointer Sisters,1979,"American, vocal group, sisters, disco, 80s, pop, soul, female vocalists",rock
+1591,25 Or 6 To 4,Chicago,1970,"classic rock, rock, 70s, 80s, soft rock",rock
+1592,Mensch,Herbert Grönemeyer,2003,"german, pop, deutsch, singer-songwriter, rock",pop
+1593,Moon Over Bourbon Street,Sting,1985,"rock, pop, classic rock, british, sting",rock
+1594,City Of Blinding Lights,U2,2005," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1595,Wanna Be Startin' Somethin',Michael Jackson,1983,"pop, 80s, michael jackson, soul, dance",pop
+1596,Roundabout,Yes,1972,"progressive rock, classic rock, rock, british, yes",rock
+1597,Off The Wall,Michael Jackson,1979,"pop, 80s, michael jackson, soul, dance",pop
+1598,Summertime,Brainbox,1969,"blues rock, classic rock, psychedelic rock, dutch, psychedelic",rock
+1599,Give Up Your Guns,The Buoys,1972,"rock, classic rock, oldies, 60s, pop",rock
+1600,Black Night,Deep Purple,1970,"hard rock, heavy metal, progressive, classic rock, rock, progressive rock",rock
+1601,You're Beautiful,James Blunt,2005,"pop, singer-songwriter, acoustic, indie, rock",pop
+1602,Nights On Broadway,Bee Gees,1975,"disco, pop, 70s, classic rock, british artist",pop
+1603,Take Me Home,Phil Collins,1985,"rock, pop, 80s, classic rock, soft rock",rock
+1604,Rooster,Alice In Chains,1992,"rock, grunge, alternative rock, hard rock, 90s",rock
+1605,Blank Space,Taylor Swift,2015,"country, pop rock, synth-pop, electro-pop, dance pop, folk pop, indie folk, f…, pop, female vocalists, taylor swift, singer-songwriter",country
+1606,Bullet With Butterfly Wings,The Smashing Pumpkins,1995,"alternative rock, rock, grunge, alternative, 90s",rock
+1607,Ik Leef Niet Meer Voor Jou,Marco Borsato,1996,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1608,The Racing Rats,Editors,2008,"indie rock, post-punk revival, indie, british, alternative, rock",rock
+1609,Talk,Coldplay,2005,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1610,Kids,MGMT,2007,"indie, electronic, psychedelic, alternative, indie pop",rock
+1611,Is This Love,Bob Marley & The Wailers,1979," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+1612,One Moment In Time,Whitney Houston,1988,"pop, soul, female vocalists, rnb, 80s",pop
+1613,Faded,Alan Walker,2016,"electronic, house, dance, norwegian, edm",electronic
+1614,Unbeschreiblich Weiblich,Nina Hagen,1979,"punk, post-punk, new wave, german, female vocalists",rock
+1615,Are You Lonesome Tonight,Elvis Presley,1961,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1616,Late In The Evening,Paul Simon,1980,"folk-rock, singer-songwriter, folk, classic rock, acoustic, pop",rock
+1617,Hungry Heart,Bruce Springsteen,1980,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1618,Handle With Care,Traveling Wilburys,1988,"supergroup, classic rock, rock, 80s, traveling wilburys",rock
+1619,Still Believe,Herman Brood & His Wild Romance,1978,"rock, blues rock, dutch, classic rock, pop",rock
+1620,Cocaine,J.J. Cale,1976,"blues, blues rock, singer-songwriter, rock, classic rock",blues
+1621,Why Can't This Be Love,Van Halen,1987,"hard rock, classic rock, rock, heavy metal, 80s",rock
+1622,Oxygene IV,Jean Michel Jarre,1977,"composer, performer, producer, electronic, ambient, new age, instrumental, french", 
+1623,She's Leaving Home,The Beatles,1967," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1624,Forever Autumn,Jeff Wayne & Justin Hayward,1978,"progressive rock, soundtrack, rock, electronic, musical",rock
+1625,Kleur,Snelle,2020,"dutch, netherlands, hip hop",nederlandstalig
+1626,Three Days In A Row,Anouk,2009,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1627,In Your Eyes,The Weeknd,2020,"rnb, electronic, canadian, dubstep, r&b",soul
+1628,Spicks And Specks,Bee Gees,1967,"disco, pop, 70s, classic rock, british artist",pop
+1629,Guitar Man,Elvis Presley,1968,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1630,Don't Stand So Close To Me,The Police,1980,"new wave, rock, 80s, classic rock, pop",rock
+1631,Blitzkrieg Bop,Ramones,1976,"punk rock, punk, 70s, classic rock, rock",rock
+1632,Lost On You,LP,2016,"indie, rock, synthpop, electronic, pop",rock
+1633,Time After Time,Cyndi Lauper,1984,"pop, 80s, female vocalists, new wave, rock",pop
+1634,I'm Going Home,Ten Years After,1971,"blues rock, classic rock, rock, blues, hard rock",rock
+1635,Live Forever,Oasis,1994,"britpop, rock, british, alternative, indie",rock
+1636,Flappie,Youp van 't Hek,1981,"cabaret, comedy, dutch, christmas, folk", 
+1637,Up Where We Belong,Joe Cocker & Jennifer Warnes,1982,"80s, classic rock, pop, rock, duets",rock
+1638,Dear Mr. President,P!nk,2006,"pop, pop rock, female vocalists, rock, pink",pop
+1639,God Save The Queen,Sex Pistols,1979,"punk rock, punk, british, 70s, rock",rock
+1640,Wonderful Life,Black,1987,"80s, pop, soft rock, singer-songwriter, rock",pop
+1641,Blackstar,David Bowie,2015,"rock, glam rock, classic rock, 80s, 70s",rock
+1642,Silence (Tiesto Mix),Delerium ft. Sarah McLachlan,1997,"ambient, electronic, chillout, trance, new age",electronic
+1643,(They Long To Be) Close To You,Carpenters,1970,"pop, 70s, christmas, female vocalists, easy listening",pop
+1644,Save Me,Queen,1980,"classic rock, rock, hard rock, glam rock, 80s",rock
+1645,I Have Nothing,Whitney Houston,1993,"pop, soul, female vocalists, rnb, 80s",pop
+1646,Green Green Grass Of Home,Tom Jones,1966,"pop, oldies, classic rock, male vocalists, rock",pop
+1647,Hold Me,Anouk & Douwe Bob,2014,"featuring, 2015 single", 
+1648,Mr. Bojangles,Sammy Davis Jr.,1967,"jazz, swing, oldies, rat pack, male vocalists",jazz
+1649,Zij,Marco Borsato,2002,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1650,Hey Ya!,OutKast,2004,"hip-hop, funk, rap, soul, hip hop",hiphop
+1651,Love Is All,Roger Glover & Guests,1975,"rock, my autumn of 00, songs that remind me of robik, 70s, classic rock",rock
+1652,Call Me The Breeze,J.J. Cale,1972,"blues, blues rock, singer-songwriter, rock, classic rock",blues
+1653,Uit M'n Bol,André Hazes,1993,"dutch, nederlandstalig, folk, levenslied, pop",nederlandstalig
+1654,Vogue,Madonna,1990,"pop, dance, 80s, female vocalists, electronic",pop
+1655,What's Love Got To Do With It,Tina Turner,1984,"pop, soul, rock, female vocalists, 80s",pop
+1656,Touch Me,The Doors,1969,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+1657,You Could Be Mine,Guns N' Roses,1991,"hard rock, rock, classic rock, 80s, guns n roses",rock
+1658,Proosten,Guus Meeuwis,2007,"dutch, pop, nederlandstalig, nederpop, carnaval",nederlandstalig
+1659,Get Up Stand Up,Bob Marley & The Wailers,1973," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+1660,Hard To Handle,The Black Crowes,1990,"blues, Hard Rock, southern rock, blues rock, rock, hard rock, classic rock",blues
+1661,One More Try,George Michael,1988,"pop, duo, 80s, soul, british, dance",pop
+1662,Bagagedrager,Spinvis,2002,"dutch, singer-songwriter, alternative, indie, nederlandstalig",nederlandstalig
+1663,Around The World,Daft Punk,1997,"electronic, 90s, house, dance, techno, electronica",electronic
+1664,I Want You To Want Me (Live),Cheap Trick,1979,"classic rock, rock, power pop, hard rock, 80s",rock
+1665,Tell Him,Céline Dion & Barbra Streisand,1997,"duets, female vocalists, 90s, céline dion, duett", 
+1666,Hypnotize,Notorious B.I.G.,1997,"hip-hop, rap, gangsta rap, east coast rap, hip hop",hiphop
+1667,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,1967,"soul, motown, rhythm and blues, duets, oldies",soul
+1668,Luka,Suzanne Vega,1987,"singer-songwriter, folk, female vocalists, pop, alternative",pop
+1669,All Star,Smash Mouth,1999,"alternative rock, neo-ska, rock, alternative, ska, pop",rock
+1670,Panama,Van Halen,1984,"hard rock, classic rock, rock, heavy metal, 80s",rock
+1671,Feeling Good,Muse,2001,"alternative rock, rock, alternative, progressive rock, british",rock
+1672,Polly,Nirvana,1991,"grunge, alternative rock, rock, alternative, 90s",rock
+1673,Hide In Your Shell,Supertramp,1974,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+1674,Een Meisje Van 16,Boudewijn de Groot,1965,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+1675,Out Of Space,Prodigy,1993,"hip hop, electronic, hip-hop, big beat, rave, rap",hiphop
+1676,Texas Sun,Khruangbin & Leon Bridges,2019,"soul, rock, psychedelic, funk",soul
+1677,I Won't Give Up,Jason Mraz,2012,"acoustic, singer-songwriter, pop, alternative, rock",pop
+1678,Ventura Highway,America,1972,"soft, rock, 70s, classic rock, soft rock, folk",rock
+1679,Master Blaster (Jammin'),Stevie Wonder,1980,"soul, funk, motown, pop, 70s",soul
+1680,Somebody To Love,Jefferson Airplane,1967,"psychedelic rock, classic rock, 60s, psychedelic, rock",rock
+1681,Me Gustas Tu,Manu Chao,2001,"rock, reggae, punk, ska, latin, world, alternative",rock
+1682,Something Happened On The Way To Heaven,Phil Collins,1990,"rock, pop, 80s, classic rock, soft rock",rock
+1683,Europa (Earth's Cry Heaven's Smile),Santana,1976,"Latin, rock, classic rock, latin, guitar, latin rock",latin
+1684,Racing In The Street,Bruce Springsteen,1975,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1685,Live To Tell,Madonna,1986,"pop, dance, 80s, female vocalists, electronic",pop
+1686,Spanish Stroll,Mink Deville,1977,"rock, rhythm and blues, proto punk, 80s, classic rock",rock
+1687,Monkey Gone To Heaven,Pixies,1989,"alternative rock, alternative, indie, rock, indie rock",rock
+1688,I Don't Want To Talk About It,Rod Stewart,1977,"classic rock, rock, 70s, soft rock, pop",rock
+1689,Maybe Tomorrow,Stereophonics,2003,"rock, britpop, indie, alternative, indie rock",rock
+1690,Fire And Rain,James Taylor,1970,"singer-songwriter, folk, acoustic, classic rock, james taylor",pop
+1691,Live And Let Die,Paul McCartney & Wings,1973,"classic rock, rock, 70s, british, pop",rock
+1692,It's A Beautiful Day,Queen,1995,"classic rock, rock, hard rock, glam rock, 80s",rock
+1693,The Life I Live,Q65,1966,"garage rock, psychedelic rock, 60s, dutch, psychedelic",rock
+1694,Overture (Tommy),The Who,1969,"rock, classic rock, 60s, british, hard rock",rock
+1695,Make It Wit Chu,Queens Of The Stone Age,2008,"stoner rock, robot rock, robot…, alternative rock, rock, hard rock, alternative",rock
+1696,Harvest,Neil Young,1972,"classic rock, rock, singer-songwriter, folk, folk rock",rock
+1697,Rock With You,Michael Jackson,1979,"pop, 80s, michael jackson, soul, dance",pop
+1698,Out In The Fields,Gary Moore & Phil Lynott,1985,"classic rock, rock, hard rock, blues, 80s",rock
+1699,Meer Dan Een Ander,Van Dik Hout,1994,"dutch, nederlandstalig, nederpop, pop, nederlands",nederlandstalig
+1700,Love Really Hurts Without You,Billy Ocean,1976,"pop, soul, 80s, disco, 7soul",pop
+1701,'T Roeie Klied,Rowwen Hèze,1995,"dutch, folk, limburg, nederlandstalig, nederpop",nederlandstalig
+1702,Ik Heb Je Lief,Stef Bos,1992,"nederlandstalig, singer-songwriter, dutch, kleinkunst, pop",nederlandstalig
+1703,Nightporter,Japan,1980,"glam rock, Motown, glam…, new wave, post-punk, 80s, new romantic, electronic",rock
+1704,Magnificent (She Says),Elbow,2016,"alternative rock, indie, alternative, indie rock, britpop, rock",rock
+1705,Love On Top,Beyoncé,2011,"rnb, pop, female vocalists, soul, beyonce",soul
+1706,I Can't Make You Love Me,Bonnie Raitt,1991,"blues, female vocalists, singer-songwriter, country, rock",blues
+1707,Wonderful World,Sam Cooke,1960,"soul, rhythm and blues, oldies, gospel, 60s",soul
+1708,Move On Up,Curtis Mayfield,1970,"soul, funk, rhythm and blues, singer-songwriter, blaxploitation, 70s, rnb",soul
+1709,Jerusalema,Master KG ft. Nomcebo,2020,"house, dance, electronic, south africa, gqom",electronic
+1710,Heathens,Twenty One Pilots,2016,"Fueled By Ramen, alternative, electronic, indie, rap, indie pop",rock
+1711,The Eyes Of Jenny,Sandy Coast,1981,"psychedelic, rock, 70s, psychedelic rock, 60s",rock
+1712,Break My Stride,Matthew Wilder,1984,"80s, pop, one hit wonder, reggae, american",pop
+1713,Black Dog,Led Zeppelin,1971,"classic rock, hard rock, rock, 70s, progressive rock",rock
+1714,Lover Of The Light,Mumford & Sons,2012,"folk, indie, british, acoustic, indie folk",folk
+1715,In Your Eyes,Peter Gabriel,1986,"singer-songwriter, progressive rock, rock, classic rock, peter gabriel",pop
+1716,King Kunta,Kendrick Lamar,2015,"hip-hop, rap, hip hop, west coast, kendrick lamar",hiphop
+1717,Love Shack,B-52's,1989,"rock, new wave, pop, 80s, alternative",rock
+1718,Counting Stars,OneRepublic,2013,"rock, pop rock, alternative, alternative rock, pop",rock
+1719,Enola Gay,Orchestral Manoeuvres In The Dark,1980,"synthpop, new wave, 80s, electronic, synth pop",electronic
+1720,Mad World,Tears For Fears,1983,"pop, rock, ska, new wave, synthesiser, 80s, synth pop",pop
+1721,Blue Suede Shoes,Elvis Presley,1956,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1722,Gold On The Ceiling,The Black Keys,2011,"psychedelic rock, blues rock, rock, blues, indie rock, garage rock",rock
+1723,It's Raining Men,The Weather Girls,1983,"disco, pop, 80s, soul, female vocalists",pop
+1724,Family Portrait,P!nk,2002,"pop, pop rock, female vocalists, rock, pink",pop
+1725,I'll Be Over You,Toto,1986,"American, rock, 70s, classic rock, 80s, progressive rock, pop",rock
+1726,One,Johnny Cash,2000,"country, folk, singer-songwriter, classic rock, christmas",country
+1727,Angel Of Harlem,U2,1988," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1728,Virtual Insanity,Jamiroquai,1996,"funk, acid jazz, dance, electronic, pop",soul
+1729,Venise (Elle Voulait Qu'on L'Appelle),Julien Clerc,1976,"chanson francaise, french, pop, chanson, herz", 
+1730,Happiness,Jonathan Jeremiah,2011,"folk, soul, singer-songwriter, acoustic, british",folk
+1731,Royals,Lorde,2013,"pop, indie pop, electronic, indie, new zealand",pop
+1732,I Won't Let You Down,Ph.D.,1981,"power pop, pop, home collection, 80s, 1981",rock
+1733,Into The Mystic,Van Morrison,1970,"classic rock, singer-songwriter, folk, blues, rock",rock
+1734,Return To Sender,Elvis Presley,1962,"Rock and Roll, rock n roll, classic rock, oldies, christmas, rock",rock
+1735,Common People,Pulp,1995,"alternative rock, britpop, indie, british, 90s, alternative",rock
+1736,There Must Be An Angel (Playing With My Heart),Eurythmics,1985,"pop, 80s, new wave, female vocalists, synth pop",pop
+1737,Songbird,Eva Cassidy,1997,"female vocalists, jazz, folk, blues, singer-songwriter",jazz
+1738,Home By The Sea,Genesis,1983,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+1739,Fly Like An Eagle,Steve Miller Band,1976,"classic rock, rock, 70s, psychedelic, 80s",rock
+1740,Don't You Worry Child,Swedish House Mafia ft. John Martin,2012,"house, electronic, dance, electro house, electro",electronic
+1741,The Cross,Prince,1987,"funk, pop, soul, 80s, rock",soul
+1742,Born To Be Alive,Patrick Hernandez,1979,"disco, 70s, dance, pop, french",pop
+1743,Vienna,Billy Joel,1977,"classic rock, singer-songwriter, rock, pop, piano",rock
+1744,Under My Thumb,The Rolling Stones,1966,"classic rock, rock, 60s, british, blues",rock
+1745,Gute Nacht Freunde,Reinhard Mey,1974,"liedermacher, deutsch, singer-songwriter, german, reinhard mey", 
+1746,Don't Know Why,Norah Jones,2002,"jazz, female vocalists, blues, singer-songwriter, pop",jazz
+1747,"See Me, Feel Me",The Who,1970,"rock, classic rock, 60s, british, hard rock",rock
+1748,Waterloo Sunset,The Kinks,1967,"classic rock, 60s, rock, british, british invasion",rock
+1749,Up Around The Bend,Creedence Clearwater Revival,1970,"rock, classic rock, southern rock, 60s, folk",rock
+1750,World Of Hurt,Ilse DeLange,1998,"dutch, female vocalists, country, pop, singer-songwriter",nederlandstalig
+1751,Ain't Nobody,Rufus & Chaka Khan,1984,"funk, soul, disco, rhythm and blues, 70s",soul
+1752,Goud,Suzan & Freek,2021,"pop, dutch, acoustic, netherlands, nederlands",pop
+1753,The Way You Take Time,Joe Buck,2019,"country, cowpunk, hellbilly, stoner rock, psychobilly",country
+1754,Every Teardrop Is A Waterfall,Coldplay,2011,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1755,Have You Ever Been Mellow,Party Animals,1996,"happy hardcore, all, gabber, hardcore, electronic",electronic
+1756,Fox On The Run,Sweet,1975,"70s, rock, glam rock, hard rock, bubblegum, classic rock",rock
+1757,White Flag,Dido,2003,"British, pop, female vocalists, chillout, singer-songwriter, dido",pop
+1758,West End Girls,Pet Shop Boys,1986,"synthpop, pop, electronic, 80s, new wave",electronic
+1759,A Hard Day's Night,The Beatles,1964," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1760,Pyro,Kings Of Leon,2010,"so…, rock, indie, indie rock, alternative, southern rock",rock
+1761,De Waarheid,Marco Borsato,1996,"dutch, pop, nederlandstalig, nederpop, nederlands",nederlandstalig
+1762,Stuck In A Moment You Can't Get Out Of,U2,2000," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1763,Is This Love,Whitesnake,1987,"hard rock, blues rock, heavy metal, 80s, arena …, classic rock, rock, hair metal",rock
+1764,Poker Face,Lady Gaga,2009,"pop, dance, electronic, female vocalists, lady gaga",pop
+1765,Will You Be There,Michael Jackson,1993,"pop, 80s, michael jackson, soul, dance",pop
+1766,Don't Look Back,Boston,1978,"rock, classic rock, hard rock, 80s, 70s",rock
+1767,Midnight Rambler,The Rolling Stones,1969,"classic rock, rock, 60s, british, blues",rock
+1768,Yellow Submarine,The Beatles,1966," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1769,Rock And Roll,Led Zeppelin,1971,"classic rock, hard rock, rock, 70s, progressive rock",rock
+1770,Pretty Fly (For A White Guy),Offspring,1999,"punk rock, punk, rock, alternative rock, alternative",rock
+1771,Sweet Disposition,The Temper Trap,2010,"indie rock, indie, australian, alternative, rock",rock
+1772,Hart Van Mijn Gevoel,De Kast,1999,"pop, dutch, frisian, rock, nederlandstalig",pop
+1773,Love Yourself,Justin Bieber,2016,"pop, rnb, justin bieber, black metal, christmas",pop
+1774,Won't Get Fooled Again,The Who,1971,"rock, classic rock, 60s, british, hard rock",rock
+1775,Wild Hearts,Di-rect,2020,"alternative rock, rock, pop rock, dutch, pop, male vocalists",rock
+1776,Water Of Love,Dire Straits,1978,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+1777,Vertigo,U2,2004," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1778,Forever Man,Eric Clapton,1985,"blues, classic rock, blues rock, rock, guitar",blues
+1779,Detroit Rock City,KISS,1976,"hard rock, glam rock, classic rock, rock, 80s",rock
+1780,Twist And Shout,The Beatles,1963," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1781,Heavy Cross,Gossip,2009,"indie rock, indie, female vocalists, rock, electronic",rock
+1782,Desert Rose,Sting & Cheb Mami,2000,"rock, pop, classic rock, british, sting",rock
+1783,Fire (Live),Bruce Springsteen,1986,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1784,Sunrise,Simply Red,2003,"punk, pop, soul, 80s, british, simply red",rock
+1785,Shut Up And Dance,Walk The Moon,2014,"indie, indie rock, indie pop, american, alternative",rock
+1786,Als De Zon Schijnt,André van Duin,1983,"dutch, comedy, humor, all, nederlandstalig",nederlandstalig
+1787,Open Your Eyes,Guano Apes,1997,"alternative metal, crossover, alternative rock, rock, alternative, female vocalists, german",rock
+1788,La Isla Bonita,Madonna,1987,"pop, dance, 80s, female vocalists, electronic",pop
+1789,Liquid Spirit (Claptone Remix),Gregory Porter,2015,"jazz, soul, vocal jazz, smooth jazz, jazz vocal",jazz
+1790,Invisible Touch,Genesis,1986,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+1791,Skyward,Davina Michelle,2019,"pop, dutch, female vocalist, netherlands, linedance 2021",pop
+1792,Original Sin,INXS,1984,"rock, new wave, 80s, australian, pop",rock
+1793,Little Talks,Of Monsters And Men,2012,"indie folk, indie, folk, icelandic, indie pop",rock
+1794,Cats In The Cradle,Ugly Kid Joe,1993,"hard rock, rock, 90s, alternative rock, metal",rock
+1795,Pa Olvidarte,Emma Heesters & Rolf Sanchez,2019,linedance 2019, 
+1796,Dancing With Tears In My Eyes,Ultravox,1984,"new wave, synthpop, 70s, New Romantic, dark, post-punk, glam rock, 80s, new romantic, synth pop",rock
+1797,Close To The Edge,Yes,1972,"progressive rock, classic rock, rock, british, yes",rock
+1798,Damn Those Eyes,Kane,1999,"rock, alternative rock, dutch, pop, pop rock",rock
+1799,Into Temptation,Crowded House,1989,"rock, pop, 80s, australian, new zealand",rock
+1800,Woman,Wolfmother,2005,"hard rock, rock, stoner rock, australian, alternative",rock
+1801,Dancin' Fool,Frank Zappa,1979,"doo-wop, rhythm and blues, progressive rock, experimental, rock, jazz, classic rock",blues
+1802,Beast Of Burden,The Rolling Stones,1978,"classic rock, rock, 60s, british, blues",rock
+1803,Heaven,Avicii ft. Chris Martin,2019,"house, electronic, dance, progressive house, electro house",electronic
+1804,An End Has A Start,Editors,2007,"indie rock, post-punk revival, indie, british, alternative, rock",rock
+1805,Ms. Jackson,OutKast,2001,"hip-hop, funk, rap, soul, hip hop",hiphop
+1806,Just The Way You Are,Bruno Mars,2010,"pop, rnb, male vocalists, r&b, bruno mars",pop
+1807,Locked Out Of Heaven,Bruno Mars,2012,"pop, rnb, male vocalists, r&b, bruno mars",pop
+1808,Happier Than Ever,Billie Eilish,2021,"pop, indie pop, electropop, indie, alternative",pop
+1809,I'm Yours,Jason Mraz,2008,"acoustic, singer-songwriter, pop, alternative, rock",pop
+1810,Beast Of Burden,Bette Midler,1984,"female vocalists, pop, 80s, rock, bette midler",pop
+1811,Last Train Home,John Mayer,2021,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+1812,Lovesong,The Cure,1989,"new wave, post-punk, 80s, alternative, rock",rock
+1813,Breakeven,The Script,2009,"pop rock, rock, pop, irish, acoustic",rock
+1814,Sausolito Summernight,Diesel,1980,"dubstep, rock, alternative rock, filthstep, blues-rock",electronic
+1815,Girls Just Want To Have Fun,Cyndi Lauper,1984,"pop, 80s, female vocalists, new wave, rock",pop
+1816,Mmm Mmm Mmm Mmm,Crash Test Dummies,1993,"rock, alternative rock, alternative, canadian, 90s",rock
+1817,Josephine,Chris Rea,1985,"singer-songwriter, rock, blues, classic rock, soft rock",pop
+1818,Gold,Prince,1995,"funk, pop, soul, 80s, rock",soul
+1819,Love Of The Common People,Paul Young,1984,"pop, 80s, new wave, british, male vocalists",pop
+1820,Your Love,Outfield,1986,"arena rock, pop rock, power pop, power trio, new wave, 80s, rock, classic rock, pop, british",rock
+1821,You Win Again,Bee Gees,1987,"disco, pop, 70s, classic rock, british artist",pop
+1822,Se Bastasse Una Canzone,Eros Ramazzotti,1990,"italian, pop, italian pop, male vocalists, eros ramazzotti",pop
+1823,Lego House,Ed Sheeran,2012,"singer, songwriter, acoustic, british, singer-songwriter, pop, folk",pop
+1824,New York Minute,Don Henley,1989,"classic rock, rock, 80s, singer-songwriter, soft rock",rock
+1825,Homburg,Procol Harum,1967,"progressive rock, blues, progre…, classic rock, 60s, rock, psychedelic",rock
+1826,You Make Lovin' Fun,Fleetwood Mac,1978,"rock, classic rock, 70s, blues, fleetwood mac",rock
+1827,No Son Of Mine,Genesis,1991,"progressive rock, pro…, classic rock, rock, 80s, genesis",rock
+1828,No Diggity,Blackstreet ft. Dr Dre,1996,"rnb, hip-hop, 90s, soul, rap",soul
+1829,Budapest,George Ezra,2014,"singer-songwriter, bluesy, mournful, indie, folk, british, indie folk",pop
+1830,Voir Un Ami Pleurer,Jacques Brel,1961,"chanson, french, chanson francaise, singer-songwriter, jacques brel",pop
+1831,Twist In My Sobriety,Tanita Tikaram,1988,"pop, female vocalists, 80s, singer-songwriter, rock",pop
+1832,Rearviewmirror,Pearl Jam,1993,"rock, grunge, alternative rock, 90s, alternative",rock
+1833,Accidentally In Love,Counting Crows,2004,"rock, alternative rock, alternative, 90s, pop",rock
+1834,Hopeless Wanderer,Mumford & Sons,2013,"folk, indie, british, acoustic, indie folk",folk
+1835,Dancing On My Own,Calum Scott,2016,"pop, british, hairy chest, acoustic, cover",pop
+1836,Blinded By The Light,Manfred Mann's Earth Band,1976,"progressive rock, classic rock, rock, art rock, 70s",rock
+1837,In My Place,Coldplay,2002,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1838,Do It Again,Steely Dan,1972,"jazz rock, classic rock, rock, 70s, steely dan",rock
+1839,How Soon Is Now,The Smiths,1984,"indie, post-punk, 80s, new wave, alternative",rock
+1840,Buffalo Soldier,Bob Marley & The Wailers,1983," reggae, reggae, roots reggae, bob marley, ska, roots",reggae
+1841,Stranger In Moscow,Michael Jackson,1996,"pop, 80s, michael jackson, soul, dance",pop
+1842,Hold On Tight,Solomon Burke & De Dijk,2010,"soul, americana, dutch, usa",soul
+1843,Wer Bisto,Twarres,2000,"pop, dutch, folk, singer-songwriter, frisian",pop
+1844,It Was A Very Good Year,Frank Sinatra,1968,"swing, jazz, christmas, oldies, vocal jazz",jazz
+1845,The Drugs Don't Work,The Verve,1997,"alternative rock, britpop, rock, alternative, british, indie",rock
+1846,When I Come Around,Green Day,1995,"punk rock, rock, punk, pop punk, alternative",rock
+1847,Gloria (Live),U2,1983," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1848,"Ob-La-Di, Ob-La-Da",The Beatles,1969," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1849,I Want You,Bob Dylan,1966,"poet, folk, singer-songwriter, classic rock, folk rock, 60s",folk
+1850,Domino,Clouseau,1990,"belgian, pop, nederlandstalig, belgium, vlaams",pop
+1851,Let's Groove,"Earth, Wind & Fire",1981,"American, funk, 70s, soul, disco, rnb",rock
+1852,She's The One,Robbie Williams,1999,"pop, britpop, british, rock, swing",pop
+1853,Can't Stand Losing You,The Police,1979,"new wave, rock, 80s, classic rock, pop",rock
+1854,Leave The Door Open,Silk Sonic,2021,"soul, funk, rnb, pop, 2021",soul
+1855,Dakota,Stereophonics,2005,"rock, britpop, indie, alternative, indie rock",rock
+1856,Can't Get It Out Of My Head,﻿Electric Light Orchestra,1975, , 
+1857,Babel,Mumford & Sons,2013,"folk, indie, british, acoustic, indie folk",folk
+1858,Isn't It Time,The Babys,1977,"pop rock, 70s, 80s, power pop, classic rock, rock, japanese, hard rock",rock
+1859,Break On Through (To The Other Side),The Doors,1967,"rock, classic rock, psychedelic rock, 60s, psychedelic",rock
+1860,Mercy,Muse,2015,"alternative rock, rock, alternative, progressive rock, british",rock
+1861,Famous Blue Raincoat,Leonard Cohen,1971,"folk, singer-songwriter, canadian, leonard cohen, blues",folk
+1862,Everybody (Backstreet's Back),Backstreet Boys,1997,"pop, boybands, 90s, dance, backstreet boys",pop
+1863,Toxic,Britney Spears,2004,"pop, dance, britney spears, female vocalists, sexy",pop
+1864,Grenade,Bruno Mars,2010,"pop, rnb, male vocalists, r&b, bruno mars",pop
+1865,We Belong To The Night,Ellen Foley,1979,"rock, 80s, american, female vocalists",rock
+1866,The Road To Mandalay,Robbie Williams,2001,"pop, britpop, british, rock, swing",pop
+1867,The Worker,Fischer-Z,1979,"new wave, 80s, british, post-punk, rock",rock
+1868,Cold,Chris Stapleton,2020,"country, americana, singer-songwriter, bluegrass, folk",country
+1869,Tumble And Fall,Johan,2001,"dutch, pop, rock, indie pop, excelsior",nederlandstalig
+1870,My Name Is,Eminem,1999,"rap, hip-hop, eminem, hip hop, pop",hiphop
+1871,Smooth,Santana & Rob Thomas,2000,"Latin, rock, classic rock, latin, guitar, latin rock",latin
+1872,Diamonds And Pearls,Prince & The New Power Generation,1991,"funk, pop, soul, prince, rock",soul
+1873,Woman From Tokyo,Deep Purple,1973,"hard rock, heavy metal, progressive, classic rock, rock, progressive rock",rock
+1874,All Summer Long,Kid Rock,2008,"hip-hop, rap metal, blues-rock, hard rock, southern rock, funk, country, cou…, rock, alternative rock, alternative, kid rock",hiphop
+1875,Ordinary People,John Legend,2005,"soul, rnb, neo-soul, singer-songwriter, hip-hop",soul
+1876,Prikkebeen,Boudewijn de Groot,1968,"dutch, singer-songwriter, nederlandstalig, folk, kleinkunst",nederlandstalig
+1877,My Hero (Live),Foo Fighters,2006,"rock, alternative rock, grunge, alternative, hard rock",rock
+1878,How Can We Hang On To A Dream,Tim Hardin,1967,"folk, singer-songwriter, 60s, blues, acoustic",folk
+1879,Praise You,Fatboy Slim,1998,"big beat, electronic, dance, house, electronica",electronic
+1880,Two Tribes,Frankie Goes To Hollywood,1984,"pop, 80s, new wave, british, dance",pop
+1881,The Wall Street Shuffle,10cc,1974,"classic rock, rock, 70s, british, pop",rock
+1882,My Generation,The Who,1965,"rock, classic rock, 60s, british, hard rock",rock
+1883,Down Man,Brainbox,1969,"blues rock, classic rock, psychedelic rock, dutch, psychedelic",rock
+1884,Fairground,Simply Red,1995,"punk, pop, soul, 80s, british, simply red",rock
+1885,Winter In Hamburg,Frank Boeijen Groep,1987,"nederlandstalig, dutch, nederpop, pop, 80s",nederlandstalig
+1886,Wit Licht,Jeroen van Koningsbrugge,2015,"all, rock, hard rock, acoustic, nederpop",rock
+1887,Calling Elvis,Dire Straits,1991,"British, rock, post-punk, punk, pub rock, classic rock, 80s, blues, guitar",rock
+1888,Met Hart en Ziel,Tröckener Kecks,1990,"dutch, rock, all, nederlandstalig, jesters live list",nederlandstalig
+1889,I Don't Care,Ed Sheeran & Justin Bieber,2019,"pop, party, featuring, wake-up song, uk number one",pop
+1890,Home,Michael Bublé,2005,"jazz, swing, christmas, pop, easy listening",jazz
+1891,"Tonight, Tonight",The Smashing Pumpkins,1995,"alternative rock, rock, grunge, alternative, 90s",rock
+1892,Als Je Wint,Herman Brood & Henny Vrienten,1984,"home collection, 80s, ska, pop, dutch", 
+1893,Send My Love (To Your New Lover),Adele,2016,"singer-songwriter, soul, female vocalists, british, pop",pop
+1894,Steppin' Out,Joe Jackson,1982,"new wave, singer-songwriter, 80s, pop, rock",rock
+1895,Toveren,Herman van Veen,1987,"dutch, singer-songwriter, chanson, kleinkunst, nederlandstalig",nederlandstalig
+1896,Shotgun,George Ezra,2018,"singer-songwriter, bluesy, mournful, indie, folk, british, indie folk",pop
+1897,Get Ready,Rare Earth,1970,"American, rock, 60s, 70s, classic rock, funk, motown, soul",rock
+1898,Je Loog Tegen Mij,Drukwerk,1981,"dutch, nederlandstalig, pop, home collection, other",nederlandstalig
+1899,Never Going Back Again,Fleetwood Mac,1977,"rock, classic rock, 70s, blues, fleetwood mac",rock
+1900,Stay,Rihanna ft. Mikky Ekko,2013,"pop, rnb, dance, female vocalists, rihanna",pop
+1901,For Crying Out Loud,Meat Loaf,1978,"rock, classic rock, hard rock, rock opera, 80s",rock
+1902,Rosalyn,Vitesse,1982,"indie pop, rock, electropop, synth-pop, chicago pop represent",rock
+1903,Working On A Dream,Bruce Springsteen,2008,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1904,Love Is The Drug,Roxy Music,1976,"art rock, glam rock, new wave, experimental, electronic, rock, 70s, 80s",rock
+1905,Dancing In The Moonlight,Toploader,2000,"pop, britpop, british, indie, rock",pop
+1906,No Surrender,Kane,2009,"rock, alternative rock, dutch, pop, pop rock",rock
+1907,Try A Little Tenderness,Otis Redding,1966,"soul, rhythm and blues, 60s, blues, christmas",soul
+1908,I Can't Make You Love Me,George Michael,1997,"pop, duo, 80s, soul, british, dance",pop
+1909,I Surrender,Saybia,2004,"rock, indie, danish, alternative rock, alternative",rock
+1910,Daddy Cool,Boney M.,1976,"disco, pop, dance, 80s, 70s",pop
+1911,Hey There Delilah,Plain White T's,2007,"indie, pop punk, rock, alternative, acoustic",rock
+1912,Honesty,Billy Joel,1978,"classic rock, singer-songwriter, rock, pop, piano",rock
+1913,Mooi Liedje,Acda & De Munnik,1997,"dutch, nederlandstalig, pop, nederpop, nederlands",nederlandstalig
+1914,The Joker,Steve Miller Band,1973,"classic rock, rock, 70s, psychedelic, 80s",rock
+1915,Song Sung Blue,Neil Diamond,1972,"singer-songwriter, classic rock, pop, soft rock, 70s",pop
+1916,Lucky Man,"Emerson, Lake & Palmer",1971,"progressive rock, classic rock, symphonic rock, rock, 70s",rock
+1917,Rhythm Is A Dancer,Snap!,1992,"eurodance, hip-hop, pop, dance, 90s, electronic, techno",electronic
+1918,Kings & Queens,Ava Max,2020,"pop, electropop, female vocalists, american",pop
+1919,Mijn Van Straat Geredde Roos,De Dijk,2008,"dutch, nederlandstalig, nederpop, rock, pop",nederlandstalig
+1920,Tears In The Morning,The Beach Boys,1970,"rock, pop, doo-wop, rock and roll, vocal surf, 60s, California Sound, progressive pop, classical, jazz, rock a…, Cal…, classic rock, surf",rock
+1921,Back Down South,Kings Of Leon,2011,"so…, rock, indie, indie rock, alternative, southern rock",rock
+1922,Green Eyes,Coldplay,2002,"pop, alternative, rock, alternative rock, britpop, coldplay",pop
+1923,Sweet Jane,Lou Reed,1974,"rock, classic rock, singer-songwriter, glam rock, 70s",rock
+1924,Need You Now,Lady Antebellum,2010,"country, modern country, lady antebellum, country pop, rock",country
+1925,Need You Tonight,INXS,1987,"rock, new wave, 80s, australian, pop",rock
+1926,Don't Let Me Be Misunderstood,Santa Esmeralda,1977,"French, Disco, disco, latin, soundtrack, 70s, rock",pop
+1927,You Got It,Roy Orbison,1989,"singer-songwriter, rock and roll, falsetto, classic rock, oldies, rockabilly, 60s, rock",pop
+1928,The Monster,Eminem & Rihanna,2013,"rap, hip-hop, eminem, hip hop, pop",hiphop
+1929,Sylvia's Mother,Dr. Hook & The Medicine Show,1972,"classic rock, 70s, soft rock, rock, oldies",rock
+1930,Sing For Absolution,Muse,2003,"alternative rock, rock, alternative, progressive rock, british",rock
+1931,Fame,David Bowie,1975,"rock, glam rock, classic rock, 80s, 70s",rock
+1932,Monday Monday,The Mamas & The Papas,1966,"vocal group, 60s, classic rock, oldies, rock, pop", 
+1933,All Apologies,Nirvana,1993,"grunge, alternative rock, rock, alternative, 90s",rock
+1934,Karma Chameleon,Culture Club,1983,"80s, new wave, pop, british, synth pop",rock
+1935,We Don't Need Another Hero,Tina Turner,1985,"pop, soul, rock, female vocalists, 80s",pop
+1936,Should I Stay Or Should I Go?,The Clash,1991,"punk rock, 70s, rock and roll, reggae, rockabilly, punk, rock, british, classic rock",rock
+1937,Brilliant Disguise,Bruce Springsteen,1987,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1938,Edge Of Seventeen,Stevie Nicks,1982,"female vocalists, classic rock, rock, singer-songwriter, 80s",rock
+1939,Later Als Ik Groter Ben,Bløf,2012,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1940,More Than This,Roxy Music,1982,"art rock, glam rock, new wave, experimental, electronic, rock, 70s, 80s",rock
+1941,Secret Garden,Bruce Springsteen,1995,"rock, classic rock, singer-songwriter, folk, 80s",rock
+1942,That Was Yesterday,Foreigner,1985,"classic rock, rock, 80s, hard rock, foreigner",rock
+1943,Time Is On My Side,The Rolling Stones,1965,"classic rock, rock, 60s, british, blues",rock
+1944,Laat Mij Maar Alleen,Klein Orkest,1982,"dutch, nederlandstalig, nederpop, pop, nederlands",nederlandstalig
+1945,Hunting High And Low,A-Ha,1986,"pop, new wave, 80s, synth pop, synthpop",pop
+1946,Merry Xmas Everybody,Slade,1973,"glam rock, classic rock, hard rock, rock, 70s",rock
+1947,Papa Can You Hear Me?,Barbra Streisand,1983,"female vocalists, pop, easy listening, 80s, diva",pop
+1948,1 Nacht Alleen,Doe Maar,1983,"ska, dutch, nederpop, reggae, nederlandstalig",reggae
+1949,The Way We Were,Barbra Streisand,1973,"female vocalists, pop, easy listening, 80s, diva",pop
+1950,The Model,Kraftwerk,1978,"electronic, 70s, synthpop, german, electronica, electro",electronic
+1951,The Wild Places,Duncan Browne,1979,"folk, singer-songwriter, baroque pop, british, 11",folk
+1952,When A Man Loves A Woman,Percy Sledge,1966,"R&B, soul, rhythm and blues, 60s, blues, oldies",soul
+1953,Sex Machine,James Brown,1970,"funk, soul, rhythm and blues, blues, christmas",soul
+1954,One Way Or Another (Teenage Kicks),One Direction,2013,"pop, british, one direction, boyband, love at first listen",pop
+1955,It's A Man's Man's Man's World,James Brown,1966,"funk, soul, rhythm and blues, blues, christmas",soul
+1956,If I Could Turn Back Time,Cher,1989,"American, pop, female vocalists, 80s, dance, rock",rock
+1957,Love Games,Level 42,1981,"jazz-funk, 80s, pop, funk, new wave, bass",jazz
+1958,High Hopes,Panic! At The Disco,2018,"alternative, rock, indie, pop punk, alternative rock",rock
+1959,Love Rears Its Ugly Head,Living Colour,1990,"hard rock, funk metal, rock, funk rock, alternative",rock
+1960,Sacrifice,Anouk,1998,"rock, female vocalists, dutch, pop, singer-songwriter",rock
+1961,One Tree Hill,U2,1987," alternative rock, rock, classic rock, u2, irish, alternative",rock
+1962,Why,Annie Lennox,1992,"pop, female vocalists, 80s, singer-songwriter, rock",pop
+1963,Heaven Can Wait,Meat Loaf,1979,"rock, classic rock, hard rock, rock opera, 80s",rock
+1964,Blue Hotel,Chris Isaak,1987,"rock, blues, singer-songwriter, 80s, pop",rock
+1965,Cowboy Like Me,Taylor Swift,2020,"country, pop rock, synth-pop, electro-pop, dance pop, folk pop, indie folk, f…, pop, female vocalists, taylor swift, singer-songwriter",country
+1966,Dance Monkey,Tones And I,2019,"pop, australian, indie pop, alternative, the worst thing ever to happen to music",pop
+1967,Working Class Hero,John Lennon,1970,"classic rock, rock, singer-songwriter, british, pop",rock
+1968,Zondag,Rob de Nijs,1980,"nederlandstalig, pop, dutch, male vocalists, nederpop",nederlandstalig
+1969,This Is My Life,Shirley Bassey,1979,"jazz, soul, female vocalists, pop, oldies",jazz
+1970,Sylvia,Focus,1972,"progressive rock, classic rock, dutch, rock, 70s",rock
+1971,I Sat By The Ocean,Queens Of The Stone Age,2013,"stoner rock, robot rock, robot…, alternative rock, rock, hard rock, alternative",rock
+1972,It's Raining Again,Supertramp,1982,"progressive rock, pop rock, 70s, classic rock, rock, pop",rock
+1973,Heartbreak Warfare,John Mayer,2009,"singer-songwriter, acoustic, rock, pop, john mayer",pop
+1974,Looking Too Closely,Fink,2014,"folk, blues, electronic, indie, singer-songwriter, downtempo, chillout, ninja tune",folk
+1975,Thank U,Alanis Morissette,1998,"rock, female vocalists, alternative, singer-songwriter, pop",rock
+1976,It's Not Unusual,Tom Jones,1965,"pop, oldies, classic rock, male vocalists, rock",pop
+1977,Listen,Beyoncé,2007,"rnb, pop, female vocalists, soul, beyonce",soul
+1978,Let's Get It On,Marvin Gaye,1973,"soul, rnb, motown, funk, rhythm and blues, 70s",soul
+1979,Ain't Talkin' 'bout Love,Van Halen,1978,"hard rock, classic rock, rock, heavy metal, 80s",rock
+1980,Wild Boys,Duran Duran,1984,"electronic, pop rock, New Wave, 80s, 90s, vivid, dance pop, new wave, pop, synth pop, rock",electronic
+1981,Sunny Afternoon,The Kinks,1966,"classic rock, 60s, rock, british, british invasion",rock
+1982,No Rain,Blind Melon,1993,"neo-psychedelic, alternative rock, alterna…, grunge, rock, 90s, alternative",rock
+1983,Long Cool Woman (In A Black Dress),The Hollies,1971,"beat, pop, 60s, folk, supergroup, folk…, classic rock, british, rock, oldies",rock
+1984,Little Red Rooster,Rolling Stones,1965,"classic rock, rock, 60s, british, blues",rock
+1985,I Write Sins Not Tragedies,Panic! At The Disco,2005,"alternative, rock, indie, pop punk, alternative rock",rock
+1986,Let's Stay Together,Al Green,1971,"soul, gospel, 70s, funk, rhythm and blues, rnb",soul
+1987,Here Comes The Rain Again,Eurythmics,1983,"pop, 80s, new wave, female vocalists, synth pop",pop
+1988,Hier,Bløf,2000,"dutch, pop, nederlandstalig, rock, nederpop",nederlandstalig
+1989,Skinny Love,Birdy,2011,"folk, indie, female vocalists, british, singer-songwriter",folk
+1990,So What,Miles Davis,1959,"trumpeter, bandleader, composer, jazz, bebop, cool jazz, hard bop, modal jazz, jazz fusion, c…, trumpet, fusion", 
+1991,Hey Boy Hey Girl,The Chemical Brothers,1999,"electronic, big beat, dance, techno, electronica",electronic
+1992,Crazy In Love,Beyoncé & Jay-Z,2003,"rnb, pop, female vocalists, soul, beyonce",soul
+1993,Long Train Running,The Doobie Brothers,1973,"classic rock, rock, 70s, southern rock, soft rock",rock
+1994,Midnight Sky,Miley Cyrus,2020,"pop, female vocalists, dance, disney, miley cyrus",pop
+1995,Jealous Guy,Roxy Music,1981,"art rock, glam rock, new wave, experimental, electronic, rock, 70s, 80s",rock
+1996,Sunshine Of Your Love,Cream,1968,"blues, hard rock, psychedelic rock, classic rock, blues rock, rock, psychedelic, 60s",blues
+1997,Anarchy In The Uk,Sex Pistols,1976,"punk rock, punk, british, 70s, rock",rock
+1998,I Want To Hold Your Hand,The Beatles,1964," pop rock and beat, classic rock, rock, 60s, british, pop",rock
+1999,Kissing A Fool,George Michael,1988,"pop, duo, 80s, soul, british, dance",pop
+2000,Promises Of No Man's Land,Blaudzun,2014,"singer-songwriter, folk, dutch, indie, alternative",pop
