@@ -6,4 +6,4 @@ Some data visualisation for the Top 2000, 2021.
 - data: resulting csv files of songs, artists and ((super)super)genres and (super)genre counters
 - html: resulting data visualisations 
 
-Accompanying blogpost: https://almaliezenga.com/2021/12/30/top-2000-2021/ 
+Accompanying blogpost: https://almaliezenga.com/blog/top-2000/
